@@ -74,11 +74,17 @@ solver_runs = 1
 if horizon == 1:
     ft_value = 0
     itb_value = 0
-    bench_weight = 0
+    benchg_weight = 0
+    bench1_weight = 0.1
+    bench2_weight = 0
+    bench3_weight = 0
 else:
     ft_value = (1.5 * horizon / 8)
     itb_value = 0.1
-    bench_weight = 0.1
+    benchg_weight = 0.02
+    bench1_weight = 0.2
+    bench2_weight = 0.04
+    bench3_weight = 0
 
 # Get initial squad
 url = f"https://fantasy.premierleague.com/api/entry/{fpl_id}/event/31/picks/"
@@ -129,6 +135,9 @@ if fh_week in gameweeks:
 # Decision Variables
 lineup = pl.LpVariable.dicts('lineup', (players, gameweeks), 0, 1, cat='Integer')
 squad = pl.LpVariable.dicts('squad', (players, all_gw), 0, 1, cat='Integer')
+bench1 = pl.LpVariable.dicts('bench1', (players, gameweeks), 0, 1, cat='Integer')
+bench2 = pl.LpVariable.dicts('bench2', (players, gameweeks), 0, 1, cat='Integer')
+bench3 = pl.LpVariable.dicts('bench3', (players, gameweeks), 0, 1, cat='Integer')
 captain = pl.LpVariable.dicts('captain', (players, gameweeks), 0, 1, cat='Integer')
 vicecap = pl.LpVariable.dicts('vicecap', (players, gameweeks), 0, 1, cat='Integer')
 transfer_in = pl.LpVariable.dicts('transfer_in', (players, gameweeks), 0, 1, cat='Integer')
@@ -192,7 +201,7 @@ for w in gameweeks:
 
 
 # Objective Variable
-gw_xp = {w: pl.lpSum(points_player_week[p][w] * (bench_weight * squad[p][w] + (1 - bench_weight) * lineup[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
+gw_xp = {w: pl.lpSum(points_player_week[p][w] * (lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
 gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] + ft_value * carry[w] for w in gameweeks}
 model += pl.lpSum(gw_total[w] for w in gameweeks)
 
@@ -216,6 +225,12 @@ for w in gameweeks:
     model += pl.lpSum(squad[m][w] for m in midfielders) == 5
     model += pl.lpSum(squad[f][w] for f in forwards) == 3
     model += pl.lpSum(lineup[p][w] for p in players) == 11 + 4 * use_bb[w]
+    model += pl.lpSum(bench1[p][w] for p in players) == 1 - use_bb[w]
+    model += pl.lpSum(bench2[p][w] for p in players) == 1 - use_bb[w]
+    model += pl.lpSum(bench3[p][w] for p in players) == 1 - use_bb[w]
+    model += pl.lpSum(bench1[p][w] for g in goalkeepers) == 0
+    model += pl.lpSum(bench2[p][w] for g in goalkeepers) == 0
+    model += pl.lpSum(bench3[p][w] for g in goalkeepers) == 0
     model += pl.lpSum(lineup[g][w] for g in goalkeepers) == 1 + use_bb[w]
     model += pl.lpSum(lineup[d][w] for d in defenders) >= 3
     model += pl.lpSum(lineup[d][w] for d in defenders) <= 5
@@ -253,6 +268,10 @@ for w in gameweeks:
         model += captain[p][w] <= lineup[p][w]
         model += vicecap[p][w] <= lineup[p][w]
         model += vicecap[p][w] + captain[p][w] <= 1
+        model += bench1[p][w] <= squad[p][w]
+        model += bench2[p][w] <= squad[p][w]
+        model += bench3[p][w] <= squad[p][w]
+        model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
 
 for x in range(solver_runs):
     model.solve(solver)
