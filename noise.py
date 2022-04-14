@@ -201,7 +201,7 @@ for w in gameweeks:
 
 
 # Objective Variable
-gw_xp = {w: pl.lpSum(points_player_week[p][w] * (lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
+gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
 gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] + ft_value * carry[w] for w in gameweeks}
 model += pl.lpSum(gw_total[w] for w in gameweeks)
 
