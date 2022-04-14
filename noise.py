@@ -18,107 +18,39 @@ df = pd.read_csv('data/37353637.csv')
 
 df.set_index('ID', inplace=True)
 
-# Create Lists By Position
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
 players = data.index.tolist()
 
-data_g = df[df['Pos']== 'G'].copy().reset_index()
-data_g.set_index('ID', inplace=True)
-goalkeepers = data_g.index.tolist()
+# Create Lists of Player IDs by Position
+pos_group = data.groupby(data['Pos'])
+goalkeepers = (pos_group.get_group('G')).index.tolist()
+defenders = (pos_group.get_group('D')).index.tolist()
+midfielders = (pos_group.get_group('M')).index.tolist()
+forwards = (pos_group.get_group('F')).index.tolist()
 
-data_d = df[df['Pos']== 'D'].copy().reset_index()
-data_d.set_index('ID', inplace=True)
-defenders = data_d.index.tolist()
-
-data_m = df[df['Pos']== 'M'].copy().reset_index()
-data_m.set_index('ID', inplace=True)
-midfielders = data_m.index.tolist()
-
-data_f = df[df['Pos']== 'F'].copy().reset_index()
-data_f.set_index('ID', inplace=True)
-forwards = data_f.index.tolist()
-
-# Create Lists By Team
-data_ars = df[df['Team'] == 'Arsenal'].copy().reset_index()
-data_ars.set_index('ID', inplace=True)
-arsenal = data_ars.index.tolist()
-
-data_avl = df[df['Team'] == 'Aston Villa'].copy().reset_index()
-data_avl.set_index('ID', inplace=True)
-aston_villa = data_avl.index.tolist()
-
-data_bha = df[df['Team'] == 'Brighton'].copy().reset_index()
-data_bha.set_index('ID', inplace=True)
-brighton = data_bha.index.tolist()
-
-data_bur = df[df['Team'] == 'Burnley'].copy().reset_index()
-data_bur.set_index('ID', inplace=True)
-burnley = data_bur.index.tolist()
-
-data_bre = df[df['Team'] == 'Brentford'].copy().reset_index()
-data_bre.set_index('ID', inplace=True)
-brentford = data_bre.index.tolist()
-
-data_che = df[df['Team'] == 'Chelsea'].copy().reset_index()
-data_che.set_index('ID', inplace=True)
-chelsea = data_che.index.tolist()
-
-data_cpl = df[df['Team'] == 'Crystal Palace'].copy().reset_index()
-data_cpl.set_index('ID', inplace=True)
-crystal_palace = data_cpl.index.tolist()
-
-data_eve = df[df['Team'] == 'Everton'].copy().reset_index()
-data_eve.set_index('ID', inplace=True)
-everton = data_eve.index.tolist()
-
-data_lee = df[df['Team'] == 'Leeds'].copy().reset_index()
-data_lee.set_index('ID', inplace=True)
-leeds = data_lee.index.tolist()
-
-data_lei = df[df['Team'] == 'Leicester'].copy().reset_index()
-data_lei.set_index('ID', inplace=True)
-leicester = data_lee.index.tolist()
-
-data_liv = df[df['Team'] == 'Liverpool'].copy().reset_index()
-data_liv.set_index('ID', inplace=True)
-liverpool = data_liv.index.tolist()
-
-data_mci = df[df['Team'] == 'Man City'].copy().reset_index()
-data_mci.set_index('ID', inplace=True)
-man_city = data_mci.index.tolist()
-
-data_mun = df[df['Team'] == 'Man Utd'].copy().reset_index()
-data_mun.set_index('ID', inplace=True)
-man_utd = data_mun.index.tolist()
-
-data_new = df[df['Team'] == 'Newcastle'].copy().reset_index()
-data_new.set_index('ID', inplace=True)
-newcastle = data_new.index.tolist()
-
-data_nor = df[df['Team'] == 'Norwich'].copy().reset_index()
-data_nor.set_index('ID', inplace=True)
-norwich = data_nor.index.tolist()
-
-data_sou = df[df['Team'] == 'Southampton'].copy().reset_index()
-data_sou.set_index('ID', inplace=True)
-southampton = data_sou.index.tolist()
-
-data_tot = df[df['Team'] == 'Spurs'].copy().reset_index()
-data_tot.set_index('ID', inplace=True)
-tottenham = data_tot.index.tolist()
-
-data_wat = df[df['Team'] == 'Watford'].copy().reset_index()
-data_wat.set_index('ID', inplace=True)
-watford = data_wat.index.tolist()
-
-data_whu = df[df['Team'] == 'West Ham'].copy().reset_index()
-data_whu.set_index('ID', inplace=True)
-west_ham = data_whu.index.tolist()
-
-data_wol = df[df['Team'] == 'Wolves'].copy().reset_index()
-data_wol.set_index('ID', inplace=True)
-wolves = data_wol.index.tolist()
+# Create Lists of Player IDs by Team
+team_group = data.groupby(data['Team'])
+arsenal = (team_group.get_group('Arsenal')).index.tolist()
+aston_villa = (team_group.get_group('Aston Villa')).index.tolist()
+brighton = (team_group.get_group('Brighton')).index.tolist()
+burnley = (team_group.get_group('Burnley')).index.tolist()
+brentford = (team_group.get_group('Brentford')).index.tolist()
+chelsea = (team_group.get_group('Chelsea')).index.tolist()
+crystal_palace = (team_group.get_group('Crystal Palace')).index.tolist()
+everton = (team_group.get_group('Everton')).index.tolist()
+leeds = (team_group.get_group('Leeds')).index.tolist()
+leicester = (team_group.get_group('Leicester')).index.tolist()
+liverpool = (team_group.get_group('Liverpool')).index.tolist()
+man_city = (team_group.get_group('Man City')).index.tolist()
+man_utd = (team_group.get_group('Man Utd')).index.tolist()
+newcastle = (team_group.get_group('Newcastle')).index.tolist()
+norwich = (team_group.get_group('Norwich')).index.tolist()
+southampton = (team_group.get_group('Southampton')).index.tolist()
+tottenham = (team_group.get_group('Spurs')).index.tolist()
+watford = (team_group.get_group('Watford')).index.tolist()
+west_ham = (team_group.get_group('West Ham')).index.tolist()
+wolves = (team_group.get_group('Wolves')).index.tolist()
 
 # Model Set up
 model = pl.LpProblem('model', pl.LpMaximize)
