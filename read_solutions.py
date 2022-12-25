@@ -1,4 +1,4 @@
-f = open('zoom.txt', 'r')
+f = open('review.txt', 'r')
 data = f.readlines()
 counts = {}
 total = 0
@@ -12,3 +12,4 @@ for item in data:
 
 for item in sorted(counts, key=counts.get, reverse=True):
     print(item.strip() + "," + str(counts.get(item)))
+git add

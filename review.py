@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/1.csv')
+df = pd.read_csv('data/17.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -42,25 +42,21 @@ wolves = (team_group.get_group('Wolves')).index.tolist()
 def run_solver():
     # Options
     bb_week = 36
-    wc_week = 1
+    wc_week = 17
     tc_week = 26
     fh_week = 39
-    bank = 0
+    bank = 1.5
     ft_input = 1
-    initial_squad = [307, 518, 146, 285, 312, 448, 477, 283, 293, 19, 346, 486, 28, 237, 318]
+    initial_squad = [307, 254, 357, 33, 16, 106, 533, 19, 283, 13, 160, 346, 297, 66, 318]
 
-    #
-    # fpl_id = 1049
-
-    decay_rate = .9
+    # initial_squad =
+    decay_rate = 0.85
     vc_weight = 0.05
-    horizon = 6
-    noise_magnitude = 0
-    no_transfer_weeks = [2, 3]
-    banned_players = [303, 237, 361, 54, 323, 447, 496, 219, 380, 453]
-    essential_players = [28]
-    #     banned_players = [448, 54, 380, 429, 303, 97, 496, 447, 219, 453, 323, 383, 361, 211]
-    #     essential_players = [283, 285, 146, 518, 307, 19, 318, 142, 237]
+    horizon = 9
+    noise_magnitude = 1
+    no_transfer_weeks = []
+    banned_players = []
+    essential_players = []
 
     if horizon == 1:
         ft_value = 0
@@ -69,9 +65,11 @@ def run_solver():
         bench1_weight = 0.2
         bench2_weight = 0.04
         bench3_weight = 0
+        burn_value = 0
     else:
-        ft_value = (1.5 * horizon / 8)
-        itb_value = 0
+        ft_value = 1
+        two_ft_value = 0.5
+        itb_value = 0.1
         benchg_weight = 0.02
         bench1_weight = 0.2
         bench2_weight = 0.04
@@ -177,7 +175,7 @@ def run_solver():
 
     # Objective Variable
     gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
-    gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] + ft_value * carry[w] for w in gameweeks}
+    gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
     model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
     # Squad Mechanics
@@ -252,7 +250,7 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve(solver)
-    f = open('nonoise.txt', 'a')
+    f = open('review2.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")
@@ -276,13 +274,13 @@ def run_solver():
     #     for p in players:
     #         if transfer_in[p][w].varValue >= 0.5:
     #             f.write(":" + data['Name'][p])
-
-        # f.write(f',{w}Out,')
-        # for p in players:
-        #     if transfer_out[p][w].varValue >= 0.5:
-        #         f.write(":" + data['Name'][p])
-        # # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
-        # f.write("\n")
+    #
+    #     f.write(f',{w}Out,')
+    #     for p in players:
+    #         if transfer_out[p][w].varValue >= 0.5:
+    #             f.write(":" + data['Name'][p])
+    # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
+    #     f.write("\n")
 
 
 # def print_transfers():
@@ -357,6 +355,6 @@ def run_solver():
 #                 if transfer_out[p][w].varValue >= 0.5:
 #                     f.write(f'{w} Out: ' + data['Name'][p] + "\n")
 
-solver_runs = 1
+solver_runs = 25
 for x in range(solver_runs):
     run_solver()
