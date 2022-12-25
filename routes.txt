@@ -1,0 +1,43 @@
+
+
+
+
+
+
+FORCE ODEGAARD
+36In,:Gray:Ødegaard,36Out,:Mount:Elanga
+37In,:Digne,37Out,:Laporte
+38In,:Toney,38Out,:Watkins
+
+FORCE COUTINHO
+36In,:Gray:Coutinho,36Out,:Mount:Elanga
+37In,:Digne,37Out,:Laporte
+38In,:Havertz,38Out,:Coutinho
+
+
+
+
+A: FORCE !JAMES
+36In,:Cancelo:Gray:Ødegaard,36Out,:Mount:James:Elanga
+37In,:Digne,37Out,:Laporte
+38In,:James,38Out,:Digne
+
+B: FORCE ODEGAARD, MADDISON
+36In,:Maddison:Ødegaard,36Out,:Mount:Elanga
+37In,:Digne,37Out,:Laporte
+38In,:Toney,38Out,:Watkins
+
+C: UNCONSTRAINED
+36In,:Maddison:Gray,36Out,:Mount:Elanga
+37In,:Digne,37Out,:Laporte
+38In,:Toney,38Out,:Watkins
+
+D: FORCE !ROBBO, ODEGAARD
+36In,:Dias:Ødegaard,36Out,:Robertson:Elanga
+37In,:Digne,37Out,:Dias
+38In,:Toney,38Out,:Watkins
+
+E: FORCE !ROBBO
+36In,:Dias:Gray,36Out,:Robertson:Elanga
+37In,:Digne,37Out,:Dias
+38In,:Toney,38Out,:Watkins

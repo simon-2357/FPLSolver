@@ -12,9 +12,9 @@ import json
 bb_week = 36
 wc_week = 34
 tc_week = 26
-fh_week = 33
+fh_week = 39
 
-df = pd.read_csv('data/37353637.csv')
+df = pd.read_csv('data/36.csv')
 
 df.set_index('ID', inplace=True)
 
@@ -67,17 +67,18 @@ essential_players = []
 # Model Parameters
 decay_rate = 1
 vc_weight = 0.05
-horizon = 6
+horizon = 5
 noise_magnitude = 0
 solver_runs = 1
+no_transfer_weeks = [35, 36]
 
 if horizon == 1:
     ft_value = 0
     itb_value = 0
-    benchg_weight = 0
+    benchg_weight = 0.01
     bench1_weight = 0.1
-    bench2_weight = 0
-    bench3_weight = 0
+    bench2_weight = 0.01
+    bench3_weight = 0.001
 else:
     ft_value = (1.5 * horizon / 8)
     itb_value = 0.1
@@ -114,13 +115,8 @@ data.loc[data['Pos'] == 'F', ['pos_noise']] = -0.0414
 
 # Add Noise To Point Data
 for w in gameweeks:
-       noise = (0.7293 + data[f'{w}_Pts'] * 0.0044 - data[f'{w}_xMins'] * 0.0083 + (w-next_gw)*0.0092 + data['pos_noise']) * rng.standard_normal(size=len(players)) * noise_magnitude
+       noise = (0.7293 + data[f'{w}_Pts'] * 0.0044 - data[f'{w}_xMins'] * 0.0083 + (w-next_gw) * 0.0092 + data['pos_noise']) * rng.standard_normal(size=len(players)) * noise_magnitude
        data[f'{w}_Pts'] = data[f'{w}_Pts'] * (1 + noise)
-
-# Free Hit Logic - Optimise for everything but the Free Hit Week
-for w in gwminus:
-    if w >= fh_week:
-        data[f'{w}_Pts'] = data[f'{w+1}_Pts']
 
 if fh_week in gameweeks:
     gameweeks = gwminus
@@ -129,6 +125,9 @@ if fh_week in gameweeks:
          wc_week = wc_week - 1
     if fh_week < bb_week:
         bb_week = bb_week - 1
+    for w in gwminus:
+        if w >= fh_week:
+            data[f'{w}_Pts'] = data[f'{w + 1}_Pts']
 
 
 
@@ -203,7 +202,7 @@ for w in gameweeks:
 # Objective Variable
 gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
 gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] + ft_value * carry[w] for w in gameweeks}
-model += pl.lpSum(gw_total[w] for w in gameweeks)
+model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
 # Squad Mechanics
 for w in gameweeks:
@@ -213,9 +212,15 @@ for w in gameweeks:
     model += free_transfers[w] - number_of_transfers[w] >= carry[w]
     model += carry[w] <= 1
     model += hits[w] >= number_of_transfers[w] - free_transfers[w]
-
     for p in players:
         model += squad[p][w] - squad[p][w - 1] == transfer_in[p][w] - transfer_out[p][w]
+
+
+# No transfers logic
+for w in no_transfer_weeks:
+    free_transfers[w] = 0
+    model += carry[w] == 0
+    model += hits[w] == number_of_transfers[w]
 
 # Valid Squad Formation
 for w in gameweeks:
@@ -228,9 +233,9 @@ for w in gameweeks:
     model += pl.lpSum(bench1[p][w] for p in players) == 1 - use_bb[w]
     model += pl.lpSum(bench2[p][w] for p in players) == 1 - use_bb[w]
     model += pl.lpSum(bench3[p][w] for p in players) == 1 - use_bb[w]
-    model += pl.lpSum(bench1[p][w] for g in goalkeepers) == 0
-    model += pl.lpSum(bench2[p][w] for g in goalkeepers) == 0
-    model += pl.lpSum(bench3[p][w] for g in goalkeepers) == 0
+    model += pl.lpSum(bench1[g][w] for g in goalkeepers) == 0
+    model += pl.lpSum(bench2[g][w] for g in goalkeepers) == 0
+    model += pl.lpSum(bench3[g][w] for g in goalkeepers) == 0
     model += pl.lpSum(lineup[g][w] for g in goalkeepers) == 1 + use_bb[w]
     model += pl.lpSum(lineup[d][w] for d in defenders) >= 3
     model += pl.lpSum(lineup[d][w] for d in defenders) <= 5
@@ -278,12 +283,13 @@ for x in range(solver_runs):
 
 def print_transfers():
     for w in gameweeks:
-        for p in players:
-            if transfer_in[p][w].varValue >= 0.5:
-                print(f'{w} In: ' + data['Name'][p])
+        if w > wc_week:
+            for p in players:
+                if transfer_in[p][w].varValue >= 0.5:
+                    print(f'{w} In: ' + data['Name'][p])
 
-            if transfer_out[p][w].varValue >= 0.5:
-                print(f'{w} Out: ' + data['Name'][p])
+                if transfer_out[p][w].varValue >= 0.5:
+                    print(f'{w} Out: ' + data['Name'][p])
 
 def print_lineup(w):
          for p in goalkeepers:
@@ -313,4 +319,10 @@ def print_squad(w):
                   if squad[p][w].varValue >= 0.5:
                      print(f'{w} Fwd: ' + data['Name'][p])
 
+def print_captain(w):
+    for p in players:
+        if captain[p][w].varValue >= 0.5:
+            print(f'{w} Captain: ' + data['Name'][p])
+
 print_squad(34)
+print_transfers()
