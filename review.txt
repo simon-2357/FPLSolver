@@ -1,3750 +1,432 @@
-17 GK: Leno
-17 GK: Sánchez
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Walker
-17 Def: Cancelo
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Carvalho
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: White
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Laporte
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Alexander-Arnold
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Cancelo
-17 Def: Zinchenko
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Def: R.Sessegnon
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Burn
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Aké
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Rashford
-17 Mid: Andreas
-17 Mid: Son
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Stones
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Def: Perraud
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Solanke
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Perišić
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: R.Sessegnon
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Cancelo
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Mount
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Azpilicueta
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Pickford
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Botman
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Willian
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Patterson
-17 Def: Cancelo
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Archer
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: James
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Schär
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Burn
-17 Def: Estupiñán
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Perišić
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Cancelo
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: R.Sessegnon
-17 Def: Perišić
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: James
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mbeumo
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: R.Sessegnon
-17 Def: Diop
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Pickford
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Aké
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Stones
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Chalobah
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: B.Williams
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: James
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: Trippier
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: B.Williams
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Trippier
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Pickford
-17 Def: White
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Laporte
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Stones
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Def: Walker
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Lamptey
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Martinelli
-17 Mid: Mac Allister
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Solanke
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Cancelo
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Wissa
-17 Mid: Trossard
-17 Mid: Mount
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Martínez
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mitoma
-17 Mid: Reed
-17 Mid: Salah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: White
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Archer
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Burn
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Foden
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Edouard
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Lindelöf
-17 Def: Perišić
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Burn
-17 Def: Botman
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: B.Williams
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Willian
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Archer
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: B.Williams
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Lallana
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Foden
-17 Fwd: Mitrović
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Veltman
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Cancelo
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Zaha
-17 Mid: Salah
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Tierney
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Mateta
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Mitrović
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mac Allister
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Ederson
-17 GK: Hennessey
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Trippier
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Aké
-17 Mid: Martinelli
-17 Mid: Zaha
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Trippier
-17 Def: Perišić
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Cancelo
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Pickford
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Lamptey
-17 Def: Cancelo
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Trippier
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Archer
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Tete
-17 Def: Walker
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Lamptey
-17 Def: James
-17 Def: Alexander-Arnold
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Dasilva
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: R.Sessegnon
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Schär
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Trippier
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Zaha
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Aubameyang
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Archer
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Tomiyasu
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: James
-17 Def: Walker
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Jansson
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Akanji
-17 Mid: Saka
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Mee
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: B.Williams
-17 Def: Trippier
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Akanji
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: White
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Botman
-17 Def: Koulibaly
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Chalobah
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Perraud
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Mitrović
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Martínez
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: James
-17 Def: Shaw
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mbeumo
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Wilson
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Shaw
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: B.Williams
-17 Def: Trippier
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Shaw
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Lamptey
-17 Def: James
-17 Def: Alexander-Arnold
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: White
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Carvalho
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Pickford
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: R.Sessegnon
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Zaha
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Milivojevic
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: White
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Trippier
-17 Def: R.Sessegnon
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Robertson
-17 Def: Shaw
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: Bueno
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Shaw
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Ødegaard
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Hennessey
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Digne
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Patterson
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Def: R.Sessegnon
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: White
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Sterling
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Mitoma
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Cucurella
-17 Def: James
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Grealish
-17 Mid: Andreas
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Akanji
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Lyle Taylor
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Gray
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Aké
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Archer
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Sánchez
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Aké
-17 Def: Shaw
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Foden
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Trossard
-17 Mid: Salah
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: N.Williams
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Alexander-Arnold
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Emerson
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Trippier
-17 Def: Bueno
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Zaha
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Gray
-17 Mid: Salah
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Wilson
-17 Mid: Salah
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Tomiyasu
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 Fwd: Aubameyang
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Aubameyang
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Botman
-17 Def: Martínez
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Wissa
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Pulisic
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Foden
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Zaha
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Archer
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Alexander-Arnold
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Botman
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Solanke
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Azpilicueta
-17 Def: Alexander-Arnold
-17 Def: Burn
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Aké
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mitoma
-17 Mid: Salah
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: B.Williams
-17 Mid: Saka
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Willian
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Webster
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Perišić
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Sterling
-17 Mid: Andreas
-17 Fwd: Haaland
-17 Fwd: Martial
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: James
-17 Def: Estupiñán
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Willian
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Aké
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Emerson Royal
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Veltman
-17 Def: Cucurella
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: White
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Walker
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Patterson
-17 Def: Laporte
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Wilson
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Mount
-17 Mid: Foden
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: James
-17 Def: Cancelo
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Perišić
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Estupiñán
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Trippier
-17 Def: Botman
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Cancelo
-17 Def: Koulibaly
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Burn
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Bailey
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Koulibaly
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Foden
-17 Mid: Andreas
-17 Fwd: Archer
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Trippier
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Salah
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Shaw
-17 Def: Perišić
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: De Cordova-Reid
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Thiago Silva
-17 Def: Shaw
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Nketiah
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Andreas
-17 Mid: Willian
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Walker
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Nketiah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Webster
-17 Def: Cucurella
-17 Def: Alexander-Arnold
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Edouard
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Tomiyasu
-17 Def: Gabriel
-17 Def: Alexander-Arnold
-17 Def: Trippier
-17 Def: R.Sessegnon
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Trossard
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Arrizabalaga
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Perišić
-17 Def: Bueno
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Salah
-17 Mid: Rashford
-17 Mid: Andreas
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Wilson
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: Chalobah
-17 Def: Cancelo
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Andreas
-17 Fwd: Greenwood
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Sánchez
-17 GK: Arrizabalaga
-17 Def: Gabriel
-17 Def: James
-17 Def: Alexander-Arnold
-17 Def: Walker
-17 Def: R.Sessegnon
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mount
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Mitrović
-17 Fwd: Greenwood
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Walker
-17 Def: Shaw
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Mitoma
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Mitrović
-17 Fwd: Haaland
-17 Fwd: Martial
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Botman
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Salah
-17 Mid: Rashford
-17 Fwd: Archer
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 GK: Leno
-17 GK: Ederson
-17 Def: Gabriel
-17 Def: Cucurella
-17 Def: James
-17 Def: Koulibaly
-17 Def: Estupiñán
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Groß
-17 Mid: Trossard
-17 Mid: Salah
-17 Fwd: Darwin
-17 Fwd: Haaland
-17 Fwd: Lyle Taylor
-17 GK: Leno
-17 GK: Ederson
-17 Def: Dunk
-17 Def: Cucurella
-17 Def: James
-17 Def: Shaw
-17 Def: Trippier
-17 Mid: Saka
-17 Mid: Martinelli
-17 Mid: Trossard
-17 Mid: Mount
-17 Mid: Foden
-17 Fwd: Mitrović
-17 Fwd: Darwin
-17 Fwd: Haaland
+20In,:Foden:Martínez,20Out,:James:Andreas
+21In,,21Out,
+22In,:Alexander-Arnold:Eriksen,22Out,:Foden:Shaw
+23In,:Akanji,23Out,:Cucurella
+24In,,24Out,
+25In,:Watkins:Bailey,25Out,:Haaland:Eriksen
+26In,:Darwin,26Out,:Greenwood
+27In,:Botman,27Out,:Akanji
+28In,:Digne:Mount,28Out,:Salah:Alexander-Arnold
+20In,:Stones:Varane,20Out,:Cucurella:James
+21In,:Wilson,21Out,:Greenwood
+22In,,22Out,
+23In,:Mahrez:Botman,23Out,:Stones:Rashford
+24In,,24Out,
+25In,:Bailey:Robertson,25Out,:Mahrez:Shaw
+26In,:Buendía,26Out,:Andreas
+27In,,27Out,
+28In,:Watkins:James,28Out,:Robertson:Haaland
+20In,:Stones:Martial,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Mitrović,23Out,:Martial
+24In,:Perišić,24Out,:Stones
+25In,:Kane,25Out,:Haaland
+26In,:Mount,26Out,:Rashford
+27In,:Burn,27Out,:Shaw
+28In,:Watkins:Cash,28Out,:Kane:Perišić
+20In,:Darwin:Dalot,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Gabriel
+22In,,22Out,
+23In,:White,23Out,:Cucurella
+24In,:Bailey,24Out,:Andreas
+25In,:Kane,25Out,:Haaland
+26In,:James:Burn,26Out,:Shaw:Dalot
+27In,,27Out,
+28In,:Mount:Isak,28Out,:Salah:Kane
+20In,:Grealish:Martial,20Out,:Mitrović:Andreas
+21In,:Cash:Alexander-Arnold,21Out,:Cucurella:James
+22In,:Mac Allister,22Out,:Grealish
+23In,:Foden,23Out,:Rashford
+24In,,24Out,
+25In,:Mount:Bamford,25Out,:Foden:Martial
+26In,,26Out,
+27In,:Burn,27Out,:Alexander-Arnold
+28In,:Buendía:Bailey,28Out,:Mac Allister:Salah
+20In,:Aké,20Out,:James
+21In,:Alexander-Arnold,21Out,:Aké
+22In,:Martínez,22Out,:Cucurella
+23In,:Grealish,23Out,:Rashford
+24In,:Dunk,24Out,:Shaw
+25In,:Mount,25Out,:Grealish
+26In,:Buendía,26Out,:Andreas
+27In,:Burn,27Out,:Dunk
+28In,:W.Fofana:Wilson,28Out,:Alexander-Arnold:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Bailey:Darwin,23Out,:Rashford:Martial
+24In,,24Out,
+25In,:R.Sessegnon,25Out,:Shaw
+26In,:Botman,26Out,:Lewis
+27In,:Watkins,27Out,:Mitrović
+28In,:Mount:Schär,28Out,:Salah:Alexander-Arnold
+20In,:Martial,20Out,:Greenwood
+21In,:Mac Allister:Robertson,21Out,:Cucurella:Rashford
+22In,:Fernandes,22Out,:Salah
+23In,:Salah,23Out,:Fernandes
+24In,:Havertz,24Out,:Haaland
+25In,:Alexander-Arnold,25Out,:Shaw
+26In,,26Out,
+27In,:Isak,27Out,:Mitrović
+28In,:Mings:Watkins,28Out,:Alexander-Arnold:Martial
+20In,:Martial,20Out,:Greenwood
+21In,:Matip,21Out,:James
+22In,:Varane,22Out,:Shaw
+23In,:Bailey:Alexander-Arnold,23Out,:Cucurella:Rashford
+24In,,24Out,
+25In,:Kane,25Out,:Haaland
+26In,:Havertz,26Out,:Mitrović
+27In,:Botman,27Out,:Matip
+28In,:Digne:Sterling,28Out,:Salah:Varane
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Bailey,23Out,:Andreas
+24In,:Mount,24Out,:Saka
+25In,:Jesus:Darwin,25Out,:Haaland:Martial
+26In,,26Out,
+27In,:Wilson,27Out,:Darwin
+28In,:James:Saint-Maximin,28Out,:Alexander-Arnold:Rashford
+20In,:Aké:Martial,20Out,:Cucurella:Greenwood
+21In,,21Out,
+22In,:Dunk,22Out,:Aké
+23In,:Cancelo:Lyle Taylor,23Out,:Dunk:Martial
+24In,,24Out,
+25In,:Alexander-Arnold,25Out,:Cancelo
+26In,:Bailey,26Out,:Andreas
+27In,:Isak,27Out,:Mitrović
+28In,:Mount:Wilson,28Out,:Salah:Haaland
+20In,:Dunk:Foden,20Out,:James:Andreas
+21In,,21Out,
+22In,:Alexander-Arnold:Fernandes,22Out,:Cucurella:Salah
+23In,,23Out,
+24In,:Mount,24Out,:Foden
+25In,:Bailey:Salah,25Out,:Fernandes:Rashford
+26In,,26Out,
+27In,:Burn,27Out,:Dunk
+28In,:Watkins:Wilson,28Out,:Mitrović:Haaland
+20In,:Martial,20Out,:Greenwood
+21In,:Alexander-Arnold:Lewis,21Out,:James:Shaw
+22In,:Varane,22Out,:Cucurella
+23In,,23Out,
+24In,:Gray:Perišić,24Out,:Rashford:Lewis
+25In,,25Out,
+26In,:Digne,26Out,:Varane
+27In,:Wilson,27Out,:Mitrović
+28In,:Watkins:Chilwell,28Out,:Alexander-Arnold:Haaland
+20In,:Foden:Varane,20Out,:James:Andreas
+21In,:Mac Allister:Alexander-Arnold,21Out,:Cucurella:Foden
+22In,,22Out,
+23In,:Gündogan,23Out,:Rashford
+24In,:Mount,24Out,:Gündogan
+25In,:Kane,25Out,:Haaland
+26In,:Ings:James,26Out,:Mitrović:Varane
+27In,,27Out,
+28In,:Wilson:Schär,28Out,:Alexander-Arnold:Kane
+20In,:Darwin:Dalot,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Lewis,23Out,:Dalot
+24In,:Bailey,24Out,:Andreas
+25In,:Cresswell,25Out,:Shaw
+26In,:Digne,26Out,:Cresswell
+27In,:Wilson:Isak,27Out,:Greenwood:Darwin
+28In,:Awoniyi,28Out,:Haaland
+20In,:Olise:Martial,20Out,:Mitrović:Andreas
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Grealish,23Out,:Rashford
+24In,:Bailey,24Out,:Grealish
+25In,:Watkins:Kane,25Out,:Haaland:Martial
+26In,:Robertson,26Out,:Shaw
+27In,,27Out,
+28In,:Ramsey:Wilson,28Out,:Salah:Kane
+20In,:Alexander-Arnold:Martial,20Out,:James:Mitrović
+21In,:Robertson,21Out,:Cucurella
+22In,,22Out,
+23In,:Bailey:Cancelo,23Out,:Shaw:Rashford
+24In,,24Out,
+25In,:Jesus:Konsa:Mount,25Out,:Martinelli:Cancelo:Haaland
+26In,:Sterling,26Out,:Andreas
+27In,:Burn,27Out,:Gabriel
+28In,:Cash,28Out,:Alexander-Arnold
+20In,:Stones:Martial,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Mac Allister:Darwin,23Out,:Rashford:Martial
+24In,,24Out,
+25In,:Cresswell,25Out,:Stones
+26In,:Chilwell,26Out,:Cresswell
+27In,:Bailey,27Out,:Andreas
+28In,:Digne:Wilson,28Out,:Haaland:Shaw
+20In,:Aké:Martial,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Aké
+22In,,22Out,
+23In,:Foden,23Out,:Rashford
+24In,:Mount,24Out,:Foden
+25In,:Kane,25Out,:Haaland
+26In,:Buendía,26Out,:Andreas
+27In,:Schär,27Out,:Cucurella
+28In,:Watkins:James,28Out,:Alexander-Arnold:Kane
+20In,:Edouard:Varane,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Gündogan,23Out,:Rashford
+24In,:Bailey,24Out,:Gündogan
+25In,:Watkins,25Out,:Edouard
+26In,:Estupiñán,26Out,:Shaw
+27In,:Havertz,27Out,:Mitrović
+28In,:Ings:Schär,28Out,:Alexander-Arnold:Haaland
+20In,:Aké,20Out,:James
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,:Fernandes,22Out,:Salah
+23In,:Salah,23Out,:Fernandes
+24In,:Mount,24Out,:Rashford
+25In,:Bailey,25Out,:Andreas
+26In,:Cash,26Out,:Aké
+27In,:Wilson:Burn,27Out,:Greenwood:Alexander-Arnold
+28In,:Havertz,28Out,:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Botman,23Out,:Shaw
+24In,:Isak,24Out,:Mitrović
+25In,:Bailey:Darwin,25Out,:Rashford:Martial
+26In,:Mac Allister,26Out,:Andreas
+27In,,27Out,
+28In,:Watkins:James,28Out,:Alexander-Arnold:Haaland
+20In,:Martínez:Akanji,20Out,:Cucurella:James
+21In,:Alexander-Arnold,21Out,:Akanji
+22In,:Antony,22Out,:Rashford
+23In,:Foden,23Out,:Antony
+24In,,24Out,
+25In,:Watkins:Bailey,25Out,:Greenwood:Foden
+26In,,26Out,
+27In,:Wilson,27Out,:Mitrović
+28In,:Coutinho:Chilwell,28Out,:Salah:Alexander-Arnold
+20In,:Martial:Akanji,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Mitrović,23Out,:Martial
+24In,:James,24Out,:Akanji
+25In,:Bailey,25Out,:Andreas
+26In,:Watkins,26Out,:Mitrović
+27In,:Schär,27Out,:Gabriel
+28In,:Burn:Awoniyi,28Out,:Alexander-Arnold:Haaland
+20In,:Edouard:Foden,20Out,:Mitrović:Andreas
+21In,:Robertson,21Out,:James
+22In,:Martínez,22Out,:Cucurella
+23In,,23Out,
+24In,:Mount,24Out,:Foden
+25In,:Bailey:Darwin:Kane,25Out,:Edouard:Haaland:Rashford
+26In,,26Out,
+27In,:Isak,27Out,:Darwin
+28In,:Havertz:Botman,28Out,:Robertson:Kane
+20In,:Aké:Martial,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Ødegaard:Mings,23Out,:Gabriel:Andreas
+24In,,24Out,
+25In,:Watkins:Alisson,25Out,:Ederson:Martial
+26In,,26Out,
+27In,:Burn,27Out,:Aké
+28In,:Havertz:Sterling,28Out,:Haaland:Rashford
+20In,:Grealish:Martial,20Out,:Mitrović:Andreas
+21In,:Rodrigo:Alexander-Arnold,21Out,:James:Grealish
+22In,,22Out,
+23In,:Ødegaard:Burn,23Out,:Gabriel:Rodrigo
+24In,,24Out,
+25In,:Digne:Kane,25Out,:Haaland:Shaw
+26In,:James,26Out,:Cucurella
+27In,,27Out,
+28In,:Thiago Silva:Wilson,28Out,:Alexander-Arnold:Kane
+20In,:Grealish:Martial,20Out,:Mitrović:Andreas
+21In,:Mac Allister:Alexander-Arnold,21Out,:Cucurella:Grealish
+22In,,22Out,
+23In,:Aké,23Out,:Shaw
+24In,:Digne,24Out,:Aké
+25In,:Havertz:Darwin,25Out,:Greenwood:Haaland
+26In,,26Out,
+27In,:Wilson,27Out,:Darwin
+28In,:Watkins:Buendía,28Out,:Salah:Martial
+20In,:Ayew:Edouard,20Out,:Greenwood:Andreas
+21In,:Robertson,21Out,:James
+22In,:Martínez,22Out,:Cucurella
+23In,:Perišić,23Out,:Shaw
+24In,,24Out,
+25In,:Sinisterra,25Out,:Rashford
+26In,:Trossard,26Out,:Sinisterra
+27In,:Isak,27Out,:Mitrović
+28In,:Cucurella:Wilson,28Out,:Robertson:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Bailey:Darwin,23Out,:Rashford:Martial
+24In,,24Out,
+25In,:Digne,25Out,:Shaw
+26In,:Watkins,26Out,:Darwin
+27In,:James:Botman,27Out,:Gabriel:Lewis
+28In,:Isak,28Out,:Haaland
+20In,:Cancelo:Martínez,20Out,:Cucurella:James
+21In,:Alexander-Arnold,21Out,:Cancelo
+22In,,22Out,
+23In,:Robertson,23Out,:Shaw
+24In,:Bailey,24Out,:Andreas
+25In,:Benrahma,25Out,:Rashford
+26In,:Havertz,26Out,:Mitrović
+27In,:Schär,27Out,:Robertson
+28In,:Watkins:Almirón,28Out,:Salah:Haaland
+20In,:Zaha,20Out,:Andreas
+21In,:Mac Allister:Alexander-Arnold,21Out,:James:Zaha
+22In,:Martínez,22Out,:Cucurella
+23In,,23Out,
+24In,:Mount,24Out,:Rashford
+25In,:Kane,25Out,:Haaland
+26In,:Cash,26Out,:Shaw
+27In,:Wilson,27Out,:Mitrović
+28In,:Watkins:Chilwell,28Out,:Alexander-Arnold:Kane
+20In,:Stones,20Out,:James
+21In,:Alexander-Arnold,21Out,:Stones
+22In,:Martínez,22Out,:Cucurella
+23In,:Gündogan,23Out,:Rashford
+24In,:Mount:Dier,24Out,:Gündogan:Shaw
+25In,:Bailey,25Out,:Andreas
+26In,,26Out,
+27In,:Wilson:Schär,27Out,:Mitrović:Martínez
+28In,:Watkins,28Out,:Haaland
+20In,:Aké:Martial,20Out,:James:Greenwood
+21In,:Konaté,21Out,:Cucurella
+22In,,22Out,
+23In,:Mac Allister:Alexander-Arnold,23Out,:Shaw:Rashford
+24In,,24Out,
+25In,:Bailey,25Out,:Andreas
+26In,:Cash,26Out,:Aké
+27In,:Digne,27Out,:Konaté
+28In,:Chilwell:Isak,28Out,:Alexander-Arnold:Haaland
+20In,:Foden:Dalot,20Out,:James:Andreas
+21In,:Botman,21Out,:Cucurella
+22In,,22Out,
+23In,:Matip,23Out,:Shaw
+24In,:Dunk,24Out,:Dalot
+25In,:Watkins:Bailey,25Out,:Greenwood:Foden
+26In,,26Out,
+27In,:Burn,27Out,:Dunk
+28In,:Havertz:Sterling,28Out,:Salah:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Bueno,23Out,:Shaw
+24In,:Havertz,24Out,:Martial
+25In,:Bailey,25Out,:Andreas
+26In,:Martial,26Out,:Mitrović
+27In,:Botman,27Out,:Lewis
+28In,:Watkins:James,28Out,:Alexander-Arnold:Haaland
+20In,:Foden:Martínez,20Out,:James:Andreas
+21In,,21Out,
+22In,:Mac Allister,22Out,:Foden
+23In,:Cancelo,23Out,:Cucurella
+24In,:Alexander-Arnold,24Out,:Cancelo
+25In,:Perišić,25Out,:Shaw
+26In,:Ødegaard,26Out,:Martinelli
+27In,:Bailey,27Out,:Mac Allister
+28In,:Watkins:Sterling,28Out,:Haaland:Rashford
+20In,:Martínez,20Out,:James
+21In,:Alexander-Arnold,21Out,:Shaw
+22In,:Martial,22Out,:Mitrović
+23In,:Cancelo,23Out,:Cucurella
+24In,:Robertson,24Out,:Cancelo
+25In,:Watkins,25Out,:Martial
+26In,:Buendía,26Out,:Rashford
+27In,:Burn,27Out,:Martínez
+28In,:Ings:James,28Out,:Alexander-Arnold:Haaland
+20In,:Cancelo:Martínez,20Out,:Cucurella:James
+21In,:Alexander-Arnold,21Out,:Cancelo
+22In,,22Out,
+23In,:Mahrez,23Out,:Rashford
+24In,:Mac Allister,24Out,:Andreas
+25In,:Bailey:Perišić,25Out,:Mahrez:Martínez
+26In,,26Out,
+27In,:Burn,27Out,:Alexander-Arnold
+28In,:Mings:Havertz,28Out,:Haaland:Perišić
+20In,:Martial,20Out,:Greenwood
+21In,:Alexander-Arnold:Bueno,21Out,:Cucurella:James
+22In,,22Out,
+23In,:De Bruyne,23Out,:Salah
+24In,:Trossard,24Out,:De Bruyne
+25In,:Salah,25Out,:Trossard
+26In,:Botman,26Out,:Shaw
+27In,:Isak,27Out,:Martial
+28In,:Watkins:Mount,28Out,:Haaland:Rashford
+20In,:Aké:Martial,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Aké
+22In,,22Out,
+23In,:White:Foden,23Out,:Gabriel:Rashford
+24In,,24Out,
+25In,:Gray:Mitrović,25Out,:Greenwood:Foden
+26In,,26Out,
+27In,:Watkins:Botman,27Out,:Cucurella:Martial
+28In,:Wilson,28Out,:Haaland
+20In,:Foden:Martial:Botman,20Out,:James:Mitrović:Andreas
+21In,,21Out,
+22In,:Rodrigo,22Out,:Martinelli
+23In,:Martinelli,23Out,:Rodrigo
+24In,:Chilwell,24Out,:Cucurella
+25In,:Bailey:Robertson,25Out,:Foden:Shaw
+26In,:Watkins,26Out,:Martial
+27In,,27Out,
+28In,:Willock:Aubameyang,28Out,:Salah:Haaland
+20In,:Aké,20Out,:James
+21In,:Alexander-Arnold,21Out,:Aké
+22In,:Martial,22Out,:Mitrović
+23In,:Gündogan,23Out,:Rashford
+24In,:Bailey:Mount,24Out,:Gündogan:Andreas
+25In,:Perišić,25Out,:Cucurella
+26In,,26Out,
+27In,:Schär,27Out,:Perišić
+28In,:Digne:Wilson,28Out,:Alexander-Arnold:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,:Bailey,22Out,:Andreas
+23In,,23Out,
+24In,:Mbeumo,24Out,:Martial
+25In,:Kane,25Out,:Haaland
+26In,:Chilwell,26Out,:Shaw
+27In,:Wilson,27Out,:Mitrović
+28In,:Watkins:Sterling,28Out,:Salah:Kane
+20In,:Martial:Perišić,20Out,:James:Mitrović
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Wilson,23Out,:Martial
+24In,:Podence,24Out,:Andreas
+25In,:Watkins:Bailey,25Out,:Rashford:Wilson
+26In,,26Out,
+27In,:Buendía,27Out,:Podence
+28In,:Burn:Botman,28Out,:Alexander-Arnold:Perišić
+20In,:Aké,20Out,:James
+21In,:Alexander-Arnold,21Out,:Aké
+22In,:Martínez,22Out,:Cucurella
+23In,:Robertson:Grealish,23Out,:Shaw:Rashford
+24In,,24Out,
+25In,:Bailey,25Out,:Grealish
+26In,:Trossard,26Out,:Andreas
+27In,:Burn:Kane,27Out,:Robertson:Haaland
+28In,:Ramsey,28Out,:Trossard
+20In,:Cancelo,20Out,:James
+21In,:Konaté,21Out,:Cucurella
+22In,:Mount:Martínez,22Out,:Cancelo:Andreas
+23In,:Foden,23Out,:Rashford
+24In,,24Out,
+25In,:Bailey:Alexander-Arnold,25Out,:Foden:Shaw
+26In,:James,26Out,:Konaté
+27In,:Wilson,27Out,:Mitrović
+28In,:Awoniyi,28Out,:Haaland
+20In,:Martial:Lewis,20Out,:James:Greenwood
+21In,:Alexander-Arnold,21Out,:Cucurella
+22In,,22Out,
+23In,:Bailey:Darwin,23Out,:Rashford:Martial
+24In,,24Out,
+25In,:Watkins,25Out,:Darwin
+26In,:Chilwell,26Out,:Lewis
+27In,:Isak,27Out,:Mitrović
+28In,:Mount:Wilson,28Out,:Salah:Haaland

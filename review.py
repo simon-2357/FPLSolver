@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/17.csv')
+df = pd.read_csv('data/no21.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -41,13 +41,13 @@ wolves = (team_group.get_group('Wolves')).index.tolist()
 
 def run_solver():
     # Options
-    bb_week = 36
-    wc_week = 17
-    tc_week = 26
+    bb_week = 39
+    wc_week = 39
+    tc_week = 39
     fh_week = 39
-    bank = 1.5
-    ft_input = 1
-    initial_squad = [307, 254, 357, 33, 16, 106, 533, 19, 283, 13, 160, 346, 297, 66, 318]
+    bank = 3
+    ft_input = 2
+    initial_squad = [307, 112, 16, 357, 346, 19, 13, 283, 335, 210, 318, 133, 332, 237, 146]
 
     # initial_squad =
     decay_rate = 0.85
@@ -55,8 +55,8 @@ def run_solver():
     horizon = 9
     noise_magnitude = 1
     no_transfer_weeks = []
-    banned_players = []
-    essential_players = []
+    banned_players = [146]
+    essential_players = [345]
 
     if horizon == 1:
         ft_value = 0
@@ -175,7 +175,7 @@ def run_solver():
 
     # Objective Variable
     gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
-    gw_total = {w: gw_xp[w] - 4 * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
+    gw_total = {w: gw_xp[w] - 3 * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
     model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
     # Squad Mechanics
@@ -250,37 +250,37 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve(solver)
-    f = open('review2.txt', 'a')
+    f = open('martialjames.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")
     # for p in players:
     #     if lineup[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Lineup:' + data['Name'][p] + "\n")
-    for p in goalkeepers:
-        if squad[p][next_gw].varValue >= 0.5:
-            f.write(f'{next_gw} GK: ' + data['Name'][p] + "\n")
-    for p in defenders:
-        if squad[p][next_gw].varValue >= 0.5:
-            f.write(f'{next_gw} Def: ' + data['Name'][p] + "\n")
-    for p in midfielders:
-        if squad[p][next_gw].varValue >= 0.5:
-            f.write(f'{next_gw} Mid: ' + data['Name'][p] + "\n")
-    for p in forwards:
-        if squad[p][next_gw].varValue >= 0.5:
-            f.write(f'{next_gw} Fwd: ' + data['Name'][p] + "\n")
-    # for w in gameweeks:
-    #     f.write(f'{w}In,')
-    #     for p in players:
-    #         if transfer_in[p][w].varValue >= 0.5:
-    #             f.write(":" + data['Name'][p])
-    #
-    #     f.write(f',{w}Out,')
-    #     for p in players:
-    #         if transfer_out[p][w].varValue >= 0.5:
-    #             f.write(":" + data['Name'][p])
+    # for p in goalkeepers:
+    #     if squad[p][next_gw].varValue >= 0.5:
+    #         f.write(f'{next_gw} GK: ' + data['Name'][p] + "\n")
+    # for p in defenders:
+    #     if squad[p][next_gw].varValue >= 0.5:
+    #         f.write(f'{next_gw} Def: ' + data['Name'][p] + "\n")
+    # for p in midfielders:
+    #     if squad[p][next_gw].varValue >= 0.5:
+    #         f.write(f'{next_gw} Mid: ' + data['Name'][p] + "\n")
+    # for p in forwards:
+    #     if squad[p][next_gw].varValue >= 0.5:
+    #         f.write(f'{next_gw} Fwd: ' + data['Name'][p] + "\n")
+    for w in gameweeks:
+        f.write(f'{w}In,')
+        for p in players:
+            if transfer_in[p][w].varValue >= 0.5:
+                f.write(":" + data['Name'][p])
+    
+        f.write(f',{w}Out,')
+        for p in players:
+            if transfer_out[p][w].varValue >= 0.5:
+                f.write(":" + data['Name'][p])
     # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
-    #     f.write("\n")
+        f.write("\n")
 
 
 # def print_transfers():
