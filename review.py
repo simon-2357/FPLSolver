@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/no21.csv')
+df = pd.read_csv('data/20-final.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -55,8 +55,8 @@ def run_solver():
     horizon = 9
     noise_magnitude = 1
     no_transfer_weeks = []
-    banned_players = [146]
-    essential_players = [345]
+    banned_players = []
+    essential_players = []
 
     if horizon == 1:
         ft_value = 0
@@ -250,7 +250,8 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve(solver)
-    f = open('martialjames.txt', 'a')
+    f = open('review.txt', 'a')
+    g = open('review2.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")
@@ -274,13 +275,16 @@ def run_solver():
         for p in players:
             if transfer_in[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
+                g.write(f"{w}In:" + data['Name'][p] + "\n")
     
         f.write(f',{w}Out,')
         for p in players:
             if transfer_out[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
+                g.write(f"{w}Out:" + data['Name'][p] + "\n")
     # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
         f.write("\n")
+
 
 
 # def print_transfers():

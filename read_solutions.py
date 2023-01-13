@@ -1,4 +1,4 @@
-f = open('martialjames.txt', 'r')
+f = open('review.txt', 'r')
 data = f.readlines()
 counts = {}
 total = 0
