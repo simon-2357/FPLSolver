@@ -565,3 +565,12 @@
 26In,:Cash,26Out,:Cancelo
 27In,:Schär,27Out,:Shaw
 28In,:Watkins:Botman,28Out,:Alexander-Arnold:Haaland
+20In,:Zaha:Varane,20Out,:James:Andreas
+21In,:Rodrigo:Alexander-Arnold,21Out,:Zaha:Trippier
+22In,,22Out,
+23In,:Tete:Bernardo,23Out,:Cucurella:Rodrigo
+24In,,24Out,
+25In,:Bailey,25Out,:Rashford
+26In,:Buendía,26Out,:Bernardo
+27In,:Schär,27Out,:Tete
+28In,:Watkins:James,28Out,:Alexander-Arnold:Haaland

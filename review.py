@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/20-final.csv')
+df = pd.read_csv('data/20-deadline-odds25.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -68,7 +68,7 @@ def run_solver():
         burn_value = 0
     else:
         ft_value = 1
-        two_ft_value = 0.5
+        two_ft_value = 1.5
         itb_value = 0.1
         benchg_weight = 0.02
         bench1_weight = 0.2
@@ -250,8 +250,8 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve(solver)
-    f = open('review.txt', 'a')
-    g = open('review2.txt', 'a')
+    f = open('deadline1.txt', 'a')
+    g = open('deadline2.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")

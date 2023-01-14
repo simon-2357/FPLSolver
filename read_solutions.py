@@ -1,4 +1,4 @@
-f = open('review.txt', 'r')
+f = open('deadline1.txt', 'r')
 data = f.readlines()
 counts = {}
 total = 0
