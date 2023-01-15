@@ -1,4 +1,4 @@
-f = open('deadline1.txt', 'r')
+f = open('ft2.txt', 'r')
 data = f.readlines()
 counts = {}
 total = 0

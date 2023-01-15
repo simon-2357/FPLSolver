@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/20-deadline-odds25.csv')
+df = pd.read_csv('data/21.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -45,14 +45,14 @@ def run_solver():
     wc_week = 39
     tc_week = 39
     fh_week = 39
-    bank = 3
+    bank = 4.2
     ft_input = 2
-    initial_squad = [307, 112, 16, 357, 346, 19, 13, 283, 335, 210, 318, 133, 332, 237, 146]
+    initial_squad = [307, 112, 16, 357, 346, 19, 13, 283, 335, 210, 318, 133, 332, 237, 533]
 
     # initial_squad =
     decay_rate = 0.85
     vc_weight = 0.05
-    horizon = 9
+    horizon = 8
     noise_magnitude = 1
     no_transfer_weeks = []
     banned_players = []
@@ -67,8 +67,8 @@ def run_solver():
         bench3_weight = 0
         burn_value = 0
     else:
-        ft_value = 1
-        two_ft_value = 1.5
+        ft_value = 1.5
+        two_ft_value = 1
         itb_value = 0.1
         benchg_weight = 0.02
         bench1_weight = 0.2
@@ -250,8 +250,8 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve(solver)
-    f = open('deadline1.txt', 'a')
-    g = open('deadline2.txt', 'a')
+    f = open('ft1.txt', 'a')
+    g = open('ft2.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")
