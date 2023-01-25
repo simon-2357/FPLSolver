@@ -175,7 +175,7 @@ def run_solver():
 
     # Objective Variable
     gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
-    gw_total = {w: gw_xp[w] - 3 * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
+    gw_total = {w: gw_xp[w] - (4 - ft_value) * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
     model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
     # Squad Mechanics
@@ -249,7 +249,7 @@ def run_solver():
             model += bench2[p][w] <= squad[p][w]
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
-    model.solve(solver)
+    model.solve()
     f = open('ft1.txt', 'a')
     g = open('ft2.txt', 'a')
     # for p in players:
@@ -276,13 +276,13 @@ def run_solver():
             if transfer_in[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
                 g.write(f"{w}In:" + data['Name'][p] + "\n")
-    
+    #
         f.write(f',{w}Out,')
         for p in players:
             if transfer_out[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
                 g.write(f"{w}Out:" + data['Name'][p] + "\n")
-    # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
+    # # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
         f.write("\n")
 
 

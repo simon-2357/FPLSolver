@@ -1,4 +1,4 @@
-f = open('ft2.txt', 'r')
+f = open('ft1.txt', 'r')
 data = f.readlines()
 counts = {}
 total = 0
@@ -13,4 +13,4 @@ for item in data:
 for item in sorted(counts, key=counts.get, reverse=True):
     print(item.strip() + "," + str(counts.get(item)))
 
-print("Runs completed: " + str(int(total/9)))
+print("Runs completed: " + str(int(total/8)))
