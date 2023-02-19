@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/21.csv')
+df = pd.read_csv('data/25.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -38,6 +38,14 @@ forest = (team_group.get_group("Nott'm Forest")).index.tolist()
 west_ham = (team_group.get_group('West Ham')).index.tolist()
 wolves = (team_group.get_group('Wolves')).index.tolist()
 
+solver_runs = 25
+
+# NONE (55 BB) 90 / 110
+# FH27 (35 BB) 129 / 70
+# FH28 (40 BB) 120 / 80
+# WC27 (75 BB) 50 / 150
+
+# [771/800]
 
 def run_solver():
     # Options
@@ -45,35 +53,46 @@ def run_solver():
     wc_week = 39
     tc_week = 39
     fh_week = 39
-    bank = 4.2
+    bank = 1
     ft_input = 2
-    initial_squad = [307, 112, 16, 357, 346, 19, 13, 283, 335, 210, 318, 133, 332, 237, 533]
+    initial_squad = [307, 285, 16, 357, 346, 7, 13, 283, 335, 227, 318, 133, 610, 237, 533]
 
-    # initial_squad =
     decay_rate = 0.85
     vc_weight = 0.05
-    horizon = 8
+    horizon = 9
     noise_magnitude = 1
     no_transfer_weeks = []
     banned_players = []
-    essential_players = []
+    essential_players = [284]
+    chips = 'none'
+    composite = True
+
+    f = open(f'{chips}1.txt', 'a')
+    g = open(f'{chips}2.txt', 'a')
+    h = open(f'{chips}3.txt', 'a')
+    
+    if composite:
+      j = open(f'composite1.txt', 'a')
+      k = open(f'composite2.txt', 'a')
+      l = open(f'composite3.txt', 'a')
+
 
     if horizon == 1:
-        ft_value = 0
-        itb_value = 0
-        benchg_weight = 0.02
-        bench1_weight = 0.2
-        bench2_weight = 0.04
-        bench3_weight = 0
-        burn_value = 0
+      ft_value = 0
+      two_ft_value = 0
+      itb_value = 0.1
+      benchg_weight = 0.02
+      bench1_weight = 0.2
+      bench2_weight = 0.04
+      bench3_weight = 0
     else:
-        ft_value = 1.5
-        two_ft_value = 1
-        itb_value = 0.1
-        benchg_weight = 0.02
-        bench1_weight = 0.2
-        bench2_weight = 0.04
-        bench3_weight = 0
+      ft_value = 1.8
+      two_ft_value = 1.2
+      itb_value = 0.1
+      benchg_weight = 0.02
+      bench1_weight = 0.2
+      bench2_weight = 0.04
+      bench3_weight = 0
 
     data = df.copy().reset_index()
     data.set_index('ID', inplace=True)
@@ -87,6 +106,7 @@ def run_solver():
     gameweeks = list(range(next_gw, next_gw + horizon))
     all_gw = [next_gw - 1] + gameweeks
     gwminus = list(range(next_gw, next_gw + horizon - 1))
+    data['TFCost'] = (data['BV'] - data['SV']) * 0.4 * (39 - next_gw - horizon)
 
     if fh_week in gameweeks:
         gameweeks = gwminus
@@ -129,6 +149,7 @@ def run_solver():
     # Budget Things
     player_sv = data['SV'].to_dict()
     player_bv = data['BV'].to_dict()
+    player_tfcost = data['TFCost'].to_dict()
     sold_amount = {w: pl.lpSum(player_sv[p] * transfer_out[p][w] for p in players) for w in gameweeks}
     bought_amount = {w: pl.lpSum(player_bv[p] * transfer_in[p][w] for p in players) for w in gameweeks}
     points_player_week = {p: {w: data.loc[p, f'{w}_Pts'] for w in gameweeks} for p in players}
@@ -174,7 +195,7 @@ def run_solver():
         model += squad[p][next_gw] == 1
 
     # Objective Variable
-    gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w]) for p in players) for w in gameweeks}
+    gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w] - player_tfcost[p] * transfer_out[p][w]) for p in players) for w in gameweeks}
     gw_total = {w: gw_xp[w] - (4 - ft_value) * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
     model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
@@ -250,8 +271,6 @@ def run_solver():
             model += bench3[p][w] <= squad[p][w]
             model += bench1[p][w] + bench2[p][w] + bench3[p][w] <= 1
     model.solve()
-    f = open('ft1.txt', 'a')
-    g = open('ft2.txt', 'a')
     # for p in players:
     #     if captain[p][next_gw].varValue >= 0.5:
     #         f.write(f'{next_gw}:Captain:' + data['Name'][p] + "\n")
@@ -272,18 +291,34 @@ def run_solver():
     #         f.write(f'{next_gw} Fwd: ' + data['Name'][p] + "\n")
     for w in gameweeks:
         f.write(f'{w}In,')
+        if composite:
+          j.write(f'{w}In,')
         for p in players:
             if transfer_in[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
                 g.write(f"{w}In:" + data['Name'][p] + "\n")
+                if composite:
+                  j.write(":" + data['Name'][p])
+                  k.write(f"{w}In:" + data['Name'][p] + "\n")
     #
         f.write(f',{w}Out,')
+        if composite:
+          j.write(f',{w}Out,')
         for p in players:
             if transfer_out[p][w].varValue >= 0.5:
                 f.write(":" + data['Name'][p])
                 g.write(f"{w}Out:" + data['Name'][p] + "\n")
+                if composite:
+                  j.write(":" + data['Name'][p])
+                  k.write(f"{w}Out:" + data['Name'][p] + "\n")
     # # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
         f.write("\n")
+        if composite:
+          j.write("\n")
+    h.write(str(pl.value(model.objective)) + "\n")
+    if composite:
+      l.write(f"{chips} " + str(pl.value(model.objective)) + "\n")
+    # i.write(str(pl.value(model.objective)) + "\n")
 
 
 
@@ -359,6 +394,5 @@ def run_solver():
 #                 if transfer_out[p][w].varValue >= 0.5:
 #                     f.write(f'{w} Out: ' + data['Name'][p] + "\n")
 
-solver_runs = 25
 for x in range(solver_runs):
     run_solver()
