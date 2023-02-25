@@ -1,0 +1,126 @@
+25In,:Iwobi:Darwin,25Out,:Bamford:Rashford
+26In,:James,26Out,:Akanji
+27In,:Olsen:Watkins:Toney:Henry:Steele:Sánchez:Mac Allister:Mitoma:Zaha:Begović:Schär:Botman:Hennessey:Cox,27Out,:Ødegaard:Gabriel:Olsen:Steele:Begović:Iwobi:Greenwood:Alexander-Arnold:Darwin:Ederson:Andreas:Hennessey:Martínez:Cox
+28In,,28Out,
+29In,:Rashford:Wood,29Out,:Toney:Zaha
+30In,,30Out,
+31In,:Perišić,31Out,:James
+32In,:Alexander-Arnold:Darwin,32Out,:Haaland:Schär
+33In,,33Out,
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford
+26In,:Lewis,26Out,:Akanji
+27In,:Solanke:Toney:Raya:Steele:Groß:Mitoma:Luis Díaz:Rashford:Burn:Šarkić:Adrián:Hennessey:Mee:Smithies:Estupiñán,27Out,:Ødegaard:Gabriel:Steele:Greenwood:Luis Díaz:Darwin:Ederson:Andreas:Šarkić:Adrián:Hennessey:Martínez:Lewis:Smithies:Sarabia
+28In,:Watkins,28Out,:Haaland
+29In,:Dalot:Scamacca,29Out,:Toney:Mee
+30In,,30Out,
+31In,:Haaland,31Out,:Scamacca
+32In,:Dasilva:Van Dijk,32Out,:Mitoma:Dalot
+33In,,33Out,
+25In,:Iwobi:Robertson,25Out,:Rashford:Akanji
+26In,:Madueke,26Out,:Iwobi
+27In,:Toney:Raya:Dunk:Mac Allister:Ferguson:Evans:Barnes:Shaw:Burn:Laryea:Forster:Estupiñán:Isak:Schade,27Out,:Ødegaard:Ferguson:Bamford:Greenwood:Evans:Robertson:Alexander-Arnold:Ederson:Shaw:Andreas:Laryea:Forster:Martínez:Madueke
+28In,:Watkins,28Out,:Haaland
+29In,:Solanke:Rashford,29Out,:Toney:Schade
+30In,,30Out,
+31In,:Kane,31Out,:Watkins
+32In,:Robertson,32Out,:Dunk
+33In,:Rodrigo,33Out,:Barnes
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji
+26In,:Veltman,26Out,:Robertson
+27In,:Solanke:Toney:Raya:Steele:Mac Allister:Mitoma:Havertz:Ebiowei:Darwin:Rashford:Burn:Forster:Mee:Estupiñán:Gordon,27Out,:Ødegaard:Steele:Veltman:Havertz:Ebiowei:Bamford:Greenwood:Alexander-Arnold:Darwin:Ederson:Andreas:Forster:Martínez:Gordon:Sarabia
+28In,:Havertz:James,28Out,:Haaland:Estupiñán
+29In,:Shaw:Isak,29Out,:Gabriel:Toney
+30In,:Mbeumo:De Bruyne,30Out,:Mac Allister:Havertz
+31In,,31Out,
+32In,:Zaha:Alexander-Arnold,32Out,:De Bruyne:Shaw
+33In,:Mount,33Out,:Salah
+25In,:Iwobi:Robertson,25Out,:Rashford:Martínez
+26In,:James,26Out,:Robertson
+27In,:Bailey:Toney:Raya:Mbeumo:Dunk:Mac Allister:Mitoma:Zaha:Zinchenko:Botman:Downes:Kehrer,27Out,:Ødegaard:Gabriel:James:Zaha:Iwobi:Bamford:Greenwood:Ederson:Andreas:Downes:Kehrer:Akanji
+28In,:Watkins,28Out,:Haaland
+29In,:Maddison,29Out,:Saka
+30In,:Haaland,30Out,:Toney
+31In,:Mahrez,31Out,:Maddison
+32In,:Luis Díaz:Mee,32Out,:Dunk:Mitoma
+33In,,33Out,
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford
+26In,:James,26Out,:Akanji
+27In,:McGinn:Douglas Luiz:Toney:Raya:Pinnock:Welbeck:Dunk:Mac Allister:Mitoma:Zaha:Schär:Mee:Estupiñán:Isak:Onuachu,27Out,:Ødegaard:McGinn:Douglas Luiz:Pinnock:Welbeck:James:Greenwood:Alexander-Arnold:Darwin:Ederson:Andreas:Martínez:Estupiñán:Sarabia:Onuachu
+28In,:Watkins,28Out,:Haaland
+29In,:Rashford,29Out,:Zaha
+30In,:Haaland,30Out,:Toney
+31In,:Perišić,31Out,:Dunk
+32In,:Darwin:Gakpo,32Out,:Mitoma:Haaland
+33In,,33Out,
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez
+26In,:Perišić,26Out,:Van Dijk
+27In,:Olsen:Solanke:Raya:Mbeumo:Mac Allister:Mitoma:James:Alexander-Arnold:Ederson:Heaton:Botman:Caballero:Gibbs-White:Mee:Estupiñán,27Out,:Ødegaard:Gabriel:Olsen:Pickford:Bamford:Greenwood:Alexander-Arnold:Ederson:Andreas:Heaton:Caballero:Perišić:Gibbs-White:Estupiñán:Akanji
+28In,:Watkins,28Out,:Haaland
+29In,:Schär,29Out,:Alexander-Arnold
+30In,,30Out,
+31In,:Haaland,31Out,:Solanke
+32In,:Sinisterra,32Out,:Mac Allister
+33In,:Cunha,33Out,:Mbeumo
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji
+26In,:Perišić,26Out,:Trippier
+27In,:Solanke:Toney:Raya:Wissa:Groß:Dunk:Mac Allister:Mitoma:James:Darwin:De Bruyne:Burn:Botman,27Out,:Ødegaard:Groß:Bamford:Greenwood:Robertson:Darwin:De Bruyne:Ederson:Andreas:Botman:Perišić:Martínez:Sarabia
+28In,:Watkins,28Out,:Haaland
+29In,:Rashford:Antonio,29Out,:Toney:Wissa
+30In,:Haaland,30Out,:Antonio
+31In,,31Out,
+32In,:Mbeumo:Van Dijk,32Out,:Haaland:Burn
+33In,,33Out,
+25In,:Iwobi:Darwin,25Out,:Bamford:Rashford
+26In,:Renan Lodi,26Out,:Akanji
+27In,:Bailey:Toney:Raya:Pinnock:Balcombe:Welbeck:Mac Allister:Undav:James:De Gea:Rashford:Schär:Phillips:Estupiñán:João Félix,27Out,:Ødegaard:Gabriel:Balcombe:Welbeck:Iwobi:Greenwood:Alexander-Arnold:Darwin:Ederson:De Gea:Andreas:Phillips:Martínez:Renan Lodi:João Félix
+28In,:Watkins:Tetê,28Out,:Mac Allister:Undav
+29In,:Castagne:Wilson,29Out,:Toney:Pinnock
+30In,,30Out,
+31In,:Perišić,31Out,:James
+32In,:Robertson,32Out,:Perišić
+33In,:Rodrigo,33Out,:Salah
+25In,:Van Dijk:McNeil,25Out,:Rashford:Akanji
+26In,:Perišić,26Out,:Van Dijk
+27In,:Ødegaard:Toney:Raya:Mbeumo:Welbeck:Dunk:Mac Allister:James:Ampadu:Gbamin:Bryan:Rashford:Burn:Mee:Estupiñán,27Out,:Ødegaard:Gabriel:Welbeck:Ampadu:Gbamin:Bryan:Bamford:Greenwood:Alexander-Arnold:Ederson:Andreas:Perišić:Mee:Martínez:McNeil
+28In,:Alexander-Arnold:Isak,28Out,:Haaland:Estupiñán
+29In,:Mitoma,29Out,:Ødegaard
+30In,:Haaland:Perišić,30Out,:Toney:James
+31In,,31Out,
+32In,:Watkins:Van Dijk,32Out,:Haaland:Perišić
+33In,:Mount,33Out,:Mac Allister
+25In,:Iwobi:Tarkowski:Darwin,25Out,:Bamford:Rashford:Akanji
+26In,:Mitoma,26Out,:Iwobi
+27In,:Archer:Toney:Pinnock:Mbeumo:Steele:Groß:Sánchez:Olise:Zinchenko:De Gea:Rashford:Gayle:Schär:Pope:H.Traorè,27Out,:Ødegaard:Saka:Gabriel:Archer:Steele:Arrizabalaga:Olise:Tarkowski:Greenwood:Darwin:Ederson:De Gea:Andreas:Gayle:Martínez
+28In,:Watkins,28Out,:Haaland
+29In,:Castagne:Martial,29Out,:Toney:Pinnock
+30In,:Haaland,30Out,:Mbeumo
+31In,,31Out,
+32In,:Zaha:Mitrović,32Out,:Groß:Martial
+33In,,33Out,
+25In,:Robertson:McNeil,25Out,:Rashford:Akanji
+26In,:Mitoma,26Out,:Andreas
+27In,:Solanke:Raya:Wissa:Welbeck:Dunk:Mac Allister:Salah:Alexander-Arnold:Mahrez:Andreas:Schär:Botman:Benrahma:Gnonto:Gakpo,27Out,:Ødegaard:Gabriel:Mitoma:Bamford:Greenwood:Salah:Robertson:Alexander-Arnold:Mahrez:Ederson:Andreas:Benrahma:Martínez:McNeil:Gnonto
+28In,:João Félix,28Out,:Welbeck
+29In,:Benrahma,29Out,:Gakpo
+30In,:Mahrez,30Out,:Benrahma
+31In,,31Out,
+32In,:Mbeumo:Darwin,32Out,:Haaland:João Félix
+33In,,33Out,
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford
+26In,:Mitoma,26Out,:McNeil
+27In,:Solanke:Raya:Jensen:Pinnock:Dunk:Sánchez:Mac Allister:Havertz:James:Zaha:Roca:Alisson:Schär:Fabianski:Clarke,27Out,:Ødegaard:Gabriel:Sánchez:Zaha:Greenwood:Roca:Alisson:Alexander-Arnold:Darwin:Ederson:Andreas:Fabianski:Martínez:Clarke:Akanji
+28In,:Watkins,28Out,:Haaland
+29In,:Rashford,29Out,:Jensen
+30In,,30Out,
+31In,:Haaland:Perišić,31Out,:Dunk:Havertz
+32In,:Van Dijk,32Out,:Perišić
+33In,,33Out,
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez
+26In,:Perišić,26Out,:Van Dijk
+27In,:Turner:Watkins:Solanke:Raya:Mbeumo:Duffy:March:Mitoma:Firmino:Darwin:Ederson:Burn:Mee:Estupiñán:Turns,27Out,:Ødegaard:Gabriel:Turner:Mbeumo:Duffy:Pickford:Bamford:Greenwood:Firmino:Alexander-Arnold:Darwin:Ederson:Andreas:Akanji:Turns
+28In,:James:Maddison:João Félix,28Out,:March:Haaland:Perišić
+29In,:Fernandes,29Out,:Saka
+30In,,30Out,
+31In,:Alexander-Arnold,31Out,:Estupiñán
+32In,:Zaha,32Out,:Fernandes
+33In,:Bueno,33Out,:Mee

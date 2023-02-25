@@ -2,7 +2,8 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-df = pd.read_csv('data/25.csv')
+facup_win = 'brelee'
+df = pd.read_csv(f'data/{facup_win}.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -38,23 +39,32 @@ forest = (team_group.get_group("Nott'm Forest")).index.tolist()
 west_ham = (team_group.get_group('West Ham')).index.tolist()
 wolves = (team_group.get_group('Wolves')).index.tolist()
 
-solver_runs = 25
+solver_runs = 1
 
-# NONE (55 BB) 90 / 110
-# FH27 (35 BB) 129 / 70
-# FH28 (40 BB) 120 / 80
-# WC27 (75 BB) 50 / 150
+# None       [40]50/40[32]
+# BB29       [40]50/40[32]
+# FH27       [64]80/120[96]
+# FH28       [64]80/0
+# WC27 29BB  [80]100/70[56]
 
-# [771/800]
+# 50/40
+# 50/40
+# 80/120
+# 80/-
+# 100/70
+
+# [628/630] 625
 
 def run_solver():
     # Options
-    bb_week = 39
-    wc_week = 39
-    tc_week = 39
-    fh_week = 39
+    bb_week = 0
+    wc_week = 33
+    tc_week = 0
+    fh_week = 0
     bank = 1
     ft_input = 2
+    # initial_squad = [307, 2, 308, 106, 332, 16, 357, 7, 13, 283, 335, 124, 210, 318, 237]
+
     initial_squad = [307, 285, 16, 357, 346, 7, 13, 283, 335, 227, 318, 133, 610, 237, 533]
 
     decay_rate = 0.85
@@ -62,14 +72,18 @@ def run_solver():
     horizon = 9
     noise_magnitude = 1
     no_transfer_weeks = []
-    banned_players = []
-    essential_players = [284]
-    chips = 'none'
+    banned_players = [680]
+    essential_players = [357]
+    chips = f'{facup_win} wc{wc_week} fh{fh_week} bb{bb_week}'
     composite = True
 
     f = open(f'{chips}1.txt', 'a')
     g = open(f'{chips}2.txt', 'a')
     h = open(f'{chips}3.txt', 'a')
+
+    # f = open('1.txt', 'a')
+    # g = open('2.txt', 'a')
+    # h = open('3.txt', 'a')
     
     if composite:
       j = open(f'composite1.txt', 'a')
@@ -86,8 +100,8 @@ def run_solver():
       bench2_weight = 0.04
       bench3_weight = 0
     else:
-      ft_value = 1.8
-      two_ft_value = 1.2
+      ft_value = 1.2
+      two_ft_value = 0.8
       itb_value = 0.1
       benchg_weight = 0.02
       bench1_weight = 0.2
@@ -197,6 +211,7 @@ def run_solver():
     # Objective Variable
     gw_xp = {w: pl.lpSum(points_player_week[p][w] * (benchg_weight * squad[p][w] + (1 - benchg_weight) * lineup[p][w] + (bench1_weight - benchg_weight) * bench1[p][w] + (bench2_weight - benchg_weight) * bench2[p][w] + (bench3_weight - benchg_weight) * bench3[p][w] + (1 + use_tc[w]) * captain[p][w] + vc_weight * vicecap[p][w] - player_tfcost[p] * transfer_out[p][w]) for p in players) for w in gameweeks}
     gw_total = {w: gw_xp[w] - (4 - ft_value) * hits[w] + itb_value * in_the_bank[w] - ft_value * number_of_transfers[w] * (1 - use_wc[w]) + two_ft_value * carry[w] for w in gameweeks}
+    xp_total = pl.lpSum(gw_total[w] for w in gameweeks)
     model += pl.lpSum(gw_total[w] * pow(decay_rate, w-next_gw) for w in gameweeks)
 
     # Squad Mechanics
@@ -315,9 +330,9 @@ def run_solver():
         f.write("\n")
         if composite:
           j.write("\n")
-    h.write(str(pl.value(model.objective)) + "\n")
+    h.write(str(pl.value(xp_total)) + "\n")
     if composite:
-      l.write(f"{chips} " + str(pl.value(model.objective)) + "\n")
+      l.write(f"{chips} " + str(pl.value(xp_total)) + "\n")
     # i.write(str(pl.value(model.objective)) + "\n")
 
 

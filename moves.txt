@@ -1,103 +1,172 @@
-NONE (Rashford -> Gakpo)
-FH27 
-FH28 (Trippier -> Van Dijk)
-WC29 (Rashford/Trippier -> Robertson/Sarabia)
-
-25In,:Gakpo,25Out,:Rashford,62 (34, 10, 8, 10) [10]
-25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,35 (14, 16, 5, 0) [5]
-  25In:Pickford,206 (22, 103, 70, 11) [11]
-  25Out:Ederson,216 (23, 108, 73, 12) [12]
-    25In:Robertson,450 (86, 120, 111, 133) [86]
-    25In:Van Dijk,173 (52, 39, 47, 35) [35]
-    25Out:Akanji,407 (101, 140, 94, 72) [72]
-    25Out:Martínez,157 (56, 67, 30, 4) [4]
-      25In:Gakpo,100 (43, 25, 10, 22) [10]
-      25Out:Rashford,478 (152, 119, 28, 179) [28]
-        25Out:Bamford,161 (45, 32, 58, 26) [26]
-
-
-NONE
-25In,:Gakpo,25Out,:Rashford,34
-25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,21
+200
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,15
 25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,14
-  25In:Pickford,22
-  25Out:Ederson,23
-    25In:Robertson,86
-    25In:Van Dijk,52
-    25Out:Akanji,101
-    25Out:Martínez,56
-      25In:Gakpo,43
-      25In:Sarabia,39
-      25Out:Rashford,152
-        25Out:Bamford,45
-
-27FH
-25In,:Robertson:McNeil,25Out,:Rashford:Akanji,17
-25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,16
-25In,:Bailey:Robertson,25Out,:Rashford:Akanji,11
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,12
 25In,:Gakpo,25Out,:Rashford,10
-  25In:Pickford,103
-  25Out:Ederson,108
-    25In:Robertson,120
-    25In:Van Dijk,39
-    25Out:Akanji,140
-    25Out:Martínez,67
-      25In:McNeil,36
-      25In:Gakpo,25
-      25In:Bailey,24
-      25Out:Rashford,119
-        25Out:Bamford,32
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,10
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,8
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,6
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,6
+25In,:Iwobi:Darwin,25Out,:Bamford:Rashford,5
 
-28FH
-25In,:Van Dijk,25Out,:Trippier,24
-25In,:Pickford:Robertson,25Out,:Ederson:Trippier,24
-25In,:Pickford:Robertson:Perišić,25Out,:Ederson:Trippier:Akanji,17
-  25In:Pickford,70
-  25Out:Ederson,73
-    25In:Robertson,111
-    25In:Van Dijk,47
-    25In:Perišić,46
-    25Out:Trippier,129
-    25Out:Akanji,94
-    25Out:Martínez,30
-      25Out:Rashford,28
-        25In:Darwin,22
-        25Out:Bamford,58
+250
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,21
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,16
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,14
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,12
+25In,:Gakpo,25Out,:Rashford,11
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,11
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,9
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,7
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,7
+25In,:Iwobi:Darwin,25Out,:Bamford:Rashford,6
 
-27WC
-25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,30
-25In,:Robertson:McNeil,25Out,:Rashford:Trippier,19
-25In,:Robertson:McNeil,25Out,:Rashford:Akanji,13
-25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,13
-25In,:Gakpo,25Out,:Rashford,10
-  25In:Robertson,133
-  25In:Van Dijk,35
-  25Out:Trippier,106
-  25Out:Akanji,72
-    25In:Sarabia,65
-    25In:McNeil,45
-    25In:Gakpo,22
-    25Out:Rashford,179
-      25Out:Bamford,26
+300
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,24
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,19
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,16
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,14
+25In,:Gakpo,25Out,:Rashford,13
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,13
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,12
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,8
+25In,:Iwobi:Robertson,25Out,:Rashford:Akanji,7
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,7
 
-Composite
-25In,:Gakpo,25Out,:Rashford,62
-25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,45
-25In,:Robertson:McNeil,25Out,:Rashford:Akanji,41
+350
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,28
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,22
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,19
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,16
+25In,:Gakpo,25Out,:Rashford,15
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,15
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,14
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,9
+
+425
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,33
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,26
+25In,:Gakpo,25Out,:Rashford,20
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,20
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,19
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,19
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,16
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,13
+
+525
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,41
 25In,:Pickford:Robertson,25Out,:Ederson:Trippier,35
-25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,35
-25In,:Van Dijk,25Out,:Trippier,31
-25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,30
-  25In:Pickford,206
-  25Out:Ederson,216
-    25In:Robertson,450
-    25In:Van Dijk,173
-    25In:Perišić,58
-    25Out:Akanji,407
-    25Out:Trippier,250
-    25Out:Martínez,157
-      25In:Sarabia,129
-      25In:McNeil,100
-      25In:Gakpo,100
-      25Out:Rashford,478
-        25Out:Bamford,161
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,28
+25In,:Gakpo,25Out,:Rashford,26
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,24
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,21
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,17
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,14
+25In,:Iwobi:Robertson,25Out,:Rashford:Akanji,13
+
+600
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,42
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,40
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,34
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,30
+25In,:Gakpo,25Out,:Rashford,29
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,25
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,19
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,15
+
+700
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,53
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,41
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,40
+25In,:Gakpo,25Out,:Rashford,35
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,31
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,31
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,20
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,17
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,17
+
+750
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,56
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,47
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,41
+25In,:Gakpo,25Out,:Rashford,36
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,33
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,32
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,22
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,18
+
+800
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,64
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,49
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,47
+25In,:Gakpo,25Out,:Rashford,37
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,36
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,33
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,22
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,21
+
+850
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,68
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,51
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,47
+25In,:Gakpo,25Out,:Rashford,41
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,37
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,35
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,23
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,23
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,21
+
+900
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,73
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,57
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,47
+25In,:Gakpo,25Out,:Rashford,42
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,38
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,37
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,26
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,24
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,22
+
+950
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,81
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,58
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,49
+25In,:Gakpo,25Out,:Rashford,44
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,38
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,38
+25In,:Darwin:McNeil,25Out,:Bamford:Rashford,26
+25In,:Pickford:Mykolenko:Robertson,25Out,:Ederson:Martínez:Akanji,26
+25In,:Iwobi:Robertson,25Out,:Rashford:Akanji,23
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,23
+
+25In:Robertson,461
+25In:Pickford,325
+25In:Darwin,205
+25In:Sarabia,167
+25In:Van Dijk,157
+25In:Mykolenko,92
+25In:McNeil,91
+25In:Cunha,87
+25In:Gakpo,84
+25In:Iwobi,56
+25In:Coleman,54
+
+25Out:Rashford,431
+25Out:Ederson,347
+25Out:Martínez,329
+25Out:Akanji,323
+25Out:Bamford,312
+25Out:Trippier,257
+
+
+515
+25In,:Robertson:Sarabia,25Out,:Rashford:Akanji,51
+25In,:Gakpo,25Out,:Rashford,34
+25In,:Pickford:Van Dijk,25Out,:Ederson:Martínez,30
+25In,:Darwin:Sarabia,25Out,:Bamford:Rashford,26
+25In,:Pickford:Robertson,25Out,:Ederson:Trippier,21
+25In,:Robertson:Sarabia,25Out,:Rashford:Trippier,18
+25In,:Robertson:Cunha,25Out,:Bamford:Martínez,16
+25In,:Robertson:McNeil,25Out,:Rashford:Akanji,12
+25In,:Maupay:Robertson,25Out,:Bamford:Martínez,10
+
