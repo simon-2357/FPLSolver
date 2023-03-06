@@ -2,7 +2,7 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-facup_win = 'brelee'
+facup_win = '27'
 df = pd.read_csv(f'data/{facup_win}.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
@@ -39,7 +39,7 @@ forest = (team_group.get_group("Nott'm Forest")).index.tolist()
 west_ham = (team_group.get_group('West Ham')).index.tolist()
 wolves = (team_group.get_group('Wolves')).index.tolist()
 
-solver_runs = 1
+solver_runs = 5
 
 # None       [40]50/40[32]
 # BB29       [40]50/40[32]
@@ -57,24 +57,24 @@ solver_runs = 1
 
 def run_solver():
     # Options
-    bb_week = 0
-    wc_week = 33
+    bb_week = 27
+    wc_week = 0
     tc_week = 0
     fh_week = 0
-    bank = 1
-    ft_input = 2
+    bank = 2.9
+    ft_input = 1
     # initial_squad = [307, 2, 308, 106, 332, 16, 357, 7, 13, 283, 335, 124, 210, 318, 237]
 
-    initial_squad = [307, 285, 16, 357, 346, 7, 13, 283, 335, 227, 318, 133, 610, 237, 533]
+    initial_squad = [113, 81, 526, 16, 313, 357, 377, 13, 124, 407, 335, 116, 318, 427, 80]
 
     decay_rate = 0.85
     vc_weight = 0.05
     horizon = 9
     noise_magnitude = 1
     no_transfer_weeks = []
-    banned_players = [680]
-    essential_players = [357]
-    chips = f'{facup_win} wc{wc_week} fh{fh_week} bb{bb_week}'
+    banned_players = []
+    essential_players = []
+    chips = f'fh{fh_week} bb{bb_week}'
     composite = True
 
     f = open(f'{chips}1.txt', 'a')
