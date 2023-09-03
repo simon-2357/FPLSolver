@@ -2,8 +2,8 @@ import pandas as pd
 import pulp as pl
 import numpy as np
 
-facup_win = '27'
-df = pd.read_csv(f'data/{facup_win}.csv')
+week_input = '4'
+df = pd.read_csv(f'data/{week_input}.csv')
 df.set_index('ID', inplace=True)
 data = df.copy().reset_index()
 data.set_index('ID', inplace=True)
@@ -26,56 +26,39 @@ brentford = (team_group.get_group('Brentford')).index.tolist()
 chelsea = (team_group.get_group('Chelsea')).index.tolist()
 crystal_palace = (team_group.get_group('Crystal Palace')).index.tolist()
 everton = (team_group.get_group('Everton')).index.tolist()
-leeds = (team_group.get_group('Leeds')).index.tolist()
-leicester = (team_group.get_group('Leicester')).index.tolist()
+burnley = (team_group.get_group('Burnley')).index.tolist()
+luton = (team_group.get_group('Luton')).index.tolist()
 liverpool = (team_group.get_group('Liverpool')).index.tolist()
 man_city = (team_group.get_group('Man City')).index.tolist()
 man_utd = (team_group.get_group('Man Utd')).index.tolist()
 newcastle = (team_group.get_group('Newcastle')).index.tolist()
 bournemouth = (team_group.get_group('Bournemouth')).index.tolist()
-southampton = (team_group.get_group('Southampton')).index.tolist()
+sheff_utd = (team_group.get_group('Sheffield Utd')).index.tolist()
 tottenham = (team_group.get_group('Spurs')).index.tolist()
 forest = (team_group.get_group("Nott'm Forest")).index.tolist()
 west_ham = (team_group.get_group('West Ham')).index.tolist()
 wolves = (team_group.get_group('Wolves')).index.tolist()
 
-solver_runs = 5
-
-# None       [40]50/40[32]
-# BB29       [40]50/40[32]
-# FH27       [64]80/120[96]
-# FH28       [64]80/0
-# WC27 29BB  [80]100/70[56]
-
-# 50/40
-# 50/40
-# 80/120
-# 80/-
-# 100/70
-
-# [628/630] 625
+solver_runs = 15
 
 def run_solver():
     # Options
-    bb_week = 27
-    wc_week = 0
+    bb_week = 0
+    wc_week = 1
     tc_week = 0
     fh_week = 0
-    bank = 2.9
+    bank = 0
     ft_input = 1
-    # initial_squad = [307, 2, 308, 106, 332, 16, 357, 7, 13, 283, 335, 124, 210, 318, 237]
-
-    initial_squad = [113, 81, 526, 16, 313, 357, 377, 13, 124, 407, 335, 116, 318, 427, 80]
-
+    initial_squad = [28, 263, 131, 195, 206, 350, 405, 6, 19, 108, 373, 396, 211, 355, 490]
     decay_rate = 0.85
     vc_weight = 0.05
-    horizon = 9
+    horizon = 12
     noise_magnitude = 1
     no_transfer_weeks = []
     banned_players = []
     essential_players = []
-    chips = f'fh{fh_week} bb{bb_week}'
-    composite = True
+    chips = f'{week_input}'
+    composite = False
 
     f = open(f'{chips}1.txt', 'a')
     g = open(f'{chips}2.txt', 'a')
@@ -94,14 +77,14 @@ def run_solver():
     if horizon == 1:
       ft_value = 0
       two_ft_value = 0
-      itb_value = 0.1
+      itb_value = 0
       benchg_weight = 0.02
       bench1_weight = 0.2
       bench2_weight = 0.04
       bench3_weight = 0
     else:
-      ft_value = 1.2
-      two_ft_value = 0.8
+      ft_value = 0.9
+      two_ft_value = 0.6
       itb_value = 0.1
       benchg_weight = 0.02
       bench1_weight = 0.2
@@ -120,7 +103,7 @@ def run_solver():
     gameweeks = list(range(next_gw, next_gw + horizon))
     all_gw = [next_gw - 1] + gameweeks
     gwminus = list(range(next_gw, next_gw + horizon - 1))
-    data['TFCost'] = (data['BV'] - data['SV']) * 0.4 * (39 - next_gw - horizon)
+    data['TFCost'] = (data['BV'] - data['SV']) * 0.3 * (39 - next_gw - horizon)
 
     if fh_week in gameweeks:
         gameweeks = gwminus
@@ -261,14 +244,14 @@ def run_solver():
         model += pl.lpSum(squad[x][w] for x in chelsea) <= 3
         model += pl.lpSum(squad[x][w] for x in crystal_palace) <= 3
         model += pl.lpSum(squad[x][w] for x in everton) <= 3
-        model += pl.lpSum(squad[x][w] for x in leeds) <= 3
-        model += pl.lpSum(squad[x][w] for x in leicester) <= 3
+        model += pl.lpSum(squad[x][w] for x in luton) <= 3
+        model += pl.lpSum(squad[x][w] for x in burnley) <= 3
         model += pl.lpSum(squad[x][w] for x in liverpool) <= 3
         model += pl.lpSum(squad[x][w] for x in man_city) <= 3
         model += pl.lpSum(squad[x][w] for x in man_utd) <= 3
         model += pl.lpSum(squad[x][w] for x in newcastle) <= 3
         model += pl.lpSum(squad[x][w] for x in bournemouth) <= 3
-        model += pl.lpSum(squad[x][w] for x in southampton) <= 3
+        model += pl.lpSum(squad[x][w] for x in sheff_utd) <= 3
         model += pl.lpSum(squad[x][w] for x in tottenham) <= 3
         model += pl.lpSum(squad[x][w] for x in fulham) <= 3
         model += pl.lpSum(squad[x][w] for x in west_ham) <= 3
@@ -315,7 +298,7 @@ def run_solver():
                 if composite:
                   j.write(":" + data['Name'][p])
                   k.write(f"{w}In:" + data['Name'][p] + "\n")
-    #
+    
         f.write(f',{w}Out,')
         if composite:
           j.write(f',{w}Out,')
@@ -326,7 +309,7 @@ def run_solver():
                 if composite:
                   j.write(":" + data['Name'][p])
                   k.write(f"{w}Out:" + data['Name'][p] + "\n")
-    # # #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
+    #     # f.write("\n"+ f"{w}Hits:{hits[w].varValue}" + "\n")
         f.write("\n")
         if composite:
           j.write("\n")

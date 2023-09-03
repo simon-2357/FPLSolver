@@ -14,5 +14,5 @@ def run(string):
   for item in sorted(counts, key=counts.get, reverse=True):
       print(item.strip() + "," + str(counts.get(item)))
 
-run('fh0 bb291')
+run('41')
 
