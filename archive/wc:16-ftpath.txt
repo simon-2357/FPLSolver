@@ -1,0 +1,12 @@
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Colwill:Andersen:Bednarek:Raúl:Palmer:Semenyo:Ødegaard,16Out,:Dunk:Faes:Alexander-Arnold:Archer:Eze:Mbeumo:B.Fernandes
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,

@@ -1,0 +1,20 @@
+9In:Vardy
+9In:Foden
+9Out:João Pedro
+9Out:Saka
+10In:Son
+10Out:Foden
+12In:Konsa
+12In:Andersen
+12In:João Pedro
+12In:Raúl
+12In:Johnstone
+12In:Palmer
+12In:Semenyo
+12Out:Faes
+12Out:Alexander-Arnold
+12Out:Vardy
+12Out:Archer
+12Out:Bentley
+12Out:Eze
+12Out:B.Fernandes

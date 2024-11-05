@@ -1,0 +1,552 @@
+12In:Cash
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+14In:Bowen
+14Out:B.Fernandes
+16In:Isak
+16In:Kluivert
+16Out:João Pedro
+16Out:Bowen
+17In:Tete
+17In:N.Jackson
+17Out:Alexander-Arnold
+17Out:Solanke
+18In:Lewis
+18In:Welbeck
+18In:Saka
+18Out:Tete
+18Out:Isak
+18Out:Garnacho
+12In:Cash
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+14In:Bowen
+14Out:B.Fernandes
+16In:Calafiori
+16In:Minteh
+16Out:Cash
+16Out:Garnacho
+18In:Robertson
+18Out:Calafiori
+12In:Konsa
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+14In:Rogers
+14Out:Garnacho
+15In:Welbeck
+15Out:João Pedro
+16In:Semenyo
+16Out:Rogers
+18In:Virgil
+18Out:Alexander-Arnold
+12In:Gvardiol
+12In:Rogers
+12Out:Pedro Porro
+12Out:Garnacho
+13In:Van den Berg
+13In:Welbeck
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:Raúl
+13Out:B.Fernandes
+16In:Kluivert
+16Out:Rogers
+17In:Andersen
+17Out:Faes
+12In:Cash
+12In:Vardy
+12In:Palmer
+12Out:Pedro Porro
+12Out:Solanke
+12Out:B.Fernandes
+16In:Hall
+16In:Isak
+16In:Madueke
+16Out:Alexander-Arnold
+16Out:Vardy
+16Out:Garnacho
+17In:Saliba
+17In:B.Fernandes
+17Out:Dunk
+17Out:Saka
+18In:Darwin
+18Out:Isak
+13In:Calafiori
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:Saka
+14In:Madueke
+14Out:Garnacho
+17In:Welbeck
+17Out:Solanke
+18In:Alexander-Arnold
+18Out:Pedro Porro
+14In:Cash
+14In:Palmer
+14In:McGinn
+14Out:Alexander-Arnold
+14Out:B.Fernandes
+14Out:Garnacho
+15In:Isak
+15Out:Solanke
+18In:Alexander-Arnold
+18In:Welbeck
+18In:Enes Ünal
+18In:Szoboszlai
+18Out:Pedro Porro
+18Out:Isak
+18Out:Raúl
+18Out:McGinn
+12In:Cash
+12In:Vardy
+12In:Palmer
+12Out:Pedro Porro
+12Out:Solanke
+12Out:B.Fernandes
+14In:Rogers
+14Out:Garnacho
+16In:Lewis
+16Out:Cash
+17In:Akanji
+17In:Rashford
+17Out:Alexander-Arnold
+17Out:Rogers
+18In:Robertson
+18In:Minteh
+18Out:Lewis
+18Out:Rashford
+12In:Digne
+12Out:Pedro Porro
+13In:Alex Moreno
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+14In:Rúben
+14In:Kluivert
+14Out:Alex Moreno
+14Out:Garnacho
+16In:Hall
+16In:Isak
+16Out:Digne
+16Out:Solanke
+18In:Gvardiol
+18In:Welbeck
+18In:Evanilson
+18Out:Rúben
+18Out:Isak
+18Out:Raúl
+13In:Alex Moreno
+13In:Son
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+14In:Palmer
+14In:Kluivert
+14Out:Saka
+14Out:Garnacho
+17In:B.Fernandes
+17Out:Palmer
+18In:Haaland
+18In:Diogo J.
+18In:Sávio
+18Out:Solanke
+18Out:Son
+18Out:B.Fernandes
+12In:Livramento
+12Out:Pedro Porro
+14In:Aké
+14In:Martinelli
+14Out:Gabriel
+14Out:B.Fernandes
+15In:Watkins
+15In:Kluivert
+15Out:Raúl
+15Out:Martinelli
+16In:Strand Larsen
+16In:Palmer
+16Out:Watkins
+16Out:Garnacho
+12In:Hall
+12In:Evanilson
+12In:Palmer
+12Out:Pedro Porro
+12Out:Solanke
+12Out:B.Fernandes
+15In:Cash
+15In:Isak
+15Out:Alexander-Arnold
+15Out:Raúl
+16In:Strand Larsen
+16Out:Evanilson
+18In:Gvardiol
+18In:Havertz
+18In:Tavernier
+18Out:Faes
+18Out:Isak
+18Out:Saka
+12In:Digne
+12Out:Pedro Porro
+13In:Alex Moreno
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+15In:Evanilson
+15Out:Raúl
+16In:Hall
+16In:Cunha
+16Out:Digne
+16Out:Evanilson
+17In:Isak
+17In:Welbeck
+17Out:Solanke
+17Out:Cunha
+11In:Son
+11Out:Saka
+12In:Pau
+12In:Palmer
+12Out:Pedro Porro
+12Out:Son
+13In:Kluivert
+13Out:Garnacho
+16In:Isak
+16Out:Solanke
+18In:Gusto
+18In:Welbeck
+18In:Saka
+18Out:Pau
+18Out:Isak
+18Out:B.Fernandes
+13In:Cash
+13In:Palmer
+13In:Sangaré
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+13Out:Garnacho
+14In:Watkins
+14Out:Solanke
+16In:Cunha
+16In:Johnson
+16Out:Watkins
+16Out:Sangaré
+17In:Wood
+17In:Smith Rowe
+17Out:Cunha
+17Out:Johnson
+18In:Rashford
+18Out:Smith Rowe
+14In:Aké
+14In:Madueke
+14Out:Pedro Porro
+14Out:Garnacho
+15In:Welbeck
+15In:Rogers
+15Out:João Pedro
+15Out:Madueke
+12In:Konsa
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+18In:Ødegaard
+18Out:B.Fernandes
+13In:Dalot
+13In:Palmer
+13In:Kluivert
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+13Out:Garnacho
+18In:Aké
+18Out:Pedro Porro
+12In:Lewis
+12Out:Pedro Porro
+13In:Alex Moreno
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+16In:Hall
+16In:Gordon
+16Out:Lewis
+16Out:Garnacho
+18In:N.Jackson
+18In:Neto
+18Out:Solanke
+18Out:Gordon
+14In:Digne
+14In:Palmer
+14In:Adama
+14Out:Alexander-Arnold
+14Out:B.Fernandes
+14Out:Garnacho
+16In:Hall
+16In:Isak
+16Out:Digne
+16Out:Solanke
+18In:Welbeck
+18Out:Raúl
+12In:Konsa
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+14In:Isak
+14In:Semenyo
+14Out:Raúl
+14Out:B.Fernandes
+16In:Robertson
+16In:Welbeck
+16Out:Konsa
+16Out:Solanke
+11In:Son
+11Out:Saka
+12In:Digne
+12In:Palmer
+12In:Kluivert
+12Out:Pedro Porro
+12Out:Son
+12Out:Garnacho
+16In:Ødegaard
+16Out:B.Fernandes
+17In:Iwobi
+17Out:Kluivert
+18In:Estupiñan
+18In:Luis Díaz
+18Out:Alexander-Arnold
+18Out:Iwobi
+12In:Hall
+12Out:Pedro Porro
+13In:Welbeck
+13In:Palmer
+13Out:Raúl
+13Out:Saka
+14In:Son
+14In:Sangaré
+14Out:B.Fernandes
+14Out:Garnacho
+16In:Calafiori
+16Out:Gabriel
+18In:Haaland
+18In:Ødegaard
+18In:O.Dango
+18Out:Solanke
+18Out:Palmer
+18Out:Son
+12In:Digne
+12Out:Pedro Porro
+13In:Aït-Nouri
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+15In:Welbeck
+15Out:Raúl
+16In:Colwill
+16In:Madueke
+16Out:Digne
+16Out:Garnacho
+18In:Virgil
+18In:Enes Ünal
+18Out:Aït-Nouri
+18Out:Solanke
+12In:Livramento
+12In:Cash
+12In:Palmer
+12In:Rogers
+12Out:Alexander-Arnold
+12Out:Faes
+12Out:B.Fernandes
+12Out:Garnacho
+13In:Welbeck
+13Out:Raúl
+17In:Isak
+17In:Diogo J.
+17Out:João Pedro
+17Out:Palmer
+18In:Alexander-Arnold
+18In:João Pedro
+18In:Sávio
+18Out:Pedro Porro
+18Out:Solanke
+18Out:Rogers
+12In:Cash
+12Out:Pedro Porro
+13In:Alex Moreno
+13In:Palmer
+13In:Johnson
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+13Out:Garnacho
+16In:Colwill
+16Out:Cash
+18In:Haaland
+18In:Gravenberch
+18Out:Solanke
+18Out:M.Salah
+12In:Gvardiol
+12In:Calvert-Lewin
+12Out:Pedro Porro
+12Out:Solanke
+14In:Madueke
+14Out:Garnacho
+16In:Calafiori
+16In:Palmer
+16Out:Gvardiol
+16Out:Saka
+18In:Archer
+18Out:Raúl
+11In:Rashford
+11Out:Saka
+12In:Cash
+12In:Palmer
+12Out:Alexander-Arnold
+12Out:Garnacho
+14In:Vardy
+14Out:Raúl
+15In:Luis Díaz
+15Out:Rashford
+16In:Isak
+16In:Diogo J.
+16In:Trossard
+16Out:Solanke
+16Out:B.Fernandes
+16Out:Luis Díaz
+18In:Haaland
+18In:Dibling
+18Out:Isak
+18Out:Palmer
+12In:Cash
+12In:Archer
+12In:Palmer
+12Out:Alexander-Arnold
+12Out:Solanke
+12Out:Garnacho
+14In:Evanilson
+14Out:Raúl
+16In:Cunha
+16In:Neto
+16Out:Archer
+16Out:B.Fernandes
+17In:Højlund
+17In:B.Fernandes
+17Out:Evanilson
+17Out:Palmer
+18In:Lewis
+18In:Diogo J.
+18Out:Cash
+18Out:Neto
+13In:Taylor
+13In:Vardy
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:Solanke
+13Out:Garnacho
+14In:Rúben
+14Out:Pedro Porro
+16In:Strand Larsen
+16Out:Vardy
+17In:Robinson
+17Out:Rúben
+18In:Alexander-Arnold
+18In:Rashford
+18Out:Robinson
+18Out:B.Fernandes
+11In:Johnson
+11Out:Saka
+12In:Calvert-Lewin
+12In:Palmer
+12Out:Solanke
+12Out:Garnacho
+16In:Cunha
+16In:Martinelli
+16Out:Calvert-Lewin
+16Out:B.Fernandes
+18In:Diogo J.
+18Out:Johnson
+12In:Hall
+12Out:Pedro Porro
+13In:Palmer
+13Out:Saka
+14In:Lewis
+14In:Ødegaard
+14In:Rogers
+14Out:Faes
+14Out:B.Fernandes
+14Out:Garnacho
+12In:Hall
+12In:Palmer
+12Out:Pedro Porro
+12Out:Saka
+14In:Foden
+14In:Andreas
+14Out:B.Fernandes
+14Out:Garnacho
+15In:Robertson
+15In:Isak
+15Out:Alexander-Arnold
+15Out:Solanke
+18In:Saliba
+18In:De Bruyne
+18Out:Hall
+18Out:Palmer
+12In:Cash
+12In:Kluivert
+12Out:Faes
+12Out:Garnacho
+13In:Alex Moreno
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+16In:Strand Larsen
+16Out:Raúl
+17In:Estupiñan
+17In:Isak
+17Out:Pedro Porro
+17Out:Solanke
+18In:Alexander-Arnold
+18In:Welbeck
+18Out:Dunk
+18Out:Isak
+13In:Cash
+13In:Welbeck
+13In:Palmer
+13In:Dibling
+13Out:Alexander-Arnold
+13Out:Raúl
+13Out:B.Fernandes
+13Out:Garnacho
+15In:Cunha
+15Out:João Pedro
+12In:Cash
+12In:Calvert-Lewin
+12Out:Pedro Porro
+12Out:João Pedro
+16In:Isak
+16In:Madueke
+16Out:Calvert-Lewin
+16Out:B.Fernandes
+17In:Akanji
+17In:Maddison
+17Out:Alexander-Arnold
+17Out:Madueke
+18In:Georginio
+18Out:Maddison
+13In:Digne
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:Saka
+14In:Bowen
+14Out:Garnacho
+17In:Akanji
+17Out:Pedro Porro
+13In:Van den Berg
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:B.Fernandes
+14In:Madueke
+14Out:Garnacho
+15In:Calafiori
+15Out:Gabriel
+16In:Gusto
+16Out:Pedro Porro
+17In:Rashford
+17Out:Madueke
+18In:Luis Díaz
+18Out:Palmer

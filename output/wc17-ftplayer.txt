@@ -1,0 +1,28 @@
+12In:Hall
+12In:Welbeck
+12In:Palmer
+12Out:Pedro Porro
+12Out:Solanke
+12Out:B.Fernandes
+17In:Andersen
+17In:Guéhi
+17In:James
+17In:Pedro Porro
+17In:Chiwome
+17In:N.Jackson
+17In:Fabianski
+17In:Eze
+17In:B.Fernandes
+17Out:Faes
+17Out:Hall
+17Out:Gabriel
+17Out:Alexander-Arnold
+17Out:João Pedro
+17Out:Welbeck
+17Out:Bentley
+17Out:Garnacho
+17Out:Mbeumo
+19In:Son
+19Out:Saka
+21In:Saka
+21Out:Son

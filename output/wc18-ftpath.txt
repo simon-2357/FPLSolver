@@ -1,0 +1,12 @@
+11In,,11Out,
+12In,:Cash:James:Welbeck:Palmer,12Out,:Pedro Porro:Alexander-Arnold:Solanke:Garnacho
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,:Taylor:Konsa:Pedro Porro:Alexander-Arnold:N.Jackson:Fabianski:A.Becker:McGinn:Eze,18Out,:Faes:Dunk:Cash:Gabriel:Welbeck:Bentley:Raya:Mbeumo:B.Fernandes
+19In,:Son,19Out,:Saka
+20In,,20Out,
+21In,:Rashford:B.Fernandes,21Out,:McGinn:Son
+22In,,22Out,

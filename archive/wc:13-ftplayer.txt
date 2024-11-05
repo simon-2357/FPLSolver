@@ -1,0 +1,22 @@
+9In:Raúl
+9In:Foden
+9Out:João Pedro
+9Out:Saka
+10In:Son
+10Out:Foden
+12In:Andersen
+12In:Palmer
+12Out:Pedro Porro
+12Out:Son
+13In:Konsa
+13In:Pedro Porro
+13In:Stewart
+13In:João Pedro
+13In:Johnstone
+13In:Son
+13Out:Faes
+13Out:Alexander-Arnold
+13Out:Raúl
+13Out:Archer
+13Out:Bentley
+13Out:B.Fernandes

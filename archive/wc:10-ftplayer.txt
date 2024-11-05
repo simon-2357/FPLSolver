@@ -1,0 +1,22 @@
+9In:Haaland
+9In:Rogers
+9In:Mitoma
+9Out:João Pedro
+9Out:Saka
+9Out:M.Salah
+10In:Andersen
+10In:Burgess
+10In:Robertson
+10In:João Pedro
+10In:Raúl
+10In:Son
+10In:M.Salah
+10Out:Dunk
+10Out:Faes
+10Out:Gabriel
+10Out:Haaland
+10Out:Archer
+10Out:Rogers
+10Out:Mitoma
+14In:Ødegaard
+14Out:B.Fernandes

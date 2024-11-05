@@ -1,0 +1,12 @@
+9In,:Vardy:Foden,9Out,:João Pedro:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Konsa:Andersen:João Pedro:Raúl:Johnstone:Palmer:Semenyo,12Out,:Faes:Alexander-Arnold:Vardy:Archer:Bentley:Eze:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,

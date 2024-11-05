@@ -1,0 +1,120 @@
+11Squad :Bentley :Raya :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah :João Pedro :Raúl :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah
+GW11Fwd :João Pedro :Raúl :Solanke
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW12GK :Bentley :Raya
+GW12Def :Faes :Dunk :Cash :James :Gabriel
+GW12Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW12Fwd :João Pedro :Raúl :Welbeck
+12TV:99.7
+12ITB:0.0
+12Used:4
+12Carry:0
+12Hits:0
+13Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW13GK :Bentley :Raya
+GW13Def :Faes :Dunk :Cash :James :Gabriel
+GW13Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW13Fwd :João Pedro :Raúl :Welbeck
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:1
+13Hits:0
+14Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW14GK :Bentley :Raya
+GW14Def :Faes :Dunk :Cash :James :Gabriel
+GW14Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW14Fwd :João Pedro :Raúl :Welbeck
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:2
+14Hits:0
+15Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW15GK :Bentley :Raya
+GW15Def :Faes :Dunk :Cash :James :Gabriel
+GW15Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW15Fwd :João Pedro :Raúl :Welbeck
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW16GK :Bentley :Raya
+GW16Def :Faes :Dunk :Cash :James :Gabriel
+GW16Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW16Fwd :João Pedro :Raúl :Welbeck
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Bentley :Raya :Faes :Dunk :Cash :James :Gabriel :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah :João Pedro :Raúl :Welbeck
+GW17GK :Bentley :Raya
+GW17Def :Faes :Dunk :Cash :James :Gabriel
+GW17Mid :Mbeumo :B.Fernandes :Saka :Palmer :M.Salah
+GW17Fwd :João Pedro :Raúl :Welbeck
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Fabianski :A.Becker :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold :McGinn :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW18GK :Fabianski :A.Becker
+GW18Def :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold
+GW18Mid :McGinn :Eze :Saka :Palmer :M.Salah
+GW18Fwd :João Pedro :Raúl :N.Jackson
+18TV:99.7
+18ITB:0.0
+18Used:9
+18Carry:4
+18Hits:0
+19Squad :Fabianski :A.Becker :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold :McGinn :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW19GK :Fabianski :A.Becker
+GW19Def :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold
+GW19Mid :McGinn :Eze :Son :Palmer :M.Salah
+GW19Fwd :João Pedro :Raúl :N.Jackson
+19TV:99.6
+19ITB:0.1
+19Used:1
+19Carry:4
+19Hits:0
+20Squad :Fabianski :A.Becker :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold :McGinn :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW20GK :Fabianski :A.Becker
+GW20Def :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold
+GW20Mid :McGinn :Eze :Son :Palmer :M.Salah
+GW20Fwd :João Pedro :Raúl :N.Jackson
+20TV:99.6
+20ITB:0.1
+20Used:0
+20Carry:4
+20Hits:0
+21Squad :Fabianski :A.Becker :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold :Eze :Rashford :B.Fernandes :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW21GK :Fabianski :A.Becker
+GW21Def :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold
+GW21Mid :Eze :Rashford :B.Fernandes :Palmer :M.Salah
+GW21Fwd :João Pedro :Raúl :N.Jackson
+21TV:99.6
+21ITB:0.1
+21Used:2
+21Carry:3
+21Hits:0
+22Squad :Fabianski :A.Becker :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold :Eze :Rashford :B.Fernandes :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW22GK :Fabianski :A.Becker
+GW22Def :Taylor :Konsa :James :Pedro Porro :Alexander-Arnold
+GW22Mid :Eze :Rashford :B.Fernandes :Palmer :M.Salah
+GW22Fwd :João Pedro :Raúl :N.Jackson
+22TV:99.6
+22ITB:0.1
+22Used:0
+22Carry:4
+22Hits:0

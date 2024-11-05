@@ -1,0 +1,16 @@
+9In:Wood
+9In:Foden
+9Out:João Pedro
+9Out:Saka
+11In:Andersen
+11In:Burgess
+11In:João Pedro
+11In:Raúl
+11In:Son
+11Out:Dunk
+11Out:Faes
+11Out:Archer
+11Out:Wood
+11Out:Foden
+14In:Ødegaard
+14Out:B.Fernandes

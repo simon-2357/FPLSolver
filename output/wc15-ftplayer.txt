@@ -1,0 +1,26 @@
+13In:James
+13In:Son
+13In:Palmer
+13Out:Alexander-Arnold
+13Out:Garnacho
+13Out:M.Salah
+15In:Andersen
+15In:Konsa
+15In:Alexander-Arnold
+15In:Isak
+15In:Fabianski
+15In:Rogers
+15In:Eze
+15In:M.Salah
+15Out:Faes
+15Out:Pedro Porro
+15Out:Gabriel
+15Out:Solanke
+15Out:Bentley
+15Out:Mbeumo
+15Out:B.Fernandes
+15Out:Saka
+21In:Rashford
+21In:B.Fernandes
+21Out:Rogers
+21Out:Son

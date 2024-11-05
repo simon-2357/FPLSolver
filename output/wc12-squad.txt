@@ -1,0 +1,120 @@
+11Squad :Bentley :Raya :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Son :M.Salah :João Pedro :Raúl :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Garnacho :Mbeumo :B.Fernandes :Son :M.Salah
+GW11Fwd :João Pedro :Raúl :Solanke
+11TV:99.6
+11ITB:0.1
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW12GK :Fabianski :Raya
+GW12Def :Andersen :Dunk :Konsa :James :Gabriel
+GW12Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW12Fwd :João Pedro :Raúl :Isak
+12TV:99.4
+12ITB:0.2
+12Used:8
+12Carry:2
+12Hits:0
+13Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW13GK :Fabianski :Raya
+GW13Def :Andersen :Dunk :Konsa :James :Gabriel
+GW13Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW13Fwd :João Pedro :Raúl :Isak
+13TV:99.4
+13ITB:0.2
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW14GK :Fabianski :Raya
+GW14Def :Andersen :Dunk :Konsa :James :Gabriel
+GW14Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW14Fwd :João Pedro :Raúl :Isak
+14TV:99.4
+14ITB:0.2
+14Used:-0
+14Carry:4
+14Hits:0
+15Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW15GK :Fabianski :Raya
+GW15Def :Andersen :Dunk :Konsa :James :Gabriel
+GW15Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW15Fwd :João Pedro :Raúl :Isak
+15TV:99.4
+15ITB:0.2
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW16GK :Fabianski :Raya
+GW16Def :Andersen :Dunk :Konsa :James :Gabriel
+GW16Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW16Fwd :João Pedro :Raúl :Isak
+16TV:99.4
+16ITB:0.2
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Gabriel :McGinn :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW17GK :Fabianski :Raya
+GW17Def :Andersen :Dunk :Konsa :James :Gabriel
+GW17Mid :McGinn :Mbeumo :Saka :Palmer :M.Salah
+GW17Fwd :João Pedro :Raúl :Isak
+17TV:99.4
+17ITB:0.2
+17Used:-0
+17Carry:4
+17Hits:0
+18Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Alexander-Arnold :McGinn :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW18GK :Fabianski :Raya
+GW18Def :Andersen :Dunk :Konsa :James :Alexander-Arnold
+GW18Mid :McGinn :Eze :Saka :Palmer :M.Salah
+GW18Fwd :João Pedro :Raúl :Isak
+18TV:99.5
+18ITB:0.1
+18Used:2
+18Carry:3
+18Hits:0
+19Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Alexander-Arnold :McGinn :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW19GK :Fabianski :Raya
+GW19Def :Andersen :Dunk :Konsa :James :Alexander-Arnold
+GW19Mid :McGinn :Eze :Son :Palmer :M.Salah
+GW19Fwd :João Pedro :Raúl :Isak
+19TV:99.4
+19ITB:0.2
+19Used:1
+19Carry:3
+19Hits:0
+20Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Alexander-Arnold :McGinn :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW20GK :Fabianski :Raya
+GW20Def :Andersen :Dunk :Konsa :James :Alexander-Arnold
+GW20Mid :McGinn :Eze :Son :Palmer :M.Salah
+GW20Fwd :João Pedro :Raúl :Isak
+20TV:99.4
+20ITB:0.2
+20Used:0
+20Carry:4
+20Hits:0
+21Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Alexander-Arnold :Eze :Rashford :B.Fernandes :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW21GK :Fabianski :Raya
+GW21Def :Andersen :Dunk :Konsa :James :Alexander-Arnold
+GW21Mid :Eze :Rashford :B.Fernandes :Palmer :M.Salah
+GW21Fwd :João Pedro :Raúl :Isak
+21TV:99.4
+21ITB:0.2
+21Used:2
+21Carry:3
+21Hits:0
+22Squad :Fabianski :Raya :Andersen :Dunk :Konsa :James :Alexander-Arnold :Eze :Rashford :B.Fernandes :Palmer :M.Salah :João Pedro :Raúl :Isak
+GW22GK :Fabianski :Raya
+GW22Def :Andersen :Dunk :Konsa :James :Alexander-Arnold
+GW22Mid :Eze :Rashford :B.Fernandes :Palmer :M.Salah
+GW22Fwd :João Pedro :Raúl :Isak
+22TV:99.4
+22ITB:0.2
+22Used:0
+22Carry:4
+22Hits:0

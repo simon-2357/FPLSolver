@@ -1,0 +1,120 @@
+9Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :M.Salah :Eze :Mbeumo :B.Fernandes :Foden :Vardy :Archer :Solanke
+GW9GK :Bentley :Raya
+GW9Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW9Mid :M.Salah :Eze :Mbeumo :B.Fernandes :Foden
+GW9Fwd :Vardy :Archer :Solanke
+9TV:99.1
+9ITB:0.7
+9Used:2
+9Carry:2
+9Hits:0
+10Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :Vardy :Archer :Solanke
+GW10GK :Bentley :Raya
+GW10Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW10Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW10Fwd :Vardy :Archer :Solanke
+10TV:99.8
+10ITB:0.0
+10Used:1
+10Carry:2
+10Hits:0
+11Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :Vardy :Archer :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW11Fwd :Vardy :Archer :Solanke
+11TV:99.8
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW12GK :Johnstone :Raya
+GW12Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW12Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW12Fwd :João Pedro :Raúl :Solanke
+12TV:99.8
+12ITB:0.0
+12Used:7
+12Carry:3
+12Hits:0
+13Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW13GK :Johnstone :Raya
+GW13Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW13Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW13Fwd :João Pedro :Raúl :Solanke
+13TV:99.8
+13ITB:0.0
+13Used:0
+13Carry:4
+13Hits:0
+14Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW14GK :Johnstone :Raya
+GW14Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW14Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW14Fwd :João Pedro :Raúl :Solanke
+14TV:99.8
+14ITB:0.0
+14Used:0
+14Carry:4
+14Hits:0
+15Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW15GK :Johnstone :Raya
+GW15Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW15Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW15Fwd :João Pedro :Raúl :Solanke
+15TV:99.8
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW16GK :Johnstone :Raya
+GW16Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW16Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW16Fwd :João Pedro :Raúl :Solanke
+16TV:99.8
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW17GK :Johnstone :Raya
+GW17Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW17Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW17Fwd :João Pedro :Raúl :Solanke
+17TV:99.8
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW18GK :Johnstone :Raya
+GW18Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW18Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW18Fwd :João Pedro :Raúl :Solanke
+18TV:99.8
+18ITB:0.0
+18Used:0
+18Carry:4
+18Hits:0
+19Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW19GK :Johnstone :Raya
+GW19Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW19Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW19Fwd :João Pedro :Raúl :Solanke
+19TV:99.8
+19ITB:0.0
+19Used:0
+19Carry:4
+19Hits:0
+20Squad :Johnstone :Raya :Konsa :Dunk :Andersen :Pedro Porro :Gabriel :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Raúl :Solanke
+GW20GK :Johnstone :Raya
+GW20Def :Konsa :Dunk :Andersen :Pedro Porro :Gabriel
+GW20Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW20Fwd :João Pedro :Raúl :Solanke
+20TV:99.8
+20ITB:0.0
+20Used:0
+20Carry:4
+20Hits:0

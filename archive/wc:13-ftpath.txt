@@ -1,0 +1,12 @@
+9In,:Raúl:Foden,9Out,:João Pedro:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Andersen:Palmer,12Out,:Pedro Porro:Son
+13In,:Konsa:Pedro Porro:Stewart:João Pedro:Johnstone:Son,13Out,:Faes:Alexander-Arnold:Raúl:Archer:Bentley:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,

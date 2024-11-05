@@ -1,0 +1,24 @@
+11In,:Son
+11Out,:Saka
+12In,:Andersen:Konsa:James:Isak:Fabianski:McGinn:Saka:Palmer
+12Out,:Faes:Pedro Porro:Alexander-Arnold:Solanke:Bentley:Garnacho:B.Fernandes:Son
+13In,
+13Out,
+14In,
+14Out,
+15In,
+15Out,
+16In,
+16Out,
+17In,
+17Out,
+18In,:Alexander-Arnold:Eze
+18Out,:Gabriel:Mbeumo
+19In,:Son
+19Out,:Saka
+20In,
+20Out,
+21In,:Rashford:B.Fernandes
+21Out,:McGinn:Son
+22In,
+22Out,

@@ -1,0 +1,12 @@
+9In,:Pinnock:Van den Berg:Haaland:Chiwome:Calvert-Lewin:Kelleher:Ederson M.:Palmer:Mitoma:Bowen:Foden,9Out,:Gabriel:Alexander-Arnold:João Pedro:Archer:Solanke:Bentley:Raya:Saka:M.Salah:Eze:B.Fernandes
+9In,:Burgess:Raúl:Son,9Out,:Dunk:Archer:Saka
+10In,,10Out,
+11In,:Andersen,11Out,:Faes
+12In,,12Out,
+13In,:Ødegaard,13Out,:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,

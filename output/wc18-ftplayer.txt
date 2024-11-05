@@ -1,0 +1,32 @@
+12In:Cash
+12In:James
+12In:Welbeck
+12In:Palmer
+12Out:Pedro Porro
+12Out:Alexander-Arnold
+12Out:Solanke
+12Out:Garnacho
+18In:Taylor
+18In:Konsa
+18In:Pedro Porro
+18In:Alexander-Arnold
+18In:N.Jackson
+18In:Fabianski
+18In:A.Becker
+18In:McGinn
+18In:Eze
+18Out:Faes
+18Out:Dunk
+18Out:Cash
+18Out:Gabriel
+18Out:Welbeck
+18Out:Bentley
+18Out:Raya
+18Out:Mbeumo
+18Out:B.Fernandes
+19In:Son
+19Out:Saka
+21In:Rashford
+21In:B.Fernandes
+21Out:McGinn
+21Out:Son

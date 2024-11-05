@@ -1,0 +1,24 @@
+9In,:Andersen:O'Shea:Haaland:Chiwome:Son:McGinn
+9Out,:Faes:Gabriel:João Pedro:Archer:Saka:M.Salah
+10In,:Cunha:M.Salah
+10Out,:Haaland:McGinn
+11In,
+11Out,
+12In,:João Pedro:Palmer
+12Out,:Cunha:B.Fernandes
+13In,
+13Out,
+14In,
+14Out,
+15In,
+15Out,
+16In,
+16Out,
+17In,
+17Out,
+18In,
+18Out,
+19In,
+19Out,
+20In,
+20Out,

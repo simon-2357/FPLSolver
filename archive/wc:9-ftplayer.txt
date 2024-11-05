@@ -1,0 +1,20 @@
+9In:Andersen
+9In:O'Shea
+9In:Haaland
+9In:Chiwome
+9In:Son
+9In:McGinn
+9Out:Faes
+9Out:Gabriel
+9Out:João Pedro
+9Out:Archer
+9Out:Saka
+9Out:M.Salah
+10In:Cunha
+10In:M.Salah
+10Out:Haaland
+10Out:McGinn
+12In:João Pedro
+12In:Palmer
+12Out:Cunha
+12Out:B.Fernandes

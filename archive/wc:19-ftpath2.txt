@@ -1,0 +1,24 @@
+9In,:Foden
+9Out,:Saka
+10In,:Son
+10Out,:Foden
+11In,
+11Out,
+12In,:Andersen:Palmer:Semenyo
+12Out,:Pedro Porro:Eze:B.Fernandes
+13In,
+13Out,
+14In,
+14Out,
+15In,
+15Out,
+16In,
+16Out,
+17In,
+17Out,
+18In,
+18Out,
+19In,:Konsa:Guéhi:Burgess:Pedro Porro:Raúl:Watkins:Arrizabalaga:Henderson:Dibling:Eze:De Bruyne
+19Out,:Dunk:Andersen:Faes:Gabriel:João Pedro:Archer:Bentley:Raya:Palmer:Semenyo:Mbeumo
+20In,
+20Out,

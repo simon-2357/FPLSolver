@@ -1,0 +1,26 @@
+9In:Foden
+9Out:Saka
+10In:Son
+10Out:Foden
+12In:Konsa
+12In:Andersen
+12In:Palmer
+12Out:Faes
+12Out:Alexander-Arnold
+12Out:B.Fernandes
+18In:Colwill
+18In:Burgess
+18In:Alexander-Arnold
+18In:Raúl
+18In:Arrizabalaga
+18In:Henderson
+18In:Ødegaard
+18In:De Bruyne
+18Out:Konsa
+18Out:Dunk
+18Out:Gabriel
+18Out:Archer
+18Out:Bentley
+18Out:Raya
+18Out:Palmer
+18Out:Mbeumo

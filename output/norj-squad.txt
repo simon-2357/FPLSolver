@@ -1,0 +1,3040 @@
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Bowen :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Mbeumo :Bowen :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.9
+14ITB:0.8
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Bowen :Garnacho :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Mbeumo :Bowen :Garnacho
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:98.9
+15ITB:0.8
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Kluivert :Isak :Solanke :Raúl
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Mbeumo :Garnacho :Kluivert
+GW16Fwd :Isak :Solanke :Raúl
+16TV:99.6
+16ITB:0.1
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Tete :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Kluivert :Isak :N.Jackson :Raúl
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Tete :Dunk :Cash :Faes
+GW17Mid :M.Salah :Palmer :Mbeumo :Garnacho :Kluivert
+GW17Fwd :Isak :N.Jackson :Raúl
+17TV:97.5
+17ITB:2.2
+17Used:2
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Lewis :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :N.Jackson :Welbeck :Raúl
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Lewis :Dunk :Cash :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :N.Jackson :Welbeck :Raúl
+18TV:99.3
+18ITB:0.3
+18Used:3
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Bowen :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Mbeumo :Bowen :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.9
+14ITB:0.8
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Bowen :Garnacho :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Mbeumo :Bowen :Garnacho
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:98.9
+15ITB:0.8
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :Mbeumo :Bowen :Minteh :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Mbeumo :Bowen :Minteh
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.4
+16ITB:0.3
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :Mbeumo :Bowen :Minteh :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Mbeumo :Bowen :Minteh
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.4
+17ITB:0.3
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes :M.Salah :Palmer :Mbeumo :Bowen :Minteh :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Mbeumo :Bowen :Minteh
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:1
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Rogers
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.9
+14ITB:0.8
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Rogers :Solanke :Welbeck :Raúl
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Rogers
+GW15Fwd :Solanke :Welbeck :Raúl
+15TV:99.4
+15ITB:0.3
+15Used:1
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo :Solanke :Welbeck :Raúl
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo
+GW16Fwd :Solanke :Welbeck :Raúl
+16TV:99.6
+16ITB:0.1
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo :Solanke :Welbeck :Raúl
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo
+GW17Fwd :Solanke :Welbeck :Raúl
+17TV:99.6
+17ITB:0.1
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Virgil :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo :Solanke :Welbeck :Raúl
+GW18GK :Raya :Bentley
+GW18Def :Virgil :Gabriel :Konsa :Dunk :Faes
+GW18Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Semenyo
+GW18Fwd :Solanke :Welbeck :Raúl
+18TV:98.8
+18ITB:0.9
+18Used:1
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gvardiol :Gabriel :Dunk :Faes :Van den Berg
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW13Fwd :Solanke :Welbeck :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:3
+13Carry:0
+13Hits:0
+14Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gvardiol :Gabriel :Dunk :Faes :Van den Berg
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW14Fwd :Solanke :Welbeck :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:0
+14Carry:1
+14Hits:0
+15Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gvardiol :Gabriel :Dunk :Faes :Van den Berg
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW15Fwd :Solanke :Welbeck :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Welbeck :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gvardiol :Gabriel :Dunk :Faes :Van den Berg
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW16Fwd :Solanke :Welbeck :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:1
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Andersen :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Welbeck :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gvardiol :Gabriel :Dunk :Andersen :Van den Berg
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW17Fwd :Solanke :Welbeck :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:1
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Andersen :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gvardiol :Gabriel :Dunk :Andersen :Van den Berg
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Solanke :Welbeck :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:-0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW12Fwd :Raúl :Vardy :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:3
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Raúl :Vardy :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW14Fwd :Raúl :Vardy :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW15Fwd :Raúl :Vardy :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Dunk :Cash :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Madueke :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Dunk :Cash :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:3
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Saliba :Cash :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Saliba :Cash :Hall :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:2
+17Carry:1
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Saliba :Cash :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Darwin :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Saliba :Cash :Hall :Faes
+GW18Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW18Fwd :Darwin :Raúl :João Pedro
+18TV:98.3
+18ITB:1.4
+18Used:1
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Calafiori :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Calafiori :Pedro Porro :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.5
+13ITB:0.2
+13Used:2
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Calafiori :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Calafiori :Pedro Porro :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Calafiori :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Calafiori :Pedro Porro :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Calafiori :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Calafiori :Pedro Porro :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Calafiori :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Welbeck :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Calafiori :Pedro Porro :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW17Fwd :Welbeck :Raúl :João Pedro
+17TV:98.1
+17ITB:1.6
+17Used:1
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Welbeck :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW18Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW18Fwd :Welbeck :Raúl :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:4
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :McGinn :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :McGinn
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.9
+14ITB:0.8
+14Used:3
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :McGinn :Isak :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :McGinn
+GW15Fwd :Isak :Raúl :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:1
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :McGinn :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :McGinn
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :McGinn :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :McGinn
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Szoboszlai :Welbeck :João Pedro :Enes Ünal
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Szoboszlai
+GW18Fwd :Welbeck :João Pedro :Enes Ünal
+18TV:99.7
+18ITB:0.0
+18Used:4
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW12Fwd :Raúl :Vardy :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:3
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Raúl :Vardy :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Raúl :Vardy :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Rogers :Raúl :Vardy :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW14Fwd :Raúl :Vardy :João Pedro
+14TV:98.8
+14ITB:0.9
+14Used:1
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Rogers :Raúl :Vardy :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW15Fwd :Raúl :Vardy :João Pedro
+15TV:98.8
+15ITB:0.9
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Rogers :Raúl :Vardy :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW16Fwd :Raúl :Vardy :João Pedro
+16TV:99.3
+16ITB:0.4
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Akanji :Lewis :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Rashford :Raúl :Vardy :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Akanji :Lewis :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Rashford
+GW17Fwd :Raúl :Vardy :João Pedro
+17TV:99.3
+17ITB:0.4
+17Used:2
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Robertson :Akanji :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Minteh :Raúl :Vardy :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Robertson :Akanji :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Minteh
+GW18Fwd :Raúl :Vardy :João Pedro
+18TV:98.8
+18ITB:0.9
+18Used:2
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.9
+12ITB:0.8
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Digne :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Digne :Dunk :Alex Moreno :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.1
+13ITB:0.6
+13Used:2
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Rúben :Digne :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Rúben :Digne :Dunk :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.3
+14ITB:0.4
+14Used:2
+14Carry:1
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Rúben :Digne :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Rúben :Digne :Dunk :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.3
+15ITB:0.4
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Rúben :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Rúben :Dunk :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:2
+16Carry:1
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Rúben :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Rúben :Dunk :Hall :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Welbeck :Evanilson :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gvardiol :Gabriel :Dunk :Hall :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Welbeck :Evanilson :João Pedro
+18TV:98.2
+18ITB:1.5
+18Used:3
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Saka :Son :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW13Mid :M.Salah :Saka :Son :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.8
+13ITB:0.9
+13Used:2
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Son :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW14Mid :M.Salah :Palmer :Son :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.9
+14ITB:0.8
+14Used:2
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Son :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW15Mid :M.Salah :Palmer :Son :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:98.9
+15ITB:0.8
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Son :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW16Mid :M.Salah :Palmer :Son :Mbeumo :Kluivert
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:98.9
+16ITB:0.8
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Son :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW17Mid :M.Salah :Son :B.Fernandes :Mbeumo :Kluivert
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:96.1
+17ITB:3.6
+17Used:1
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes :M.Salah :Mbeumo :Diogo J. :Sávio :Kluivert :Haaland :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Dunk :Alex Moreno :Faes
+GW18Mid :M.Salah :Mbeumo :Diogo J. :Sávio :Kluivert
+GW18Fwd :Haaland :Raúl :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:3
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Livramento :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Livramento :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.7
+12ITB:1.0
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Livramento :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Livramento :Dunk :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.7
+13ITB:1.0
+13Used:-0
+13Carry:4
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Aké :Livramento :Dunk :Faes :M.Salah :Saka :Mbeumo :Martinelli :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Aké :Livramento :Dunk :Faes
+GW14Mid :M.Salah :Saka :Mbeumo :Martinelli :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:96.7
+14ITB:3.0
+14Used:2
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Aké :Livramento :Dunk :Faes :M.Salah :Saka :Mbeumo :Garnacho :Kluivert :Watkins :Solanke :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Aké :Livramento :Dunk :Faes
+GW15Mid :M.Salah :Saka :Mbeumo :Garnacho :Kluivert
+GW15Fwd :Watkins :Solanke :João Pedro
+15TV:98.3
+15ITB:1.4
+15Used:2
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Aké :Livramento :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Strand Larsen :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Aké :Livramento :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW16Fwd :Solanke :Strand Larsen :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:2
+16Carry:1
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Aké :Livramento :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Strand Larsen :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Aké :Livramento :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW17Fwd :Solanke :Strand Larsen :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Aké :Livramento :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Strand Larsen :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Aké :Livramento :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Solanke :Strand Larsen :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:-0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Evanilson :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW12Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW12Fwd :Evanilson :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:3
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Evanilson :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Evanilson :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Evanilson :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW14Fwd :Evanilson :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Dunk :Cash :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Isak :Evanilson :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Dunk :Cash :Hall :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW15Fwd :Isak :Evanilson :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:2
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Dunk :Cash :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Isak :Strand Larsen :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Dunk :Cash :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW16Fwd :Isak :Strand Larsen :João Pedro
+16TV:99.4
+16ITB:0.3
+16Used:1
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Dunk :Cash :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Isak :Strand Larsen :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Dunk :Cash :Hall :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW17Fwd :Isak :Strand Larsen :João Pedro
+17TV:99.4
+17ITB:0.3
+17Used:0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Gvardiol :Gabriel :Dunk :Cash :Hall :M.Salah :Palmer :Mbeumo :Garnacho :Tavernier :Havertz :Strand Larsen :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gvardiol :Gabriel :Dunk :Cash :Hall
+GW18Mid :M.Salah :Palmer :Mbeumo :Garnacho :Tavernier
+GW18Fwd :Havertz :Strand Larsen :João Pedro
+18TV:96.8
+18ITB:2.9
+18Used:3
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.9
+12ITB:0.8
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Digne :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Digne :Dunk :Alex Moreno :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.1
+13ITB:0.6
+13Used:2
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Digne :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Digne :Dunk :Alex Moreno :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.1
+14ITB:0.6
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Digne :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Evanilson :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Digne :Dunk :Alex Moreno :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW15Fwd :Solanke :Evanilson :João Pedro
+15TV:99.3
+15ITB:0.4
+15Used:1
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Cunha :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW16Fwd :Solanke :Cunha :João Pedro
+16TV:99.6
+16ITB:0.1
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Isak :Welbeck :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW17Fwd :Isak :Welbeck :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:2
+17Carry:1
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Isak :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW18Fwd :Isak :Welbeck :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Son :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Son :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.6
+11ITB:0.1
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:2
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.8
+13ITB:0.9
+13Used:1
+13Carry:1
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:98.8
+14ITB:0.9
+14Used:0
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:98.8
+15ITB:0.9
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.6
+16ITB:0.1
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pau :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Pau :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.6
+17ITB:0.1
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Gusto :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Welbeck :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Gusto :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Welbeck :Raúl :João Pedro
+18TV:99.4
+18ITB:0.2
+18Used:3
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Sangaré :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Sangaré
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.1
+13ITB:1.6
+13Used:3
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Sangaré :Watkins :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Sangaré
+GW14Fwd :Watkins :Raúl :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:1
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Sangaré :Watkins :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Sangaré
+GW15Fwd :Watkins :Raúl :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Cunha :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW16Fwd :Cunha :Raúl :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Smith Rowe :Wood :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Smith Rowe
+GW17Fwd :Wood :Raúl :João Pedro
+17TV:98.4
+17ITB:1.3
+17Used:2
+17Carry:1
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Rashford :Wood :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Rashford
+GW18Fwd :Wood :Raúl :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:4
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Aké :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Aké :Dunk :Faes
+GW14Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:2
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Aké :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers :Solanke :Welbeck :Raúl
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Aké :Dunk :Faes
+GW15Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers
+GW15Fwd :Solanke :Welbeck :Raúl
+15TV:99.2
+15ITB:0.5
+15Used:2
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Aké :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers :Solanke :Welbeck :Raúl
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Aké :Dunk :Faes
+GW16Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers
+GW16Fwd :Solanke :Welbeck :Raúl
+16TV:99.2
+16ITB:0.5
+16Used:0
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Aké :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers :Solanke :Welbeck :Raúl
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Aké :Dunk :Faes
+GW17Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers
+GW17Fwd :Solanke :Welbeck :Raúl
+17TV:99.2
+17ITB:0.5
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Aké :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers :Solanke :Welbeck :Raúl
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Aké :Dunk :Faes
+GW18Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Rogers
+GW18Fwd :Solanke :Welbeck :Raúl
+18TV:99.2
+18ITB:0.5
+18Used:-0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:4
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :Ødegaard :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Garnacho
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:1
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dalot :Dunk :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:3
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dalot :Dunk :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dalot :Dunk :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dalot :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dalot :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Aké :Dalot :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Aké :Dalot :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.5
+18ITB:0.2
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:-0.0
+11Used:-0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.1
+12ITB:0.6
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Lewis :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Lewis :Dunk :Alex Moreno :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.3
+13ITB:0.4
+13Used:2
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Lewis :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Lewis :Dunk :Alex Moreno :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.3
+14ITB:0.4
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Lewis :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Lewis :Dunk :Alex Moreno :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.3
+15ITB:0.4
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Gordon :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Gordon
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Gordon :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Gordon
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:-0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Dunk :Alex Moreno :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Neto :N.Jackson :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Dunk :Alex Moreno :Hall :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Neto
+GW18Fwd :N.Jackson :Raúl :João Pedro
+18TV:99.1
+18ITB:0.6
+18Used:2
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:4
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Adama :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Adama
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.1
+14ITB:0.6
+14Used:3
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Adama :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Adama
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.1
+15ITB:0.6
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Adama :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Hall :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Adama
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Adama :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Hall :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Adama
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Hall :Faes :M.Salah :Palmer :Saka :Mbeumo :Adama :Isak :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Dunk :Hall :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Adama
+GW18Fwd :Isak :Welbeck :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo :Isak :Solanke :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW14Mid :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo
+GW14Fwd :Isak :Solanke :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:2
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo :Isak :Solanke :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Konsa :Dunk :Faes
+GW15Mid :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo
+GW15Fwd :Isak :Solanke :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo :Isak :Welbeck :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo
+GW16Fwd :Isak :Welbeck :João Pedro
+16TV:99.6
+16ITB:0.1
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo :Isak :Welbeck :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo
+GW17Fwd :Isak :Welbeck :João Pedro
+17TV:99.6
+17ITB:0.1
+17Used:0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo :Isak :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Robertson :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Mbeumo :Garnacho :Semenyo
+GW18Fwd :Isak :Welbeck :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Son :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Son :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.6
+11ITB:0.1
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.0
+12ITB:0.7
+12Used:3
+12Carry:0
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.0
+13ITB:0.7
+13Used:0
+13Carry:1
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.0
+14ITB:0.7
+14Used:0
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.0
+15ITB:0.7
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :Ødegaard :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Kluivert
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.0
+16ITB:0.7
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Palmer :Ødegaard :Mbeumo :Iwobi :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Iwobi
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.2
+17ITB:0.5
+17Used:1
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Estupiñan :Digne :Dunk :Faes :M.Salah :Palmer :Ødegaard :Luis Díaz :Mbeumo :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Estupiñan :Digne :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Ødegaard :Luis Díaz :Mbeumo
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.5
+18ITB:0.2
+18Used:2
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.5
+12ITB:1.2
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Welbeck :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Welbeck :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:2
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Son :Mbeumo :Sangaré :Solanke :Welbeck :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW14Mid :M.Salah :Palmer :Son :Mbeumo :Sangaré
+GW14Fwd :Solanke :Welbeck :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:2
+14Carry:1
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Son :Mbeumo :Sangaré :Solanke :Welbeck :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW15Mid :M.Salah :Palmer :Son :Mbeumo :Sangaré
+GW15Fwd :Solanke :Welbeck :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Calafiori :Dunk :Hall :Faes :M.Salah :Palmer :Son :Mbeumo :Sangaré :Solanke :Welbeck :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Calafiori :Dunk :Hall :Faes
+GW16Mid :M.Salah :Palmer :Son :Mbeumo :Sangaré
+GW16Fwd :Solanke :Welbeck :João Pedro
+16TV:99.3
+16ITB:0.4
+16Used:1
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Calafiori :Dunk :Hall :Faes :M.Salah :Palmer :Son :Mbeumo :Sangaré :Solanke :Welbeck :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Calafiori :Dunk :Hall :Faes
+GW17Mid :M.Salah :Palmer :Son :Mbeumo :Sangaré
+GW17Fwd :Solanke :Welbeck :João Pedro
+17TV:99.3
+17ITB:0.4
+17Used:0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Calafiori :Dunk :Hall :Faes :M.Salah :Ødegaard :Mbeumo :O.Dango :Sangaré :Haaland :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Calafiori :Dunk :Hall :Faes
+GW18Mid :M.Salah :Ødegaard :Mbeumo :O.Dango :Sangaré
+GW18Fwd :Haaland :Welbeck :João Pedro
+18TV:99.4
+18ITB:0.3
+18Used:3
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Digne :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Digne :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.9
+12ITB:0.8
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Digne :Aït-Nouri :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Digne :Aït-Nouri :Dunk :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.4
+13ITB:0.3
+13Used:2
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Digne :Aït-Nouri :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Digne :Aït-Nouri :Dunk :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.4
+14ITB:0.3
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Digne :Aït-Nouri :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Welbeck :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Digne :Aït-Nouri :Dunk :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW15Fwd :Solanke :Welbeck :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:1
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Aït-Nouri :Colwill :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Madueke :Solanke :Welbeck :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Aït-Nouri :Colwill :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW16Fwd :Solanke :Welbeck :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Aït-Nouri :Colwill :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Madueke :Solanke :Welbeck :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Aït-Nouri :Colwill :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW17Fwd :Solanke :Welbeck :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:-0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Virgil :Gabriel :Colwill :Dunk :Faes :M.Salah :Palmer :Saka :Mbeumo :Madueke :Welbeck :João Pedro :Enes Ünal
+GW18GK :Raya :Bentley
+GW18Def :Virgil :Gabriel :Colwill :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW18Fwd :Welbeck :João Pedro :Enes Ünal
+18TV:99.1
+18ITB:0.6
+18Used:2
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW12Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.5
+12ITB:0.2
+12Used:4
+12Carry:0
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW13Fwd :Solanke :Welbeck :João Pedro
+13TV:99.7
+13ITB:0.0
+13Used:1
+13Carry:0
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW14Fwd :Solanke :Welbeck :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:1
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW15Fwd :Solanke :Welbeck :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Palmer :Saka :Mbeumo :Rogers :Solanke :Welbeck :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Rogers
+GW16Fwd :Solanke :Welbeck :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Livramento :Dunk :Cash :M.Salah :Saka :Mbeumo :Diogo J. :Rogers :Isak :Solanke :Welbeck
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Livramento :Dunk :Cash
+GW17Mid :M.Salah :Saka :Mbeumo :Diogo J. :Rogers
+GW17Fwd :Isak :Solanke :Welbeck
+17TV:98.9
+17ITB:0.8
+17Used:2
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Livramento :Dunk :Cash :M.Salah :Saka :Mbeumo :Diogo J. :Sávio :Isak :Welbeck :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Livramento :Dunk :Cash
+GW18Mid :M.Salah :Saka :Mbeumo :Diogo J. :Sávio
+GW18Fwd :Isak :Welbeck :João Pedro
+18TV:99.4
+18ITB:0.3
+18Used:3
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.6
+12ITB:1.1
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Dunk :Cash :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Dunk :Cash :Alex Moreno :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.3
+13ITB:0.4
+13Used:3
+13Carry:1
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Dunk :Cash :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Dunk :Cash :Alex Moreno :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.3
+14ITB:0.4
+14Used:0
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Dunk :Cash :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Dunk :Cash :Alex Moreno :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.3
+15ITB:0.4
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Colwill :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Colwill :Dunk :Alex Moreno :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Colwill :Dunk :Alex Moreno :Faes :M.Salah :Palmer :Saka :Mbeumo :Johnson :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Colwill :Dunk :Alex Moreno :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Johnson
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Colwill :Dunk :Alex Moreno :Faes :Palmer :Saka :Mbeumo :Johnson :Gravenberch :Haaland :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Colwill :Dunk :Alex Moreno :Faes
+GW18Mid :Palmer :Saka :Mbeumo :Johnson :Gravenberch
+GW18Fwd :Haaland :Raúl :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:2
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Calvert-Lewin :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Calvert-Lewin :Raúl :João Pedro
+12TV:98.8
+12ITB:0.9
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Calvert-Lewin :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Calvert-Lewin :Raúl :João Pedro
+13TV:98.8
+13ITB:0.9
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke :Calvert-Lewin :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes
+GW14Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke
+GW14Fwd :Calvert-Lewin :Raúl :João Pedro
+14TV:99.0
+14ITB:0.7
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke :Calvert-Lewin :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gvardiol :Gabriel :Dunk :Faes
+GW15Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Madueke
+GW15Fwd :Calvert-Lewin :Raúl :João Pedro
+15TV:99.0
+15ITB:0.7
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Calvert-Lewin :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW16Fwd :Calvert-Lewin :Raúl :João Pedro
+16TV:99.6
+16ITB:0.1
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Calvert-Lewin :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW17Fwd :Calvert-Lewin :Raúl :João Pedro
+17TV:99.6
+17ITB:0.1
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke :Calvert-Lewin :João Pedro :Archer
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Calafiori :Dunk :Faes
+GW18Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Madueke
+GW18Fwd :Calvert-Lewin :João Pedro :Archer
+18TV:98.9
+18ITB:0.8
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :B.Fernandes :Mbeumo :Rashford :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :B.Fernandes :Mbeumo :Rashford :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:96.6
+11ITB:3.1
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.8
+12ITB:0.9
+12Used:2
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.8
+13ITB:0.9
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford :Solanke :Vardy :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Rashford
+GW14Fwd :Solanke :Vardy :João Pedro
+14TV:98.8
+14ITB:0.9
+14Used:1
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :B.Fernandes :Luis Díaz :Mbeumo :Solanke :Vardy :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Luis Díaz :Mbeumo
+GW15Fwd :Solanke :Vardy :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:1
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Diogo J. :Trossard :Isak :Vardy :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Mbeumo :Diogo J. :Trossard
+GW16Fwd :Isak :Vardy :João Pedro
+16TV:98.7
+16ITB:1.0
+16Used:3
+16Carry:0
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Mbeumo :Diogo J. :Trossard :Isak :Vardy :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW17Mid :M.Salah :Palmer :Mbeumo :Diogo J. :Trossard
+GW17Fwd :Isak :Vardy :João Pedro
+17TV:98.7
+17ITB:1.0
+17Used:0
+17Carry:1
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Mbeumo :Diogo J. :Trossard :Dibling :Haaland :Vardy :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW18Mid :M.Salah :Mbeumo :Diogo J. :Trossard :Dibling
+GW18Fwd :Haaland :Vardy :João Pedro
+18TV:99.3
+18ITB:0.4
+18Used:2
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :João Pedro :Archer
+GW12GK :Raya :Bentley
+GW12Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW12Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW12Fwd :Raúl :João Pedro :Archer
+12TV:99.4
+12ITB:0.3
+12Used:3
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :João Pedro :Archer
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW13Fwd :Raúl :João Pedro :Archer
+13TV:99.4
+13ITB:0.3
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Evanilson :João Pedro :Archer
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW14Fwd :Evanilson :João Pedro :Archer
+14TV:99.6
+14ITB:0.1
+14Used:1
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Evanilson :João Pedro :Archer
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW15Fwd :Evanilson :João Pedro :Archer
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Neto :Cunha :Evanilson :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Neto
+GW16Fwd :Cunha :Evanilson :João Pedro
+16TV:99.2
+16ITB:0.5
+16Used:2
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Neto :Højlund :Cunha :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW17Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Neto
+GW17Fwd :Højlund :Cunha :João Pedro
+17TV:97.4
+17ITB:2.3
+17Used:2
+17Carry:1
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Lewis :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Diogo J. :Højlund :Cunha :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Lewis :Dunk :Faes
+GW18Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Diogo J.
+GW18Fwd :Højlund :Cunha :João Pedro
+18TV:99.0
+18ITB:0.7
+18Used:2
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :Vardy :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Faes :Taylor
+GW13Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW13Fwd :Raúl :Vardy :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:3
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Rúben :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :Vardy :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Rúben :Dunk :Faes :Taylor
+GW14Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW14Fwd :Raúl :Vardy :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:1
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Rúben :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :Vardy :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Rúben :Dunk :Faes :Taylor
+GW15Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW15Fwd :Raúl :Vardy :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Rúben :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :Strand Larsen :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Rúben :Dunk :Faes :Taylor
+GW16Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW16Fwd :Raúl :Strand Larsen :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Robinson :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo :Raúl :Strand Larsen :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Robinson :Dunk :Faes :Taylor
+GW17Mid :M.Salah :Palmer :Saka :B.Fernandes :Mbeumo
+GW17Fwd :Raúl :Strand Larsen :João Pedro
+17TV:98.7
+17ITB:1.0
+17Used:1
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Faes :Taylor :M.Salah :Palmer :Saka :Mbeumo :Rashford :Raúl :Strand Larsen :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Dunk :Faes :Taylor
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Rashford
+GW18Fwd :Raúl :Strand Larsen :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:2
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :B.Fernandes :Mbeumo :Johnson :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :B.Fernandes :Mbeumo :Johnson :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:96.4
+11ITB:3.3
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson :Calvert-Lewin :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson
+GW12Fwd :Calvert-Lewin :Raúl :João Pedro
+12TV:99.6
+12ITB:0.1
+12Used:2
+12Carry:1
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson :Calvert-Lewin :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson
+GW13Fwd :Calvert-Lewin :Raúl :João Pedro
+13TV:99.6
+13ITB:0.1
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson :Calvert-Lewin :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson
+GW14Fwd :Calvert-Lewin :Raúl :João Pedro
+14TV:99.6
+14ITB:0.1
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson :Calvert-Lewin :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Johnson
+GW15Fwd :Calvert-Lewin :Raúl :João Pedro
+15TV:99.6
+15ITB:0.1
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :Mbeumo :Martinelli :Johnson :Cunha :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW16Mid :M.Salah :Palmer :Mbeumo :Martinelli :Johnson
+GW16Fwd :Cunha :Raúl :João Pedro
+16TV:99.1
+16ITB:0.6
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :Mbeumo :Martinelli :Johnson :Cunha :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW17Mid :M.Salah :Palmer :Mbeumo :Martinelli :Johnson
+GW17Fwd :Cunha :Raúl :João Pedro
+17TV:99.1
+17ITB:0.6
+17Used:-0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Palmer :Mbeumo :Diogo J. :Martinelli :Cunha :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW18Mid :M.Salah :Palmer :Mbeumo :Diogo J. :Martinelli
+GW18Fwd :Cunha :Raúl :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:1
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:-0.0
+11Used:-0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:98.5
+12ITB:1.2
+12Used:1
+12Carry:3
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.5
+13ITB:0.2
+13Used:1
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall
+GW14Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.5
+14ITB:0.2
+14Used:3
+14Carry:1
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall
+GW15Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.5
+15ITB:0.2
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall
+GW16Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:0
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall
+GW17Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Lewis :Dunk :Hall
+GW18Mid :M.Salah :Palmer :Ødegaard :Mbeumo :Rogers
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.5
+18ITB:0.2
+18Used:0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW12Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.5
+12ITB:0.2
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.5
+13ITB:0.2
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Hall :Faes :M.Salah :Palmer :Foden :Mbeumo :Andreas :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Hall :Faes
+GW14Mid :M.Salah :Palmer :Foden :Mbeumo :Andreas
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:2
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Robertson :Dunk :Hall :Faes :M.Salah :Palmer :Foden :Mbeumo :Andreas :Isak :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Robertson :Dunk :Hall :Faes
+GW15Mid :M.Salah :Palmer :Foden :Mbeumo :Andreas
+GW15Fwd :Isak :Raúl :João Pedro
+15TV:99.5
+15ITB:0.2
+15Used:2
+15Carry:1
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Robertson :Dunk :Hall :Faes :M.Salah :Palmer :Foden :Mbeumo :Andreas :Isak :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Robertson :Dunk :Hall :Faes
+GW16Mid :M.Salah :Palmer :Foden :Mbeumo :Andreas
+GW16Fwd :Isak :Raúl :João Pedro
+16TV:99.5
+16ITB:0.2
+16Used:0
+16Carry:2
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Robertson :Dunk :Hall :Faes :M.Salah :Palmer :Foden :Mbeumo :Andreas :Isak :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Robertson :Dunk :Hall :Faes
+GW17Mid :M.Salah :Palmer :Foden :Mbeumo :Andreas
+GW17Fwd :Isak :Raúl :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:-0
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Saliba :Robertson :Dunk :Faes :M.Salah :De Bruyne :Foden :Mbeumo :Andreas :Isak :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Saliba :Robertson :Dunk :Faes
+GW18Mid :M.Salah :De Bruyne :Foden :Mbeumo :Andreas
+GW18Fwd :Isak :Raúl :João Pedro
+18TV:99.6
+18ITB:0.1
+18Used:2
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Cash :M.Salah :Saka :B.Fernandes :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Cash
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Kluivert
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.1
+12ITB:0.6
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.3
+13ITB:0.4
+13Used:2
+13Carry:1
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.3
+14ITB:0.4
+14Used:-0
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.3
+15ITB:0.4
+15Used:0
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Solanke :Strand Larsen :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Alex Moreno
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW16Fwd :Solanke :Strand Larsen :João Pedro
+16TV:99.2
+16ITB:0.5
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Estupiñan :Dunk :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Isak :Strand Larsen :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Estupiñan :Dunk :Cash :Alex Moreno
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW17Fwd :Isak :Strand Larsen :João Pedro
+17TV:99.5
+17ITB:0.2
+17Used:2
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Estupiñan :Cash :Alex Moreno :M.Salah :Palmer :Saka :Mbeumo :Kluivert :Welbeck :Strand Larsen :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Alexander-Arnold :Gabriel :Estupiñan :Cash :Alex Moreno
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Kluivert
+GW18Fwd :Welbeck :Strand Larsen :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:2
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Welbeck :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW13Fwd :Solanke :Welbeck :João Pedro
+13TV:98.5
+13ITB:1.2
+13Used:4
+13Carry:1
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Welbeck :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW14Fwd :Solanke :Welbeck :João Pedro
+14TV:98.5
+14ITB:1.2
+14Used:-0
+14Carry:2
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Cunha :Welbeck
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW15Fwd :Solanke :Cunha :Welbeck
+15TV:99.7
+15ITB:0.0
+15Used:1
+15Carry:2
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Cunha :Welbeck
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW16Fwd :Solanke :Cunha :Welbeck
+16TV:99.7
+16ITB:0.0
+16Used:-0
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Cunha :Welbeck
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW17Fwd :Solanke :Cunha :Welbeck
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Cash :Faes :M.Salah :Palmer :Saka :Mbeumo :Dibling :Solanke :Cunha :Welbeck
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Pedro Porro :Dunk :Cash :Faes
+GW18Mid :M.Salah :Palmer :Saka :Mbeumo :Dibling
+GW18Fwd :Solanke :Cunha :Welbeck
+18TV:99.7
+18ITB:0.0
+18Used:-0
+18Carry:1
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Calvert-Lewin :Raúl
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Calvert-Lewin :Raúl
+12TV:99.1
+12ITB:0.6
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Calvert-Lewin :Raúl
+GW13GK :Raya :Bentley
+GW13Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW13Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Calvert-Lewin :Raúl
+13TV:99.1
+13ITB:0.6
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Calvert-Lewin :Raúl
+GW14GK :Raya :Bentley
+GW14Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW14Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW14Fwd :Solanke :Calvert-Lewin :Raúl
+14TV:99.1
+14ITB:0.6
+14Used:0
+14Carry:4
+14Hits:0
+15Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Calvert-Lewin :Raúl
+GW15GK :Raya :Bentley
+GW15Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW15Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW15Fwd :Solanke :Calvert-Lewin :Raúl
+15TV:99.1
+15ITB:0.6
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Dunk :Cash :Faes :M.Salah :Saka :Mbeumo :Madueke :Garnacho :Isak :Solanke :Raúl
+GW16GK :Raya :Bentley
+GW16Def :Alexander-Arnold :Gabriel :Dunk :Cash :Faes
+GW16Mid :M.Salah :Saka :Mbeumo :Madueke :Garnacho
+GW16Fwd :Isak :Solanke :Raúl
+16TV:99.7
+16ITB:-0.0
+16Used:2
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Akanji :Dunk :Cash :Faes :M.Salah :Saka :Maddison :Mbeumo :Garnacho :Isak :Solanke :Raúl
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Akanji :Dunk :Cash :Faes
+GW17Mid :M.Salah :Saka :Maddison :Mbeumo :Garnacho
+GW17Fwd :Isak :Solanke :Raúl
+17TV:99.4
+17ITB:0.3
+17Used:2
+17Carry:2
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Akanji :Dunk :Cash :Faes :M.Salah :Saka :Mbeumo :Garnacho :Georginio :Isak :Solanke :Raúl
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Akanji :Dunk :Cash :Faes
+GW18Mid :M.Salah :Saka :Mbeumo :Garnacho :Georginio
+GW18Fwd :Isak :Solanke :Raúl
+18TV:97.4
+18ITB:2.3
+18Used:1
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW13Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:98.4
+13ITB:1.3
+13Used:2
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW14Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW15Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Raya :Bentley :Gabriel :Pedro Porro :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Gabriel :Pedro Porro :Digne :Dunk :Faes
+GW16Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:99.7
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Raya :Bentley :Gabriel :Akanji :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Gabriel :Akanji :Digne :Dunk :Faes
+GW17Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.7
+17ITB:0.0
+17Used:1
+17Carry:4
+17Hits:0
+18Squad :Raya :Bentley :Gabriel :Akanji :Digne :Dunk :Faes :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Gabriel :Akanji :Digne :Dunk :Faes
+GW18Mid :M.Salah :Palmer :B.Fernandes :Mbeumo :Bowen
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:99.7
+18ITB:0.0
+18Used:0
+18Carry:0
+18Hits:0
+11Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW11GK :Raya :Bentley
+GW11Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW11Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW11Fwd :Solanke :Raúl :João Pedro
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Raya :Bentley :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW12GK :Raya :Bentley
+GW12Def :Alexander-Arnold :Gabriel :Pedro Porro :Dunk :Faes
+GW12Mid :M.Salah :Saka :B.Fernandes :Mbeumo :Garnacho
+GW12Fwd :Solanke :Raúl :João Pedro
+12TV:99.7
+12ITB:0.0
+12Used:0
+12Carry:4
+12Hits:0
+13Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Garnacho :Solanke :Raúl :João Pedro
+GW13GK :Raya :Bentley
+GW13Def :Gabriel :Pedro Porro :Dunk :Faes :Van den Berg
+GW13Mid :M.Salah :Palmer :Saka :Mbeumo :Garnacho
+GW13Fwd :Solanke :Raúl :João Pedro
+13TV:99.5
+13ITB:0.2
+13Used:2
+13Carry:3
+13Hits:0
+14Squad :Raya :Bentley :Gabriel :Pedro Porro :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW14GK :Raya :Bentley
+GW14Def :Gabriel :Pedro Porro :Dunk :Faes :Van den Berg
+GW14Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW14Fwd :Solanke :Raúl :João Pedro
+14TV:99.7
+14ITB:0.0
+14Used:1
+14Carry:3
+14Hits:0
+15Squad :Raya :Bentley :Calafiori :Pedro Porro :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW15GK :Raya :Bentley
+GW15Def :Calafiori :Pedro Porro :Dunk :Faes :Van den Berg
+GW15Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW15Fwd :Solanke :Raúl :João Pedro
+15TV:99.4
+15ITB:0.3
+15Used:1
+15Carry:3
+15Hits:0
+16Squad :Raya :Bentley :Calafiori :Gusto :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Madueke :Solanke :Raúl :João Pedro
+GW16GK :Raya :Bentley
+GW16Def :Calafiori :Gusto :Dunk :Faes :Van den Berg
+GW16Mid :M.Salah :Palmer :Saka :Mbeumo :Madueke
+GW16Fwd :Solanke :Raúl :João Pedro
+16TV:98.8
+16ITB:0.9
+16Used:1
+16Carry:3
+16Hits:0
+17Squad :Raya :Bentley :Calafiori :Gusto :Dunk :Faes :Van den Berg :M.Salah :Palmer :Saka :Mbeumo :Rashford :Solanke :Raúl :João Pedro
+GW17GK :Raya :Bentley
+GW17Def :Calafiori :Gusto :Dunk :Faes :Van den Berg
+GW17Mid :M.Salah :Palmer :Saka :Mbeumo :Rashford
+GW17Fwd :Solanke :Raúl :João Pedro
+17TV:99.3
+17ITB:0.4
+17Used:1
+17Carry:3
+17Hits:0
+18Squad :Raya :Bentley :Calafiori :Gusto :Dunk :Faes :Van den Berg :M.Salah :Saka :Luis Díaz :Mbeumo :Rashford :Solanke :Raúl :João Pedro
+GW18GK :Raya :Bentley
+GW18Def :Calafiori :Gusto :Dunk :Faes :Van den Berg
+GW18Mid :M.Salah :Saka :Luis Díaz :Mbeumo :Rashford
+GW18Fwd :Solanke :Raúl :João Pedro
+18TV:96.1
+18ITB:3.6
+18Used:1
+18Carry:1
+18Hits:0

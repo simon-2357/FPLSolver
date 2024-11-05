@@ -1,0 +1,120 @@
+11Squad :Bentley :Raya :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah :João Pedro :Raúl :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah
+GW11Fwd :João Pedro :Raúl :Solanke
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah :João Pedro :Raúl :N.Jackson
+GW12GK :Bentley :Raya
+GW12Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW12Mid :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah
+GW12Fwd :João Pedro :Raúl :N.Jackson
+12TV:99.5
+12ITB:0.2
+12Used:2
+12Carry:2
+12Hits:0
+13Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah :João Pedro :Raúl :N.Jackson
+GW13GK :Bentley :Raya
+GW13Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW13Mid :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah
+GW13Fwd :João Pedro :Raúl :N.Jackson
+13TV:99.5
+13ITB:0.2
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW14GK :Bentley :Raya
+GW14Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW14Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW14Fwd :João Pedro :Raúl :N.Jackson
+14TV:99.7
+14ITB:0.0
+14Used:3
+14Carry:1
+14Hits:0
+15Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW15GK :Bentley :Raya
+GW15Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW15Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW15Fwd :João Pedro :Raúl :N.Jackson
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:2
+15Hits:0
+16Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW16GK :Bentley :Raya
+GW16Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW16Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW16Fwd :João Pedro :Raúl :N.Jackson
+16TV:99.7
+16ITB:0.0
+16Used:-0
+16Carry:3
+16Hits:0
+17Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW17GK :Bentley :Raya
+GW17Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW17Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW17Fwd :João Pedro :Raúl :N.Jackson
+17TV:99.7
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Bentley :Raya :Faes :Dunk :James :Gabriel :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW18GK :Bentley :Raya
+GW18Def :Faes :Dunk :James :Gabriel :Alexander-Arnold
+GW18Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW18Fwd :João Pedro :Raúl :N.Jackson
+18TV:99.7
+18ITB:0.0
+18Used:0
+18Carry:4
+18Hits:0
+19Squad :Bentley :Raya :Faes :Dunk :James :Pedro Porro :Alexander-Arnold :Sangaré :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW19GK :Bentley :Raya
+GW19Def :Faes :Dunk :James :Pedro Porro :Alexander-Arnold
+GW19Mid :Sangaré :Eze :Son :Palmer :M.Salah
+GW19Fwd :João Pedro :Raúl :N.Jackson
+19TV:99.0
+19ITB:0.7
+19Used:2
+19Carry:3
+19Hits:0
+20Squad :Bentley :Raya :Faes :Dunk :James :Pedro Porro :Alexander-Arnold :Sangaré :Eze :Son :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW20GK :Bentley :Raya
+GW20Def :Faes :Dunk :James :Pedro Porro :Alexander-Arnold
+GW20Mid :Sangaré :Eze :Son :Palmer :M.Salah
+GW20Fwd :João Pedro :Raúl :N.Jackson
+20TV:99.0
+20ITB:0.7
+20Used:0
+20Carry:4
+20Hits:0
+21Squad :Bentley :Raya :Faes :Dunk :James :Pedro Porro :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW21GK :Bentley :Raya
+GW21Def :Faes :Dunk :James :Pedro Porro :Alexander-Arnold
+GW21Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW21Fwd :João Pedro :Raúl :N.Jackson
+21TV:99.1
+21ITB:0.5
+21Used:1
+21Carry:4
+21Hits:0
+22Squad :Bentley :Raya :Faes :Dunk :James :Pedro Porro :Alexander-Arnold :Sangaré :Eze :Saka :Palmer :M.Salah :João Pedro :Raúl :N.Jackson
+GW22GK :Bentley :Raya
+GW22Def :Faes :Dunk :James :Pedro Porro :Alexander-Arnold
+GW22Mid :Sangaré :Eze :Saka :Palmer :M.Salah
+GW22Fwd :João Pedro :Raúl :N.Jackson
+22TV:99.1
+22ITB:0.5
+22Used:0
+22Carry:4
+22Hits:0

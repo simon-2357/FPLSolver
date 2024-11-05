@@ -1,0 +1,180 @@
+GW9GK: Bentley
+GW9GK: Raya
+GW9Def: Dunk
+GW9Def: Faes
+GW9Def: Pedro Porro
+GW9Def: Gabriel
+GW9Def: Alexander-Arnold
+GW9Mid: M.Salah
+GW9Mid: Eze
+GW9Mid: Mbeumo
+GW9Mid: B.Fernandes
+GW9Mid: Foden
+GW9Fwd: João Pedro
+GW9Fwd: Archer
+GW9Fwd: Solanke
+GW10GK: Bentley
+GW10GK: Raya
+GW10Def: Dunk
+GW10Def: Faes
+GW10Def: Pedro Porro
+GW10Def: Gabriel
+GW10Def: Alexander-Arnold
+GW10Mid: Son
+GW10Mid: M.Salah
+GW10Mid: Eze
+GW10Mid: Mbeumo
+GW10Mid: B.Fernandes
+GW10Fwd: João Pedro
+GW10Fwd: Archer
+GW10Fwd: Solanke
+GW11GK: Bentley
+GW11GK: Raya
+GW11Def: Dunk
+GW11Def: Faes
+GW11Def: Pedro Porro
+GW11Def: Gabriel
+GW11Def: Alexander-Arnold
+GW11Mid: Son
+GW11Mid: M.Salah
+GW11Mid: Eze
+GW11Mid: Mbeumo
+GW11Mid: B.Fernandes
+GW11Fwd: João Pedro
+GW11Fwd: Archer
+GW11Fwd: Solanke
+GW12GK: Bentley
+GW12GK: Raya
+GW12Def: Konsa
+GW12Def: Dunk
+GW12Def: Andersen
+GW12Def: Pedro Porro
+GW12Def: Gabriel
+GW12Mid: Son
+GW12Mid: Palmer
+GW12Mid: M.Salah
+GW12Mid: Eze
+GW12Mid: Mbeumo
+GW12Fwd: João Pedro
+GW12Fwd: Archer
+GW12Fwd: Solanke
+GW13GK: Bentley
+GW13GK: Raya
+GW13Def: Konsa
+GW13Def: Dunk
+GW13Def: Andersen
+GW13Def: Pedro Porro
+GW13Def: Gabriel
+GW13Mid: Son
+GW13Mid: Palmer
+GW13Mid: M.Salah
+GW13Mid: Eze
+GW13Mid: Mbeumo
+GW13Fwd: João Pedro
+GW13Fwd: Archer
+GW13Fwd: Solanke
+GW14GK: Bentley
+GW14GK: Raya
+GW14Def: Konsa
+GW14Def: Dunk
+GW14Def: Andersen
+GW14Def: Pedro Porro
+GW14Def: Gabriel
+GW14Mid: Son
+GW14Mid: Palmer
+GW14Mid: M.Salah
+GW14Mid: Eze
+GW14Mid: Mbeumo
+GW14Fwd: João Pedro
+GW14Fwd: Archer
+GW14Fwd: Solanke
+GW15GK: Bentley
+GW15GK: Raya
+GW15Def: Konsa
+GW15Def: Dunk
+GW15Def: Andersen
+GW15Def: Pedro Porro
+GW15Def: Gabriel
+GW15Mid: Son
+GW15Mid: Palmer
+GW15Mid: M.Salah
+GW15Mid: Eze
+GW15Mid: Mbeumo
+GW15Fwd: João Pedro
+GW15Fwd: Archer
+GW15Fwd: Solanke
+GW16GK: Bentley
+GW16GK: Raya
+GW16Def: Konsa
+GW16Def: Dunk
+GW16Def: Andersen
+GW16Def: Pedro Porro
+GW16Def: Gabriel
+GW16Mid: Son
+GW16Mid: Palmer
+GW16Mid: M.Salah
+GW16Mid: Eze
+GW16Mid: Mbeumo
+GW16Fwd: João Pedro
+GW16Fwd: Archer
+GW16Fwd: Solanke
+GW17GK: Bentley
+GW17GK: Raya
+GW17Def: Konsa
+GW17Def: Dunk
+GW17Def: Andersen
+GW17Def: Pedro Porro
+GW17Def: Gabriel
+GW17Mid: Son
+GW17Mid: Palmer
+GW17Mid: M.Salah
+GW17Mid: Eze
+GW17Mid: Mbeumo
+GW17Fwd: João Pedro
+GW17Fwd: Archer
+GW17Fwd: Solanke
+GW18GK: Arrizabalaga
+GW18GK: Henderson
+GW18Def: Colwill
+GW18Def: Andersen
+GW18Def: Burgess
+GW18Def: Pedro Porro
+GW18Def: Alexander-Arnold
+GW18Mid: Son
+GW18Mid: M.Salah
+GW18Mid: Eze
+GW18Mid: Ødegaard
+GW18Mid: De Bruyne
+GW18Fwd: João Pedro
+GW18Fwd: Raúl
+GW18Fwd: Solanke
+GW19GK: Arrizabalaga
+GW19GK: Henderson
+GW19Def: Colwill
+GW19Def: Andersen
+GW19Def: Burgess
+GW19Def: Pedro Porro
+GW19Def: Alexander-Arnold
+GW19Mid: Son
+GW19Mid: M.Salah
+GW19Mid: Eze
+GW19Mid: Ødegaard
+GW19Mid: De Bruyne
+GW19Fwd: João Pedro
+GW19Fwd: Raúl
+GW19Fwd: Solanke
+GW20GK: Arrizabalaga
+GW20GK: Henderson
+GW20Def: Colwill
+GW20Def: Andersen
+GW20Def: Burgess
+GW20Def: Pedro Porro
+GW20Def: Alexander-Arnold
+GW20Mid: Son
+GW20Mid: M.Salah
+GW20Mid: Eze
+GW20Mid: Ødegaard
+GW20Mid: De Bruyne
+GW20Fwd: João Pedro
+GW20Fwd: Raúl
+GW20Fwd: Solanke

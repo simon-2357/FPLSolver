@@ -1,0 +1,120 @@
+9Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :M.Salah :Eze :Mbeumo :B.Fernandes :Foden :João Pedro :Archer :Solanke
+GW9GK :Bentley :Raya
+GW9Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW9Mid :M.Salah :Eze :Mbeumo :B.Fernandes :Foden
+GW9Fwd :João Pedro :Archer :Solanke
+9TV:98.8
+9ITB:1.0
+9Used:1
+9Carry:3
+9Hits:0
+10Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Archer :Solanke
+GW10GK :Bentley :Raya
+GW10Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW10Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW10Fwd :João Pedro :Archer :Solanke
+10TV:99.5
+10ITB:0.3
+10Used:1
+10Carry:3
+10Hits:0
+11Squad :Bentley :Raya :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Archer :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Dunk :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW11Fwd :João Pedro :Archer :Solanke
+11TV:99.5
+11ITB:0.3
+11Used:0
+11Carry:4
+11Hits:0
+12Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW12GK :Bentley :Raya
+GW12Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW12Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW12Fwd :João Pedro :Archer :Solanke
+12TV:99.8
+12ITB:0.0
+12Used:3
+12Carry:2
+12Hits:0
+13Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW13GK :Bentley :Raya
+GW13Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW13Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW13Fwd :João Pedro :Archer :Solanke
+13TV:99.8
+13ITB:0.0
+13Used:0
+13Carry:3
+13Hits:0
+14Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW14GK :Bentley :Raya
+GW14Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW14Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW14Fwd :João Pedro :Archer :Solanke
+14TV:99.8
+14ITB:0.0
+14Used:0
+14Carry:4
+14Hits:0
+15Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW15GK :Bentley :Raya
+GW15Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW15Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW15Fwd :João Pedro :Archer :Solanke
+15TV:99.8
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW16GK :Bentley :Raya
+GW16Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW16Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW16Fwd :João Pedro :Archer :Solanke
+16TV:99.8
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW17GK :Bentley :Raya
+GW17Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW17Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW17Fwd :João Pedro :Archer :Solanke
+17TV:99.8
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Bentley :Raya :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold :Son :Palmer :M.Salah :Semenyo :Mbeumo :João Pedro :Archer :Solanke
+GW18GK :Bentley :Raya
+GW18Def :Dunk :Andersen :Faes :Gabriel :Alexander-Arnold
+GW18Mid :Son :Palmer :M.Salah :Semenyo :Mbeumo
+GW18Fwd :João Pedro :Archer :Solanke
+18TV:99.8
+18ITB:0.0
+18Used:0
+18Carry:4
+18Hits:0
+19Squad :Arrizabalaga :Henderson :Konsa :Guéhi :Burgess :Pedro Porro :Alexander-Arnold :Son :M.Salah :Dibling :Eze :De Bruyne :Raúl :Solanke :Watkins
+GW19GK :Arrizabalaga :Henderson
+GW19Def :Konsa :Guéhi :Burgess :Pedro Porro :Alexander-Arnold
+GW19Mid :Son :M.Salah :Dibling :Eze :De Bruyne
+GW19Fwd :Raúl :Solanke :Watkins
+19TV:99.8
+19ITB:0.0
+19Used:11
+19Carry:4
+19Hits:0
+20Squad :Arrizabalaga :Henderson :Konsa :Guéhi :Burgess :Pedro Porro :Alexander-Arnold :Son :M.Salah :Dibling :Eze :De Bruyne :Raúl :Solanke :Watkins
+GW20GK :Arrizabalaga :Henderson
+GW20Def :Konsa :Guéhi :Burgess :Pedro Porro :Alexander-Arnold
+GW20Mid :Son :M.Salah :Dibling :Eze :De Bruyne
+GW20Fwd :Raúl :Solanke :Watkins
+20TV:99.8
+20ITB:0.0
+20Used:0
+20Carry:4
+20Hits:0

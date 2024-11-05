@@ -1,0 +1,144 @@
+9:Captain:Foden
+9:Lineup:Dunk
+9:Lineup:Pedro Porro
+9:Lineup:Gabriel
+9:Lineup:Alexander-Arnold
+9:Lineup:Solanke
+9:Lineup:Raya
+9:Lineup:M.Salah
+9:Lineup:Eze
+9:Lineup:Mbeumo
+9:Lineup:B.Fernandes
+9:Lineup:Foden
+10:Captain:M.Salah
+10:Lineup:Pedro Porro
+10:Lineup:Gabriel
+10:Lineup:Alexander-Arnold
+10:Lineup:Archer
+10:Lineup:Solanke
+10:Lineup:Raya
+10:Lineup:Son
+10:Lineup:M.Salah
+10:Lineup:Eze
+10:Lineup:Mbeumo
+10:Lineup:B.Fernandes
+11:Captain:Son
+11:Lineup:Pedro Porro
+11:Lineup:Gabriel
+11:Lineup:Alexander-Arnold
+11:Lineup:João Pedro
+11:Lineup:Solanke
+11:Lineup:Raya
+11:Lineup:Son
+11:Lineup:M.Salah
+11:Lineup:Eze
+11:Lineup:Mbeumo
+11:Lineup:B.Fernandes
+12:Captain:M.Salah
+12:Lineup:Dunk
+12:Lineup:Gabriel
+12:Lineup:Alexander-Arnold
+12:Lineup:João Pedro
+12:Lineup:Solanke
+12:Lineup:Raya
+12:Lineup:Son
+12:Lineup:M.Salah
+12:Lineup:Eze
+12:Lineup:Mbeumo
+12:Lineup:B.Fernandes
+13:Captain:Son
+13:Lineup:Dunk
+13:Lineup:Pedro Porro
+13:Lineup:Gabriel
+13:Lineup:João Pedro
+13:Lineup:Solanke
+13:Lineup:Raya
+13:Lineup:Son
+13:Lineup:M.Salah
+13:Lineup:Eze
+13:Lineup:Mbeumo
+13:Lineup:B.Fernandes
+14:Captain:M.Salah
+14:Lineup:Pedro Porro
+14:Lineup:Gabriel
+14:Lineup:Alexander-Arnold
+14:Lineup:Raúl
+14:Lineup:Solanke
+14:Lineup:Raya
+14:Lineup:Son
+14:Lineup:M.Salah
+14:Lineup:Eze
+14:Lineup:Mbeumo
+14:Lineup:Ødegaard
+15:Captain:M.Salah
+15:Lineup:Pedro Porro
+15:Lineup:Gabriel
+15:Lineup:Alexander-Arnold
+15:Lineup:João Pedro
+15:Lineup:Solanke
+15:Lineup:Raya
+15:Lineup:Son
+15:Lineup:M.Salah
+15:Lineup:Eze
+15:Lineup:Mbeumo
+15:Lineup:Ødegaard
+16:Captain:M.Salah
+16:Lineup:Pedro Porro
+16:Lineup:Gabriel
+16:Lineup:Alexander-Arnold
+16:Lineup:João Pedro
+16:Lineup:Solanke
+16:Lineup:Raya
+16:Lineup:Son
+16:Lineup:M.Salah
+16:Lineup:Eze
+16:Lineup:Mbeumo
+16:Lineup:Ødegaard
+17:Captain:M.Salah
+17:Lineup:Andersen
+17:Lineup:Pedro Porro
+17:Lineup:Gabriel
+17:Lineup:João Pedro
+17:Lineup:Raúl
+17:Lineup:Solanke
+17:Lineup:Raya
+17:Lineup:Son
+17:Lineup:M.Salah
+17:Lineup:Mbeumo
+17:Lineup:Ødegaard
+18:Captain:M.Salah
+18:Lineup:Pedro Porro
+18:Lineup:Gabriel
+18:Lineup:Alexander-Arnold
+18:Lineup:João Pedro
+18:Lineup:Solanke
+18:Lineup:Raya
+18:Lineup:Son
+18:Lineup:M.Salah
+18:Lineup:Eze
+18:Lineup:Mbeumo
+18:Lineup:Ødegaard
+19:Captain:Son
+19:Lineup:Pedro Porro
+19:Lineup:Gabriel
+19:Lineup:Alexander-Arnold
+19:Lineup:Raúl
+19:Lineup:Solanke
+19:Lineup:Raya
+19:Lineup:Son
+19:Lineup:M.Salah
+19:Lineup:Eze
+19:Lineup:Mbeumo
+19:Lineup:Ødegaard
+20:Captain:M.Salah
+20:Lineup:Andersen
+20:Lineup:Pedro Porro
+20:Lineup:Alexander-Arnold
+20:Lineup:Raúl
+20:Lineup:Solanke
+20:Lineup:Raya
+20:Lineup:Son
+20:Lineup:M.Salah
+20:Lineup:Eze
+20:Lineup:Mbeumo
+20:Lineup:Ødegaard

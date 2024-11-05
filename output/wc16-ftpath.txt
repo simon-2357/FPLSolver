@@ -1,0 +1,12 @@
+11In,,11Out,
+12In,:Konsa:Vardy:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Andersen:Guéhi:James:Stewart:Fabianski:Eze:Son,16Out,:Faes:Konsa:Alexander-Arnold:Vardy:Bentley:Garnacho:Mbeumo
+17In,,17Out,
+18In,,18Out,
+19In,:Pedro Porro,19Out,:Gabriel
+20In,,20Out,
+21In,:N.Jackson:B.Fernandes,21Out,:João Pedro:Son
+22In,,22Out,

@@ -1,0 +1,120 @@
+9Squad :Kelleher :Ederson M. :Pinnock :Dunk :Van den Berg :Faes :Pedro Porro :Palmer :Mitoma :Mbeumo :Bowen :Foden :Haaland :Chiwome :Calvert-Lewin
+GW9GK :Kelleher :Ederson M.
+GW9Def :Pinnock :Dunk :Van den Berg :Faes :Pedro Porro
+GW9Mid :Palmer :Mitoma :Mbeumo :Bowen :Foden
+GW9Fwd :Haaland :Chiwome :Calvert-Lewin
+9TV:99.8
+9ITB:0.0
+9Used:11
+9Carry:3
+9Hits:0
+9Squad :Bentley :Raya :Burgess :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Raúl :Solanke
+GW9GK :Bentley :Raya
+GW9Def :Burgess :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW9Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW9Fwd :João Pedro :Raúl :Solanke
+9TV:99.6
+9ITB:0.2
+9Used:3
+9Carry:1
+9Hits:0
+10Squad :Bentley :Raya :Burgess :Faes :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Raúl :Solanke
+GW10GK :Bentley :Raya
+GW10Def :Burgess :Faes :Pedro Porro :Gabriel :Alexander-Arnold
+GW10Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW10Fwd :João Pedro :Raúl :Solanke
+10TV:99.6
+10ITB:0.2
+10Used:0
+10Carry:2
+10Hits:0
+11Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Raúl :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW11Fwd :João Pedro :Raúl :Solanke
+11TV:99.8
+11ITB:0.0
+11Used:1
+11Carry:2
+11Hits:0
+12Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :B.Fernandes :João Pedro :Raúl :Solanke
+GW12GK :Bentley :Raya
+GW12Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW12Mid :Son :M.Salah :Eze :Mbeumo :B.Fernandes
+GW12Fwd :João Pedro :Raúl :Solanke
+12TV:99.8
+12ITB:0.0
+12Used:0
+12Carry:3
+12Hits:0
+13Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW13GK :Bentley :Raya
+GW13Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW13Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW13Fwd :João Pedro :Raúl :Solanke
+13TV:99.8
+13ITB:0.0
+13Used:1
+13Carry:3
+13Hits:0
+14Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW14GK :Bentley :Raya
+GW14Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW14Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW14Fwd :João Pedro :Raúl :Solanke
+14TV:99.8
+14ITB:0.0
+14Used:0
+14Carry:4
+14Hits:0
+15Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW15GK :Bentley :Raya
+GW15Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW15Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW15Fwd :João Pedro :Raúl :Solanke
+15TV:99.8
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW16GK :Bentley :Raya
+GW16Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW16Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW16Fwd :João Pedro :Raúl :Solanke
+16TV:99.8
+16ITB:0.0
+16Used:0
+16Carry:4
+16Hits:0
+17Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW17GK :Bentley :Raya
+GW17Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW17Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW17Fwd :João Pedro :Raúl :Solanke
+17TV:99.8
+17ITB:0.0
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW18GK :Bentley :Raya
+GW18Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW18Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW18Fwd :João Pedro :Raúl :Solanke
+18TV:99.8
+18ITB:0.0
+18Used:0
+18Carry:4
+18Hits:0
+19Squad :Bentley :Raya :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold :Son :M.Salah :Eze :Mbeumo :Ødegaard :João Pedro :Raúl :Solanke
+GW19GK :Bentley :Raya
+GW19Def :Andersen :Burgess :Pedro Porro :Gabriel :Alexander-Arnold
+GW19Mid :Son :M.Salah :Eze :Mbeumo :Ødegaard
+GW19Fwd :João Pedro :Raúl :Solanke
+19TV:99.8
+19ITB:0.0
+19Used:0
+19Carry:4
+19Hits:0

@@ -1,0 +1,26 @@
+13In:Andersen
+13In:Konsa
+13In:James
+13In:Chiwome
+13In:Welbeck
+13In:Fabianski
+13In:Eze
+13In:Son
+13In:Palmer
+13Out:Faes
+13Out:Pedro Porro
+13Out:Alexander-Arnold
+13Out:Raúl
+13Out:Solanke
+13Out:Bentley
+13Out:Garnacho
+13Out:Mbeumo
+13Out:B.Fernandes
+17In:Raúl
+17Out:Welbeck
+19In:Pedro Porro
+19Out:Gabriel
+21In:N.Jackson
+21In:B.Fernandes
+21Out:Raúl
+21Out:Son

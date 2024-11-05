@@ -1,0 +1,24 @@
+9In,:Haaland:Rogers:Mitoma
+9Out,:João Pedro:Saka:M.Salah
+10In,:Andersen:Burgess:Robertson:João Pedro:Raúl:Son:M.Salah
+10Out,:Dunk:Faes:Gabriel:Haaland:Archer:Rogers:Mitoma
+11In,
+11Out,
+12In,
+12Out,
+13In,
+13Out,
+14In,:Ødegaard
+14Out,:B.Fernandes
+15In,
+15Out,
+16In,
+16Out,
+17In,
+17Out,
+18In,
+18Out,
+19In,
+19Out,
+20In,
+20Out,

@@ -1,0 +1,4560 @@
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Mbeumo
+GW14Mid: Bowen
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Mbeumo
+GW15Mid: Bowen
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Mbeumo
+GW16Mid: Garnacho
+GW16Mid: Kluivert
+GW16Fwd: Isak
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Tete
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Mid: Kluivert
+GW17Fwd: Isak
+GW17Fwd: N.Jackson
+GW17Fwd: Raúl
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Lewis
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: N.Jackson
+GW18Fwd: Welbeck
+GW18Fwd: Raúl
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Mbeumo
+GW14Mid: Bowen
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Mbeumo
+GW15Mid: Bowen
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Calafiori
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Mbeumo
+GW16Mid: Bowen
+GW16Mid: Minteh
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Calafiori
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Mbeumo
+GW17Mid: Bowen
+GW17Mid: Minteh
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Robertson
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Mbeumo
+GW18Mid: Bowen
+GW18Mid: Minteh
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Konsa
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Konsa
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Konsa
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Rogers
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Konsa
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: Raúl
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Konsa
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Semenyo
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: Raúl
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Konsa
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Semenyo
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW17Fwd: Raúl
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Virgil
+GW18Def: Gabriel
+GW18Def: Konsa
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Semenyo
+GW18Fwd: Solanke
+GW18Fwd: Welbeck
+GW18Fwd: Raúl
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gvardiol
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Rogers
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gvardiol
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Faes
+GW13Def: Van den Berg
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Rogers
+GW13Fwd: Solanke
+GW13Fwd: Welbeck
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gvardiol
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Faes
+GW14Def: Van den Berg
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Rogers
+GW14Fwd: Solanke
+GW14Fwd: Welbeck
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gvardiol
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Faes
+GW15Def: Van den Berg
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gvardiol
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Faes
+GW16Def: Van den Berg
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gvardiol
+GW17Def: Gabriel
+GW17Def: Dunk
+GW17Def: Andersen
+GW17Def: Van den Berg
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gvardiol
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Andersen
+GW18Def: Van den Berg
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Solanke
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: Saka
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Raúl
+GW12Fwd: Vardy
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Raúl
+GW13Fwd: Vardy
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Raúl
+GW14Fwd: Vardy
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Raúl
+GW15Fwd: Vardy
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Saliba
+GW17Def: Cash
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Madueke
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Saliba
+GW18Def: Cash
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Madueke
+GW18Fwd: Darwin
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Calafiori
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Calafiori
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Madueke
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Calafiori
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Madueke
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Calafiori
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Calafiori
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Madueke
+GW17Fwd: Welbeck
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Calafiori
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Madueke
+GW18Fwd: Welbeck
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: McGinn
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: McGinn
+GW15Fwd: Isak
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: McGinn
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: McGinn
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Szoboszlai
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW18Fwd: Enes Ünal
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: Saka
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Raúl
+GW12Fwd: Vardy
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Raúl
+GW13Fwd: Vardy
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Rogers
+GW14Fwd: Raúl
+GW14Fwd: Vardy
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Raúl
+GW15Fwd: Vardy
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Lewis
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Rogers
+GW16Fwd: Raúl
+GW16Fwd: Vardy
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Akanji
+GW17Def: Lewis
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Rashford
+GW17Fwd: Raúl
+GW17Fwd: Vardy
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Robertson
+GW18Def: Akanji
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Minteh
+GW18Fwd: Raúl
+GW18Fwd: Vardy
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Digne
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Digne
+GW13Def: Dunk
+GW13Def: Alex Moreno
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Rúben
+GW14Def: Digne
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Rúben
+GW15Def: Digne
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Rúben
+GW16Def: Dunk
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Rúben
+GW17Def: Dunk
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gvardiol
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Welbeck
+GW18Fwd: Evanilson
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Alex Moreno
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: Son
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Alex Moreno
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Son
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Alex Moreno
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Son
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Alex Moreno
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Son
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Alex Moreno
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Son
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Alex Moreno
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Mbeumo
+GW18Mid: Diogo J.
+GW18Mid: Sávio
+GW18Mid: Kluivert
+GW18Fwd: Haaland
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Livramento
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Livramento
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Aké
+GW14Def: Livramento
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Martinelli
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Aké
+GW15Def: Livramento
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Mid: Kluivert
+GW15Fwd: Watkins
+GW15Fwd: Solanke
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Aké
+GW16Def: Livramento
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Strand Larsen
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Aké
+GW17Def: Livramento
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Solanke
+GW17Fwd: Strand Larsen
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Aké
+GW18Def: Livramento
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Solanke
+GW18Fwd: Strand Larsen
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Hall
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: Saka
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Evanilson
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Hall
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Evanilson
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Hall
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Evanilson
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Hall
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Isak
+GW15Fwd: Evanilson
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Garnacho
+GW16Fwd: Isak
+GW16Fwd: Strand Larsen
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Fwd: Isak
+GW17Fwd: Strand Larsen
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gvardiol
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Hall
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Mbeumo
+GW18Mid: Garnacho
+GW18Mid: Tavernier
+GW18Fwd: Havertz
+GW18Fwd: Strand Larsen
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Digne
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Digne
+GW13Def: Dunk
+GW13Def: Alex Moreno
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Digne
+GW14Def: Dunk
+GW14Def: Alex Moreno
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Digne
+GW15Def: Dunk
+GW15Def: Alex Moreno
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Evanilson
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Alex Moreno
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Garnacho
+GW16Fwd: Solanke
+GW16Fwd: Cunha
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Dunk
+GW17Def: Alex Moreno
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Fwd: Isak
+GW17Fwd: Welbeck
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Alex Moreno
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Garnacho
+GW18Fwd: Isak
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Son
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pau
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Pau
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Kluivert
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Pau
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Pau
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Pau
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Pau
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Gusto
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Welbeck
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Sangaré
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Sangaré
+GW14Fwd: Watkins
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Sangaré
+GW15Fwd: Watkins
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Johnson
+GW16Fwd: Cunha
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Smith Rowe
+GW17Fwd: Wood
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Rashford
+GW18Fwd: Wood
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Aké
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Saka
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Madueke
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Aké
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Saka
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: Raúl
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Aké
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Saka
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Rogers
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: Raúl
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Aké
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Saka
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Rogers
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW17Fwd: Raúl
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Aké
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Saka
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Rogers
+GW18Fwd: Solanke
+GW18Fwd: Welbeck
+GW18Fwd: Raúl
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Konsa
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Konsa
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Konsa
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Konsa
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Konsa
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Garnacho
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Konsa
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Konsa
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Ødegaard
+GW18Mid: Mbeumo
+GW18Mid: Garnacho
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dalot
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Kluivert
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dalot
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dalot
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dalot
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dalot
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Aké
+GW18Def: Dalot
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Lewis
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Lewis
+GW13Def: Dunk
+GW13Def: Alex Moreno
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Lewis
+GW14Def: Dunk
+GW14Def: Alex Moreno
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Lewis
+GW15Def: Dunk
+GW15Def: Alex Moreno
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Alex Moreno
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Gordon
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Dunk
+GW17Def: Alex Moreno
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Gordon
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Alex Moreno
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Neto
+GW18Fwd: N.Jackson
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Digne
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Adama
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Digne
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Adama
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Adama
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Adama
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Adama
+GW18Fwd: Isak
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Konsa
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Konsa
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Konsa
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Mid: Semenyo
+GW14Fwd: Isak
+GW14Fwd: Solanke
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Konsa
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Mid: Semenyo
+GW15Fwd: Isak
+GW15Fwd: Solanke
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Robertson
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Mbeumo
+GW16Mid: Garnacho
+GW16Mid: Semenyo
+GW16Fwd: Isak
+GW16Fwd: Welbeck
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Robertson
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Mid: Semenyo
+GW17Fwd: Isak
+GW17Fwd: Welbeck
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Robertson
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Mbeumo
+GW18Mid: Garnacho
+GW18Mid: Semenyo
+GW18Fwd: Isak
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Son
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Digne
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Kluivert
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Digne
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Kluivert
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Digne
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Digne
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Digne
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Ødegaard
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Digne
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Ødegaard
+GW17Mid: Mbeumo
+GW17Mid: Iwobi
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Estupiñan
+GW18Def: Digne
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Ødegaard
+GW18Mid: Luis Díaz
+GW18Mid: Mbeumo
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Hall
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Hall
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Welbeck
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Hall
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Son
+GW14Mid: Mbeumo
+GW14Mid: Sangaré
+GW14Fwd: Solanke
+GW14Fwd: Welbeck
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Hall
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Son
+GW15Mid: Mbeumo
+GW15Mid: Sangaré
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Calafiori
+GW16Def: Dunk
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Son
+GW16Mid: Mbeumo
+GW16Mid: Sangaré
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Calafiori
+GW17Def: Dunk
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Son
+GW17Mid: Mbeumo
+GW17Mid: Sangaré
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Calafiori
+GW18Def: Dunk
+GW18Def: Hall
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Ødegaard
+GW18Mid: Mbeumo
+GW18Mid: O.Dango
+GW18Mid: Sangaré
+GW18Fwd: Haaland
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Digne
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Digne
+GW13Def: Aït-Nouri
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Digne
+GW14Def: Aït-Nouri
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Digne
+GW15Def: Aït-Nouri
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Aït-Nouri
+GW16Def: Colwill
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Aït-Nouri
+GW17Def: Colwill
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Madueke
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Virgil
+GW18Def: Gabriel
+GW18Def: Colwill
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Madueke
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW18Fwd: Enes Ünal
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Livramento
+GW12Def: Dunk
+GW12Def: Cash
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: Saka
+GW12Mid: Mbeumo
+GW12Mid: Rogers
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Livramento
+GW13Def: Dunk
+GW13Def: Cash
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Rogers
+GW13Fwd: Solanke
+GW13Fwd: Welbeck
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Livramento
+GW14Def: Dunk
+GW14Def: Cash
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Rogers
+GW14Fwd: Solanke
+GW14Fwd: Welbeck
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Livramento
+GW15Def: Dunk
+GW15Def: Cash
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Solanke
+GW15Fwd: Welbeck
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Livramento
+GW16Def: Dunk
+GW16Def: Cash
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Rogers
+GW16Fwd: Solanke
+GW16Fwd: Welbeck
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Livramento
+GW17Def: Dunk
+GW17Def: Cash
+GW17Mid: M.Salah
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Diogo J.
+GW17Mid: Rogers
+GW17Fwd: Isak
+GW17Fwd: Solanke
+GW17Fwd: Welbeck
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Livramento
+GW18Def: Dunk
+GW18Def: Cash
+GW18Mid: M.Salah
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Diogo J.
+GW18Mid: Sávio
+GW18Fwd: Isak
+GW18Fwd: Welbeck
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Alex Moreno
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Johnson
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Alex Moreno
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Johnson
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Alex Moreno
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Johnson
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Colwill
+GW16Def: Dunk
+GW16Def: Alex Moreno
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Johnson
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Colwill
+GW17Def: Dunk
+GW17Def: Alex Moreno
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Johnson
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Colwill
+GW18Def: Dunk
+GW18Def: Alex Moreno
+GW18Def: Faes
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Johnson
+GW18Mid: Gravenberch
+GW18Fwd: Haaland
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gvardiol
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Calvert-Lewin
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gvardiol
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Calvert-Lewin
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gvardiol
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Saka
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Madueke
+GW14Fwd: Calvert-Lewin
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gvardiol
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Saka
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Madueke
+GW15Fwd: Calvert-Lewin
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Calafiori
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Fwd: Calvert-Lewin
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Calafiori
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Madueke
+GW17Fwd: Calvert-Lewin
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Calafiori
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Madueke
+GW18Fwd: Calvert-Lewin
+GW18Fwd: João Pedro
+GW18Fwd: Archer
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Rashford
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Rashford
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Rashford
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Rashford
+GW14Fwd: Solanke
+GW14Fwd: Vardy
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Luis Díaz
+GW15Mid: Mbeumo
+GW15Fwd: Solanke
+GW15Fwd: Vardy
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Mbeumo
+GW16Mid: Diogo J.
+GW16Mid: Trossard
+GW16Fwd: Isak
+GW16Fwd: Vardy
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Mbeumo
+GW17Mid: Diogo J.
+GW17Mid: Trossard
+GW17Fwd: Isak
+GW17Fwd: Vardy
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Mbeumo
+GW18Mid: Diogo J.
+GW18Mid: Trossard
+GW18Mid: Dibling
+GW18Fwd: Haaland
+GW18Fwd: Vardy
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW12Fwd: Archer
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW13Fwd: Archer
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Fwd: Evanilson
+GW14Fwd: João Pedro
+GW14Fwd: Archer
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Fwd: Evanilson
+GW15Fwd: João Pedro
+GW15Fwd: Archer
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Neto
+GW16Fwd: Cunha
+GW16Fwd: Evanilson
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Saka
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Neto
+GW17Fwd: Højlund
+GW17Fwd: Cunha
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Lewis
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Saka
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Diogo J.
+GW18Fwd: Højlund
+GW18Fwd: Cunha
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Def: Taylor
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Fwd: Raúl
+GW13Fwd: Vardy
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Rúben
+GW14Def: Dunk
+GW14Def: Faes
+GW14Def: Taylor
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Fwd: Raúl
+GW14Fwd: Vardy
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Rúben
+GW15Def: Dunk
+GW15Def: Faes
+GW15Def: Taylor
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Fwd: Raúl
+GW15Fwd: Vardy
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Rúben
+GW16Def: Dunk
+GW16Def: Faes
+GW16Def: Taylor
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Fwd: Raúl
+GW16Fwd: Strand Larsen
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Robinson
+GW17Def: Dunk
+GW17Def: Faes
+GW17Def: Taylor
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Fwd: Raúl
+GW17Fwd: Strand Larsen
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Dunk
+GW18Def: Faes
+GW18Def: Taylor
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Rashford
+GW18Fwd: Raúl
+GW18Fwd: Strand Larsen
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Johnson
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Johnson
+GW12Fwd: Calvert-Lewin
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Johnson
+GW13Fwd: Calvert-Lewin
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Johnson
+GW14Fwd: Calvert-Lewin
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Johnson
+GW15Fwd: Calvert-Lewin
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Mbeumo
+GW16Mid: Martinelli
+GW16Mid: Johnson
+GW16Fwd: Cunha
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Mbeumo
+GW17Mid: Martinelli
+GW17Mid: Johnson
+GW17Fwd: Cunha
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Mbeumo
+GW18Mid: Diogo J.
+GW18Mid: Martinelli
+GW18Fwd: Cunha
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Hall
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Hall
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Lewis
+GW14Def: Dunk
+GW14Def: Hall
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Ødegaard
+GW14Mid: Mbeumo
+GW14Mid: Rogers
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Lewis
+GW15Def: Dunk
+GW15Def: Hall
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Ødegaard
+GW15Mid: Mbeumo
+GW15Mid: Rogers
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Lewis
+GW16Def: Dunk
+GW16Def: Hall
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Ødegaard
+GW16Mid: Mbeumo
+GW16Mid: Rogers
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Alexander-Arnold
+GW17Def: Gabriel
+GW17Def: Lewis
+GW17Def: Dunk
+GW17Def: Hall
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Ødegaard
+GW17Mid: Mbeumo
+GW17Mid: Rogers
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Lewis
+GW18Def: Dunk
+GW18Def: Hall
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Ødegaard
+GW18Mid: Mbeumo
+GW18Mid: Rogers
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Hall
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Palmer
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Hall
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Hall
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Foden
+GW14Mid: Mbeumo
+GW14Mid: Andreas
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Robertson
+GW15Def: Dunk
+GW15Def: Hall
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Foden
+GW15Mid: Mbeumo
+GW15Mid: Andreas
+GW15Fwd: Isak
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Robertson
+GW16Def: Dunk
+GW16Def: Hall
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Foden
+GW16Mid: Mbeumo
+GW16Mid: Andreas
+GW16Fwd: Isak
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Robertson
+GW17Def: Dunk
+GW17Def: Hall
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Foden
+GW17Mid: Mbeumo
+GW17Mid: Andreas
+GW17Fwd: Isak
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Saliba
+GW18Def: Robertson
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: De Bruyne
+GW18Mid: Foden
+GW18Mid: Mbeumo
+GW18Mid: Andreas
+GW18Fwd: Isak
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Cash
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Kluivert
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Alex Moreno
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Kluivert
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Alex Moreno
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Kluivert
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Alex Moreno
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Kluivert
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Alex Moreno
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Kluivert
+GW16Fwd: Solanke
+GW16Fwd: Strand Larsen
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Estupiñan
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Alex Moreno
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Kluivert
+GW17Fwd: Isak
+GW17Fwd: Strand Larsen
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Alexander-Arnold
+GW18Def: Gabriel
+GW18Def: Estupiñan
+GW18Def: Cash
+GW18Def: Alex Moreno
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Kluivert
+GW18Fwd: Welbeck
+GW18Fwd: Strand Larsen
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Dibling
+GW13Fwd: Solanke
+GW13Fwd: Welbeck
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Dibling
+GW14Fwd: Solanke
+GW14Fwd: Welbeck
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Dibling
+GW15Fwd: Solanke
+GW15Fwd: Cunha
+GW15Fwd: Welbeck
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Dibling
+GW16Fwd: Solanke
+GW16Fwd: Cunha
+GW16Fwd: Welbeck
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Pedro Porro
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Dibling
+GW17Fwd: Solanke
+GW17Fwd: Cunha
+GW17Fwd: Welbeck
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Pedro Porro
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Dibling
+GW18Fwd: Solanke
+GW18Fwd: Cunha
+GW18Fwd: Welbeck
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Dunk
+GW12Def: Cash
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Calvert-Lewin
+GW12Fwd: Raúl
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Alexander-Arnold
+GW13Def: Gabriel
+GW13Def: Dunk
+GW13Def: Cash
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Saka
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Calvert-Lewin
+GW13Fwd: Raúl
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Alexander-Arnold
+GW14Def: Gabriel
+GW14Def: Dunk
+GW14Def: Cash
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Saka
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Garnacho
+GW14Fwd: Solanke
+GW14Fwd: Calvert-Lewin
+GW14Fwd: Raúl
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Alexander-Arnold
+GW15Def: Gabriel
+GW15Def: Dunk
+GW15Def: Cash
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Saka
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Garnacho
+GW15Fwd: Solanke
+GW15Fwd: Calvert-Lewin
+GW15Fwd: Raúl
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Alexander-Arnold
+GW16Def: Gabriel
+GW16Def: Dunk
+GW16Def: Cash
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Mid: Garnacho
+GW16Fwd: Isak
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Akanji
+GW17Def: Dunk
+GW17Def: Cash
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Saka
+GW17Mid: Maddison
+GW17Mid: Mbeumo
+GW17Mid: Garnacho
+GW17Fwd: Isak
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Akanji
+GW18Def: Dunk
+GW18Def: Cash
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Saka
+GW18Mid: Mbeumo
+GW18Mid: Garnacho
+GW18Mid: Georginio
+GW18Fwd: Isak
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Digne
+GW13Def: Dunk
+GW13Def: Faes
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: B.Fernandes
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Digne
+GW14Def: Dunk
+GW14Def: Faes
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: B.Fernandes
+GW14Mid: Mbeumo
+GW14Mid: Bowen
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Gabriel
+GW15Def: Pedro Porro
+GW15Def: Digne
+GW15Def: Dunk
+GW15Def: Faes
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: B.Fernandes
+GW15Mid: Mbeumo
+GW15Mid: Bowen
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Gabriel
+GW16Def: Pedro Porro
+GW16Def: Digne
+GW16Def: Dunk
+GW16Def: Faes
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: B.Fernandes
+GW16Mid: Mbeumo
+GW16Mid: Bowen
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Gabriel
+GW17Def: Akanji
+GW17Def: Digne
+GW17Def: Dunk
+GW17Def: Faes
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: B.Fernandes
+GW17Mid: Mbeumo
+GW17Mid: Bowen
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Gabriel
+GW18Def: Akanji
+GW18Def: Digne
+GW18Def: Dunk
+GW18Def: Faes
+GW18Mid: M.Salah
+GW18Mid: Palmer
+GW18Mid: B.Fernandes
+GW18Mid: Mbeumo
+GW18Mid: Bowen
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro
+GW11GK: Raya
+GW11GK: Bentley
+GW11Def: Alexander-Arnold
+GW11Def: Gabriel
+GW11Def: Pedro Porro
+GW11Def: Dunk
+GW11Def: Faes
+GW11Mid: M.Salah
+GW11Mid: Saka
+GW11Mid: B.Fernandes
+GW11Mid: Mbeumo
+GW11Mid: Garnacho
+GW11Fwd: Solanke
+GW11Fwd: Raúl
+GW11Fwd: João Pedro
+GW12GK: Raya
+GW12GK: Bentley
+GW12Def: Alexander-Arnold
+GW12Def: Gabriel
+GW12Def: Pedro Porro
+GW12Def: Dunk
+GW12Def: Faes
+GW12Mid: M.Salah
+GW12Mid: Saka
+GW12Mid: B.Fernandes
+GW12Mid: Mbeumo
+GW12Mid: Garnacho
+GW12Fwd: Solanke
+GW12Fwd: Raúl
+GW12Fwd: João Pedro
+GW13GK: Raya
+GW13GK: Bentley
+GW13Def: Gabriel
+GW13Def: Pedro Porro
+GW13Def: Dunk
+GW13Def: Faes
+GW13Def: Van den Berg
+GW13Mid: M.Salah
+GW13Mid: Palmer
+GW13Mid: Saka
+GW13Mid: Mbeumo
+GW13Mid: Garnacho
+GW13Fwd: Solanke
+GW13Fwd: Raúl
+GW13Fwd: João Pedro
+GW14GK: Raya
+GW14GK: Bentley
+GW14Def: Gabriel
+GW14Def: Pedro Porro
+GW14Def: Dunk
+GW14Def: Faes
+GW14Def: Van den Berg
+GW14Mid: M.Salah
+GW14Mid: Palmer
+GW14Mid: Saka
+GW14Mid: Mbeumo
+GW14Mid: Madueke
+GW14Fwd: Solanke
+GW14Fwd: Raúl
+GW14Fwd: João Pedro
+GW15GK: Raya
+GW15GK: Bentley
+GW15Def: Calafiori
+GW15Def: Pedro Porro
+GW15Def: Dunk
+GW15Def: Faes
+GW15Def: Van den Berg
+GW15Mid: M.Salah
+GW15Mid: Palmer
+GW15Mid: Saka
+GW15Mid: Mbeumo
+GW15Mid: Madueke
+GW15Fwd: Solanke
+GW15Fwd: Raúl
+GW15Fwd: João Pedro
+GW16GK: Raya
+GW16GK: Bentley
+GW16Def: Calafiori
+GW16Def: Gusto
+GW16Def: Dunk
+GW16Def: Faes
+GW16Def: Van den Berg
+GW16Mid: M.Salah
+GW16Mid: Palmer
+GW16Mid: Saka
+GW16Mid: Mbeumo
+GW16Mid: Madueke
+GW16Fwd: Solanke
+GW16Fwd: Raúl
+GW16Fwd: João Pedro
+GW17GK: Raya
+GW17GK: Bentley
+GW17Def: Calafiori
+GW17Def: Gusto
+GW17Def: Dunk
+GW17Def: Faes
+GW17Def: Van den Berg
+GW17Mid: M.Salah
+GW17Mid: Palmer
+GW17Mid: Saka
+GW17Mid: Mbeumo
+GW17Mid: Rashford
+GW17Fwd: Solanke
+GW17Fwd: Raúl
+GW17Fwd: João Pedro
+GW18GK: Raya
+GW18GK: Bentley
+GW18Def: Calafiori
+GW18Def: Gusto
+GW18Def: Dunk
+GW18Def: Faes
+GW18Def: Van den Berg
+GW18Mid: M.Salah
+GW18Mid: Saka
+GW18Mid: Luis Díaz
+GW18Mid: Mbeumo
+GW18Mid: Rashford
+GW18Fwd: Solanke
+GW18Fwd: Raúl
+GW18Fwd: João Pedro

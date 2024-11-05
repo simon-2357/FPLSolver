@@ -1,0 +1,156 @@
+9In,:Raúl:Foden,9Out,:Archer:Saka
+10In,:Burgess:Son,10Out,:Dunk:Foden
+11In,,11Out,
+12In,:Andersen,12Out,:Faes
+13In,,13Out,
+14In,:Ødegaard,14Out,:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Haaland:Rogers:Mitoma,9Out,:João Pedro:Saka:M.Salah
+10In,:Andersen:Burgess:Robertson:João Pedro:Raúl:Son:M.Salah,10Out,:Dunk:Faes:Gabriel:Haaland:Archer:Rogers:Mitoma
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Ødegaard,14Out,:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Wood:Foden,9Out,:João Pedro:Saka
+10In,,10Out,
+11In,:Andersen:Burgess:João Pedro:Raúl:Son,11Out,:Dunk:Faes:Archer:Wood:Foden
+12In,,12Out,
+13In,,13Out,
+14In,:Ødegaard,14Out,:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Pinnock:Van den Berg:Haaland:Chiwome:Calvert-Lewin:Kelleher:Ederson M.:Palmer:Mitoma:Bowen:Foden,9Out,:Gabriel:Alexander-Arnold:João Pedro:Archer:Solanke:Bentley:Raya:Saka:M.Salah:Eze:B.Fernandes
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Andersen:Burgess:Raúl:Ødegaard,14Out,:Dunk:Faes:Archer:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Burgess:Raúl:Son,9Out,:Dunk:Archer:Saka
+10In,,10Out,
+11In,:Andersen,11Out,:Faes
+12In,,12Out,
+13In,:Ødegaard,13Out,:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+9In,:Raúl:Foden,9Out,:João Pedro:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Andersen:Palmer,12Out,:Pedro Porro:Son
+13In,:Konsa:Pedro Porro:Stewart:João Pedro:Johnstone:Son,13Out,:Faes:Alexander-Arnold:Raúl:Archer:Bentley:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Ødegaard,14Out,:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,:Andersen:Burgess:Raúl,17Out,:Dunk:Faes:Archer
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Colwill:Andersen:Bednarek:Raúl:Palmer:Semenyo:Ødegaard,16Out,:Dunk:Faes:Alexander-Arnold:Archer:Eze:Mbeumo:B.Fernandes
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,,12Out,
+13In,:Palmer,13Out,:M.Salah
+14In,:Saka,14Out,:B.Fernandes
+15In,:Andersen:Burgess:Raúl:M.Salah:Tavernier:Ødegaard,15Out,:Faes:Gabriel:Archer:Palmer:Eze:Mbeumo
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Vardy:Foden,9Out,:João Pedro:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Konsa:Andersen:João Pedro:Raúl:Johnstone:Palmer:Semenyo,12Out,:Faes:Alexander-Arnold:Vardy:Archer:Bentley:Eze:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Konsa:Andersen:Palmer,12Out,:Faes:Alexander-Arnold:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,:Colwill:Burgess:Alexander-Arnold:Raúl:Arrizabalaga:Henderson:Ødegaard:De Bruyne,18Out,:Konsa:Dunk:Gabriel:Archer:Bentley:Raya:Palmer:Mbeumo
+19In,,19Out,
+20In,,20Out,
+9In,:Foden,9Out,:Saka
+10In,:Son,10Out,:Foden
+11In,,11Out,
+12In,:Andersen:Palmer:Semenyo,12Out,:Pedro Porro:Eze:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,:Konsa:Guéhi:Burgess:Pedro Porro:Raúl:Watkins:Arrizabalaga:Henderson:Dibling:Eze:De Bruyne,19Out,:Dunk:Andersen:Faes:Gabriel:João Pedro:Archer:Bentley:Raya:Palmer:Semenyo:Mbeumo
+20In,,20Out,
+9In,:Andersen:O'Shea:Haaland:Chiwome:Son:McGinn,9Out,:Faes:Gabriel:João Pedro:Archer:Saka:M.Salah
+10In,:Cunha:M.Salah,10Out,:Haaland:McGinn
+11In,,11Out,
+12In,:João Pedro:Palmer,12Out,:Cunha:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+19In,,19Out,
+20In,,20Out,

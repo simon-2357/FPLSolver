@@ -1,0 +1,856 @@
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Alex Moreno:Palmer:Johnson,13Out,:Alexander-Arnold:B.Fernandes:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,:Gusto:Diogo J.,16Out,:Cash:Mbeumo
+17In,:Thiago:B.Fernandes,17Out,:Solanke:Diogo J.
+18In,:Archer:Foden,18Out,:Raúl:B.Fernandes
+11In,,11Out,
+12In,:Vardy:Palmer:Adama,12Out,:Solanke:B.Fernandes:Garnacho
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Evanilson:Diogo J.,16Out,:Raúl:Mbeumo
+17In,:Saliba:B.Fernandes,17Out,:Pedro Porro:Saka
+18In,:De Bruyne,18Out,:B.Fernandes
+11In,,11Out,
+12In,:Konsa:Rashford,12Out,:Pedro Porro:Garnacho
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Burn,16Out,:Konsa
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Son:Minteh,13Out,:Saka:Garnacho
+14In,:Evanilson:Bowen,14Out,:Raúl:B.Fernandes
+15In,,15Out,
+16In,:Calafiori,16Out,:Dunk
+17In,:Vardy:B.Fernandes,17Out,:Evanilson:Son
+18In,:Lewis:Saka,18Out,:Gabriel:Mbeumo
+11In,,11Out,
+12In,:Cash:Isak,12Out,:Pedro Porro:Solanke
+13In,:Alex Moreno:Palmer:Minteh,13Out,:Gabriel:B.Fernandes:Garnacho
+14In,:Rogers,14Out,:Minteh
+15In,,15Out,
+16In,,16Out,
+17In,:Calafiori:Aké,17Out,:Alexander-Arnold:Cash
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Calafiori,14Out,:Gabriel
+15In,:Enes Ünal:Diogo J.,15Out,:Solanke:Garnacho
+16In,:Cunha:Gordon,16Out,:João Pedro:Diogo J.
+17In,:Tete:Palmer,17Out,:Pedro Porro:Saka
+18In,:De Bruyne:Kluivert,18Out,:Mbeumo:Gordon
+11In,,11Out,
+12In,,12Out,
+13In,:Gusto:Son,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Akanji,14Out,:Pedro Porro
+15In,,15Out,
+16In,:Barnes,16Out,:Garnacho
+17In,:Welbeck,17Out,:Raúl
+18In,:Robertson:Archer:De Bruyne:Luis Díaz,18Out,:Gusto:Solanke:Son:Barnes
+11In,,11Out,
+12In,,12Out,
+13In,:Son,13Out,:Saka
+14In,:Digne:Evanilson:Palmer:Rogers,14Out,:Pedro Porro:Raúl:B.Fernandes:Mbeumo
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Gusto:Cash:Palmer:Madueke,14Out,:Gabriel:Pedro Porro:B.Fernandes:Mbeumo
+15In,,15Out,
+16In,:Aït-Nouri:Isak,16Out,:Alexander-Arnold:João Pedro
+17In,,17Out,
+18In,:Akanji:Stewart:Diogo J.,18Out,:Aït-Nouri:Solanke:Garnacho
+11In,,11Out,
+12In,:Digne:Palmer,12Out,:Alexander-Arnold:Saka
+13In,:Johnson,13Out,:Garnacho
+14In,:Gvardiol,14Out,:Pedro Porro
+15In,,15Out,
+16In,:Cunha:Evanilson:Ødegaard,16Out,:Solanke:Raúl:Mbeumo
+17In,,17Out,
+18In,:Welbeck,18Out,:Cunha
+11In,,11Out,
+12In,,12Out,
+13In,:O'Shea:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Madueke,14Out,:Garnacho
+15In,,15Out,
+16In,:Cunha:Gordon,16Out,:Solanke:Madueke
+17In,,17Out,
+18In,:Alexander-Arnold:Semenyo,18Out,:Pedro Porro:Mbeumo
+11In,,11Out,
+12In,:Digne:Palmer:Kluivert,12Out,:Alexander-Arnold:B.Fernandes:Garnacho
+13In,,13Out,
+14In,:Cash:Watkins,14Out,:Pedro Porro:Solanke
+15In,,15Out,
+16In,:Alexander-Arnold:Calafiori:Wood,16Out,:Gabriel:Digne:Watkins
+17In,:Smith Rowe,17Out,:Mbeumo
+18In,:Diogo J.,18Out,:Smith Rowe
+11In,,11Out,
+12In,:Konsa:Isak,12Out,:Pedro Porro:Solanke
+13In,,13Out,
+14In,:Bowen:Johnson,14Out,:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Gordon,16Out,:Mbeumo
+17In,:Gvardiol:Rashford,17Out,:Gabriel:Johnson
+18In,:Martinelli,18Out,:Gordon
+11In,:Son,11Out,:Saka
+12In,:Digne:Welbeck:Palmer,12Out,:Faes:Solanke:Son
+13In,,13Out,
+14In,:Bowen,14Out,:B.Fernandes
+15In,,15Out,
+16In,:Hall:Diogo J.,16Out,:Digne:Garnacho
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Cash:Bowen:Mitoma,14Out,:Dunk:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Isak:Diogo J.,16Out,:Solanke:Mbeumo
+17In,,17Out,
+18In,:Saka,18Out,:Palmer
+11In,,11Out,
+12In,:Robertson:Højlund,12Out,:Pedro Porro:Solanke
+13In,:Palmer,13Out,:M.Salah
+14In,:Isak:Bowen,14Out,:Højlund:B.Fernandes
+15In,,15Out,
+16In,,16Out,
+17In,:Alex Moreno:M.Salah,17Out,:Alexander-Arnold:Palmer
+18In,:Haaland:Dibling,18Out,:Isak:Saka
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Palmer:O.Dango,14Out,:Saka:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Enes Ünal:Rashford,17Out,:Solanke:O.Dango
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Welbeck:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,:Rogers,14Out,:Garnacho
+15In,,15Out,
+16In,:Gordon:Madueke,16Out,:Mbeumo:Rogers
+17In,,17Out,
+18In,:Darwin:Kluivert,18Out,:Raúl:Gordon
+11In,,11Out,
+12In,:Cash:Hall:Palmer,12Out,:Gabriel:Pedro Porro:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Calafiori:Evanilson:Tavernier,16Out,:Cash:Raúl:Mbeumo
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Palmer,13Out,:M.Salah
+14In,:Digne:Kluivert,14Out,:Faes:Garnacho
+15In,:Watkins,15Out,:Solanke
+16In,:Isak,16Out,:Watkins
+17In,:Tete,17Out,:Gabriel
+18In,:Havertz:M.Salah:Eze,18Out,:Raúl:Palmer:B.Fernandes
+11In,,11Out,
+12In,:Evanilson,12Out,:Solanke
+13In,:Cunha,13Out,:Raúl
+14In,:Pau:Palmer:Rogers,14Out,:Gabriel:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Diogo J.,16Out,:Mbeumo
+17In,:Vardy,17Out,:Evanilson
+18In,:Welbeck:Foden:Martinelli,18Out,:Vardy:Palmer:Rogers
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Palmer,13Out,:M.Salah
+14In,:Watkins:Rogers,14Out,:Raúl:Garnacho
+15In,,15Out,
+16In,:Kluivert,16Out,:Rogers
+17In,:Raúl,17Out,:Watkins
+18In,:Haaland:Foden:Diogo J.:Georginio,18Out,:Solanke:Palmer:B.Fernandes:Mbeumo
+11In,,11Out,
+12In,:Dalot,12Out,:Pedro Porro
+13In,,13Out,
+14In,:Evanilson:Son,14Out,:Solanke:B.Fernandes
+15In,,15Out,
+16In,:Strand Larsen,16Out,:Evanilson
+17In,:Welbeck,17Out,:Strand Larsen
+18In,:De Bruyne:Diogo J.:Rashford,18Out,:Son:Mbeumo:Garnacho
+11In,,11Out,
+12In,:Hall:Welbeck:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,:Robertson,15Out,:Gabriel
+16In,:Ødegaard:Semenyo,16Out,:Mbeumo:Garnacho
+17In,:N.Jackson:Madueke,17Out,:Welbeck:Palmer
+18In,:Haaland:Diogo J.,18Out,:N.Jackson:M.Salah
+11In,,11Out,
+12In,,12Out,
+13In,:Cash:Welbeck:Palmer:Son,13Out,:Alexander-Arnold:João Pedro:M.Salah:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Konsa,12Out,:Pedro Porro
+13In,:Estupiñan:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Bowen:Rogers,14Out,:Mbeumo:Garnacho
+15In,,15Out,
+16In,:Isak,16Out,:Solanke
+17In,,17Out,
+18In,:Virgil:Tavernier,18Out,:Estupiñan:Bowen
+11In,,11Out,
+12In,:Cash:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Ødegaard:Semenyo,14Out,:Mbeumo:Garnacho
+15In,,15Out,
+16In,:Isak:Gordon,16Out,:Solanke:B.Fernandes
+17In,,17Out,
+18In,:Veltman:Haaland:Trossard:Kluivert,18Out,:Gabriel:Isak:Palmer:Gordon
+11In,,11Out,
+12In,,12Out,
+13In,:Calafiori:Palmer,13Out,:Alexander-Arnold:Saka
+14In,:Cash:Bowen,14Out,:Pedro Porro:Garnacho
+15In,,15Out,
+16In,:Gordon,16Out,:Mbeumo
+17In,,17Out,
+18In,:Alexander-Arnold:Akanji:Saka:Kamada,18Out,:Gabriel:Cash:Palmer:Gordon
+11In,,11Out,
+12In,:Konsa:Palmer,12Out,:Pedro Porro:Saka
+13In,:Estupiñan:Son,13Out,:Alexander-Arnold:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,:Calafiori:Hall:Gordon,16Out,:Estupiñan:Konsa:Mbeumo
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,:N.Jackson:Palmer,13Out,:Raúl:M.Salah
+14In,,14Out,
+15In,,15Out,
+16In,:Gordon:Mitoma,16Out,:Mbeumo:Garnacho
+17In,:Bassey,17Out,:Digne
+18In,:Gvardiol:Aké:Darwin:Ødegaard,18Out,:Gabriel:Bassey:N.Jackson:B.Fernandes
+11In,,11Out,
+12In,,12Out,
+13In,:Welbeck:Palmer:Madueke,13Out,:João Pedro:M.Salah:Garnacho
+14In,:Isak,14Out,:Solanke
+15In,:Martinez:Rashford,15Out,:Pedro Porro:Madueke
+16In,,16Out,
+17In,,17Out,
+18In,:M.Salah:Mac Allister,18Out,:Palmer:Mbeumo
+11In,,11Out,
+12In,:W.Fofana:Konsa:Vardy:Palmer,12Out,:Alexander-Arnold:Pedro Porro:Solanke:Garnacho
+13In,:Welbeck,13Out,:Raúl
+14In,,14Out,
+15In,,15Out,
+16In,:Isak:Smith Rowe,16Out,:Vardy:B.Fernandes
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Welbeck:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Palmer,12Out,:Pedro Porro:Saka
+13In,:Welbeck,13Out,:Raúl
+14In,,14Out,
+15In,,15Out,
+16In,:Johnson,16Out,:Mbeumo
+17In,,17Out,
+18In,:Saka:Foden,18Out,:Palmer:B.Fernandes
+11In,:Rashford,11Out,:Saka
+12In,:Palmer,12Out,:B.Fernandes
+13In,,13Out,
+14In,:Vardy:Madueke,14Out,:Raúl:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Calafiori:Adama,17Out,:Pedro Porro:Madueke
+18In,:Haaland:Archer:Foden:Dibling,18Out,:Solanke:Vardy:M.Salah:Mbeumo
+11In,,11Out,
+12In,,12Out,
+13In,:Alex Moreno:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,:Digne:Foden,14Out,:Pedro Porro:B.Fernandes
+15In,,15Out,
+16In,:Hall,16Out,:Digne
+17In,:Rashford,17Out,:Foden
+18In,:Alexander-Arnold:Havertz:De Bruyne,18Out,:Gabriel:Raúl:Son
+11In,,11Out,
+12In,,12Out,
+13In,:Calafiori:Palmer,13Out,:Alexander-Arnold:Saka
+14In,:Rogers,14Out,:Garnacho
+15In,,15Out,
+16In,:Isak:Smith Rowe,16Out,:João Pedro:B.Fernandes
+17In,:Robinson,17Out,:Pedro Porro
+18In,:Rúben,18Out,:Robinson
+11In,,11Out,
+12In,:Konsa:Palmer:Rogers,12Out,:Alexander-Arnold:B.Fernandes:Garnacho
+13In,,13Out,
+14In,:Diogo J.,14Out,:Mbeumo
+15In,,15Out,
+16In,:Isak:Gordon,16Out,:Solanke:Diogo J.
+17In,,17Out,
+18In,:Akanji:Darwin:Evanilson:De Bruyne,18Out,:Konsa:Isak:João Pedro:Saka
+11In,,11Out,
+12In,:Pau:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Digne:Bowen:Rogers,14Out,:Faes:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Martinelli:Szoboszlai,16Out,:Mbeumo:Rogers
+17In,,17Out,
+18In,:Aké:Archer:Saka,18Out,:Gabriel:Solanke:Szoboszlai
+11In,,11Out,
+12In,:Hall:Rogers,12Out,:Pedro Porro:Garnacho
+13In,:Son,13Out,:B.Fernandes
+14In,:N.Jackson:Johnson,14Out,:Solanke:Mbeumo
+15In,:Isak,15Out,:N.Jackson
+16In,:Semenyo,16Out,:Rogers
+17In,,17Out,
+18In,:Sancho,18Out,:Johnson
+11In,,11Out,
+12In,:Hall:Rogers,12Out,:Faes:Garnacho
+13In,:Konsa:Welbeck:Palmer,13Out,:Alexander-Arnold:Raúl:B.Fernandes
+14In,,14Out,
+15In,:Aké,15Out,:Pedro Porro
+16In,,16Out,
+17In,,17Out,
+18In,:Alexander-Arnold:Gakpo:Martinelli,18Out,:Gabriel:Solanke:Mbeumo
+11In,,11Out,
+12In,:Konsa,12Out,:Pedro Porro
+13In,:Palmer:Sangaré,13Out,:B.Fernandes:Garnacho
+14In,:Bowen,14Out,:Mbeumo
+15In,,15Out,
+16In,:Isak:Wood:Gordon,16Out,:Raúl:João Pedro:Palmer
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Evanilson:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,:Son,15Out,:Saka
+16In,:Aït-Nouri:Isak,16Out,:Alexander-Arnold:Evanilson
+17In,,17Out,
+18In,:Welbeck:Foden,18Out,:Isak:Mbeumo
+11In,,11Out,
+12In,,12Out,
+13In,:Alex Moreno,13Out,:Alexander-Arnold
+14In,:Watkins:Palmer:Semenyo,14Out,:Solanke:B.Fernandes:Mbeumo
+15In,,15Out,
+16In,:Hall:Isak:Gordon,16Out,:Alex Moreno:Watkins:Garnacho
+17In,,17Out,
+18In,:Lewis,18Out,:Pedro Porro
+11In,:Son,11Out,:Saka
+12In,:Cash:Palmer,12Out,:Pedro Porro:Son
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Isak:Saka:Szoboszlai,16Out,:Solanke:Palmer:Garnacho
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Cash:Vardy:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,:Digne:Son,14Out,:Alexander-Arnold:Mbeumo
+15In,,15Out,
+16In,:Calafiori:Szoboszlai,16Out,:Gabriel:Garnacho
+17In,:Ødegaard,17Out,:Saka
+18In,:Robertson:W.Fofana,18Out,:Digne:Faes
+11In,,11Out,
+12In,:Hall:Palmer:Sangaré,12Out,:Pedro Porro:B.Fernandes:Garnacho
+13In,:Welbeck,13Out,:Raúl
+14In,,14Out,
+15In,,15Out,
+16In,:Gordon,16Out,:Mbeumo
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Welbeck:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,:Johnson:Szoboszlai,15Out,:Mbeumo:Garnacho
+16In,,16Out,
+17In,:Rashford,17Out,:Szoboszlai
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Calvert-Lewin:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Cunha:Tavernier,16Out,:Calvert-Lewin:Mbeumo
+17In,:Archer:B.Fernandes,17Out,:Cunha:Tavernier
+18In,:Ødegaard,18Out,:Saka
+11In,,11Out,
+12In,:Konsa:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,:Enes Ünal:Ødegaard,16Out,:João Pedro:B.Fernandes
+17In,:Vardy,17Out,:Solanke
+18In,:Aké:Saka,18Out,:Gabriel:Mbeumo
+11In,:Son,11Out,:Saka
+12In,:Cash:Palmer,12Out,:Pedro Porro:Son
+13In,,13Out,
+14In,:Ødegaard,14Out,:B.Fernandes
+15In,,15Out,
+16In,:Armstrong:Madueke,16Out,:Raúl:Garnacho
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Aké:Welbeck:Palmer,13Out,:Alexander-Arnold:João Pedro:Saka
+14In,,14Out,
+15In,,15Out,
+16In,:Gvardiol:N.Jackson:Martinelli,16Out,:Aké:Solanke:B.Fernandes
+17In,:Rashford,17Out,:Martinelli
+18In,:Robertson:Martinelli,18Out,:Pedro Porro:Mbeumo
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,:Estupiñan:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Rogers,14Out,:Garnacho
+15In,,15Out,
+16In,:Hall:Isak:Semenyo,16Out,:Digne:Raúl:Mbeumo
+17In,:Andreas,17Out,:Rogers
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Lewis:Palmer:Minteh,13Out,:Alexander-Arnold:B.Fernandes:Garnacho
+14In,:Chaplin,14Out,:Minteh
+15In,:Amad,15Out,:Chaplin
+16In,:Gusto:Gordon,16Out,:Faes:Mbeumo
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:W.Fofana,12Out,:Pedro Porro
+13In,:Alex Moreno:Son,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Digne:Bowen,14Out,:Alex Moreno:Garnacho
+15In,,15Out,
+16In,:Welbeck:Foden,16Out,:Solanke:Mbeumo
+17In,,17Out,
+18In,:Alexander-Arnold:Diogo J.,18Out,:Digne:Son
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Isak:Rogers,14Out,:Raúl:B.Fernandes
+15In,,15Out,
+16In,:Saliba:Palmer,16Out,:Alexander-Arnold:Saka
+17In,:Gusto:Rashford,17Out,:Pedro Porro:Garnacho
+18In,:Calafiori,18Out,:Saliba
+11In,,11Out,
+12In,:Palmer:McGinn,12Out,:Saka:Garnacho
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,:Akanji:Saka:Minteh,18Out,:Pedro Porro:B.Fernandes:Mbeumo
+11In,,11Out,
+12In,:Hall:Welbeck:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,:Digne:Ramsey,14Out,:Faes:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:B.Fernandes:Garnacho,17Out,:Saka:Ramsey
+18In,:Havertz:Kluivert,18Out,:Raúl:Mbeumo
+11In,,11Out,
+12In,:Palmer:O.Dango,12Out,:Saka:Garnacho
+13In,,13Out,
+14In,:Watkins:Rogers,14Out,:Solanke:B.Fernandes
+15In,,15Out,
+16In,:Gusto:Isak:Diogo J.,16Out,:Pedro Porro:Watkins:O.Dango
+17In,:N.Jackson:Adama,17Out,:Isak:Rogers
+18In,:Martinelli,18Out,:Mbeumo
+11In,,11Out,
+12In,:Konsa:Henry:Welbeck:Palmer,12Out,:Alexander-Arnold:Pedro Porro:Solanke:Garnacho
+13In,,13Out,
+14In,:Watkins:Rogers,14Out,:Welbeck:B.Fernandes
+15In,,15Out,
+16In,:Isak,16Out,:Watkins
+17In,:Saliba:B.Fernandes,17Out,:Konsa:Saka
+18In,:De Bruyne,18Out,:B.Fernandes
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,:Palmer,17Out,:M.Salah
+18In,:Højlund:De Bruyne,18Out,:Solanke:Mbeumo
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Aina:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Digne,14Out,:Aina
+15In,:Welbeck,15Out,:Raúl
+16In,:Isak:Sancho,16Out,:Solanke:Mbeumo
+17In,,17Out,
+18In,:Gvardiol:Kluivert,18Out,:Digne:Sancho
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Son:Rogers,14Out,:B.Fernandes:Mbeumo
+15In,:Kerkez:Welbeck:Foden,15Out,:Pedro Porro:Solanke:Garnacho
+16In,,16Out,
+17In,:B.Fernandes:Szoboszlai,17Out,:Son:Rogers
+18In,,18Out,
+11In,,11Out,
+12In,:Konsa:Isak,12Out,:Pedro Porro:Solanke
+13In,:Welbeck,13Out,:Raúl
+14In,:Rogers,14Out,:Garnacho
+15In,:Diogo J.,15Out,:Saka
+16In,:Palmer,16Out,:B.Fernandes
+17In,:Wissa,17Out,:Welbeck
+18In,:De Bruyne:Martinelli,18Out,:Palmer:Rogers
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Johnson,13Out,:Garnacho
+14In,,14Out,
+15In,:Welbeck:Son,15Out,:Raúl:Saka
+16In,:Calafiori:Diogo J.,16Out,:Cash:B.Fernandes
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Cash:Palmer,13Out,:Alexander-Arnold:Saka
+14In,:Bowen,14Out,:Garnacho
+15In,:Evanilson,15Out,:Raúl
+16In,:Calafiori:Johnson,16Out,:Pedro Porro:Mbeumo
+17In,,17Out,
+18In,:Robertson:Trossard,18Out,:Calafiori:Johnson
+11In,,11Out,
+12In,,12Out,
+13In,:Pau,13Out,:Alexander-Arnold
+14In,:Palmer:Johnson,14Out,:B.Fernandes:Mbeumo
+15In,:Welbeck,15Out,:Raúl
+16In,:Hall:Isak,16Out,:Pedro Porro:Solanke
+17In,:Rashford,17Out,:Garnacho
+18In,:Robertson:Dibling,18Out,:Pau:Johnson
+11In,,11Out,
+12In,,12Out,
+13In,:Gusto:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,:Alexander-Arnold:Kluivert,16Out,:Pedro Porro:B.Fernandes
+17In,:W.Fofana,17Out,:Alexander-Arnold
+18In,:Haaland:L.Paquetá,18Out,:Solanke:Son
+11In,,11Out,
+12In,,12Out,
+13In,:Estupiñan:Palmer:Kluivert,13Out,:Alexander-Arnold:B.Fernandes:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Digne:Vardy,12Out,:Pedro Porro:Solanke
+13In,:Veltman:Palmer,13Out,:Alexander-Arnold:Garnacho
+14In,:Bowen,14Out,:B.Fernandes
+15In,,15Out,
+16In,:Cunha,16Out,:Vardy
+17In,,17Out,
+18In,:Robertson,18Out,:Gabriel
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Vardy:Kluivert,13Out,:João Pedro:Garnacho
+14In,:Son,14Out,:B.Fernandes
+15In,,15Out,
+16In,:Cunha,16Out,:Solanke
+17In,:Robertson,17Out,:Alexander-Arnold
+18In,:N.Jackson:Welbeck:De Bruyne,18Out,:Raúl:Vardy:Son
+11In,,11Out,
+12In,:Lewis,12Out,:Pedro Porro
+13In,:Palmer:Minteh,13Out,:Saka:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,:Rashford,17Out,:Mbeumo
+18In,:Virgil:Saka:Dibling,18Out,:Lewis:B.Fernandes:Rashford
+11In,,11Out,
+12In,:Cash:Rashford,12Out,:Pedro Porro:Garnacho
+13In,:W.Fofana:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,:Strand Larsen:Madueke,16Out,:João Pedro:Rashford
+17In,:Diogo J.:Rashford,17Out,:Saka:Madueke
+18In,:Konaté:Martinelli,18Out,:Cash:Mbeumo
+11In,,11Out,
+12In,:Cash,12Out,:Pedro Porro
+13In,:Son:Minteh,13Out,:B.Fernandes:Garnacho
+14In,,14Out,
+15In,:Evanilson:Gordon,15Out,:Solanke:Minteh
+16In,,16Out,
+17In,:Gvardiol,17Out,:Alexander-Arnold
+18In,:De Bruyne:Luis Díaz,18Out,:Son:Gordon
+11In,,11Out,
+12In,:Burn:Vardy:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,:Robertson,14Out,:Gabriel
+15In,:Strand Larsen,15Out,:João Pedro
+16In,:Trossard,16Out,:Mbeumo
+17In,:Calafiori:Smith Rowe,17Out,:Dunk:Trossard
+18In,:Wood:Archer,18Out,:Raúl:Vardy
+11In,,11Out,
+12In,,12Out,
+13In,:Taylor:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:Vardy:Bowen,14Out,:Solanke:Garnacho
+15In,:Saliba:Cunha,15Out,:Gabriel:Raúl
+16In,,16Out,
+17In,:Rashford,17Out,:Mbeumo
+18In,:Diogo J.,18Out,:Rashford
+11In,,11Out,
+12In,,12Out,
+13In,:Palmer:Diogo J.,13Out,:M.Salah:Garnacho
+14In,,14Out,
+15In,:Evanilson:M.Salah,15Out,:Solanke:Palmer
+16In,,16Out,
+17In,:Aké:Kluivert,17Out,:Pedro Porro:Diogo J.
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,:Digne:Palmer:Tavernier,13Out,:Alexander-Arnold:B.Fernandes:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,:Gordon,16Out,:Mbeumo
+17In,:Andersen,17Out,:Pedro Porro
+18In,:Calafiori:Aké:Luis Díaz:Diogo J.,18Out,:Digne:Andersen:Saka:Tavernier
+11In,,11Out,
+12In,,12Out,
+13In,:Cash:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,:Alexander-Arnold:Isak:M.Salah:Kluivert:Dibling,16Out,:Cash:Solanke:Son:B.Fernandes:Mbeumo
+17In,,17Out,
+18In,:Konaté,18Out,:Pedro Porro
+11In,,11Out,
+12In,,12Out,
+13In,:Lewis:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,:Bowen,14Out,:B.Fernandes
+15In,:Isak:Mavididi,15Out,:Raúl:Mbeumo
+16In,,16Out,
+17In,:M.Salah:B.Fernandes,17Out,:Palmer:Son
+18In,:Konaté:Luis Díaz,18Out,:Pedro Porro:Bowen
+11In,,11Out,
+12In,:Digne:Archer:Palmer,12Out,:Alexander-Arnold:Solanke:Garnacho
+13In,,13Out,
+14In,:Vardy,14Out,:Raúl
+15In,:Cash,15Out,:Digne
+16In,:Cunha:Neto,16Out,:Archer:Mbeumo
+17In,:Estupiñan:Garnacho,17Out,:Pedro Porro:Neto
+18In,:Aké,18Out,:Estupiñan
+11In,,11Out,
+12In,:Colwill:Palmer:Rogers,12Out,:Alexander-Arnold:B.Fernandes:Garnacho
+13In,:Welbeck,13Out,:Raúl
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,:Andreas,17Out,:Rogers
+18In,:Dibling,18Out,:Andreas
+11In,,11Out,
+12In,,12Out,
+13In,:Palmer,13Out,:M.Salah
+14In,:Son:Rogers,14Out,:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Robertson,16Out,:Pedro Porro
+17In,:B.Fernandes,17Out,:Saka
+18In,:Haaland:Ødegaard:Szoboszlai,18Out,:Solanke:Palmer:Son
+11In,,11Out,
+12In,,12Out,
+13In,:Digne:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,:Isak:Gordon:Kluivert,16Out,:Raúl:B.Fernandes:Mbeumo
+17In,:M.Salah:Rashford,17Out,:Palmer:Son
+18In,:Gvardiol:N.Jackson,18Out,:Digne:Solanke
+11In,,11Out,
+12In,,12Out,
+13In,:Cash:Son,13Out,:Gabriel:B.Fernandes
+14In,:Aït-Nouri:Martinelli,14Out,:Pedro Porro:Garnacho
+15In,,15Out,
+16In,:Isak:Madueke,16Out,:Solanke:Mbeumo
+17In,,17Out,
+18In,,18Out,
+11In,,11Out,
+12In,:Konsa,12Out,:Pedro Porro
+13In,:Palmer,13Out,:Saka
+14In,:Bowen,14Out,:B.Fernandes
+15In,,15Out,
+16In,:N.Semedo:Hall:Isak:N.Jackson,16Out,:Alexander-Arnold:Konsa:Solanke:Raúl
+17In,,17Out,
+18In,:Lewis:Havertz:Diogo J.,18Out,:N.Semedo:N.Jackson:Bowen
+11In,,11Out,
+12In,:Cash:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Haaland:Martinelli:Rogers:Kluivert,14Out,:Solanke:Palmer:B.Fernandes:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Aké:Strand Larsen:Rashford,17Out,:Alexander-Arnold:Raúl:Rogers
+18In,:Diogo J.,18Out,:Martinelli
+11In,,11Out,
+12In,:Cash:Palmer,12Out,:Alexander-Arnold:Saka
+13In,:Johnson,13Out,:Garnacho
+14In,:Ødegaard,14Out,:Mbeumo
+15In,,15Out,
+16In,:Strand Larsen,16Out,:Raúl
+17In,:Højlund:Diogo J.,17Out,:Solanke:Johnson
+18In,:Aké:Havertz,18Out,:Gabriel:Højlund
+11In,,11Out,
+12In,,12Out,
+13In,:Palmer,13Out,:M.Salah
+14In,:Rogers,14Out,:B.Fernandes
+15In,:Isak:M.Salah,15Out,:Raúl:Palmer
+16In,,16Out,
+17In,:Lewis:Robinson:B.Fernandes,17Out,:Alexander-Arnold:Pedro Porro:Rogers
+18In,,18Out,
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Cash:Son:Rogers,14Out,:Pedro Porro:B.Fernandes:Garnacho
+15In,:Evanilson,15Out,:Raúl
+16In,,16Out,
+17In,:Cunha:Welbeck,17Out,:Solanke:Evanilson
+18In,:Aké:De Bruyne,18Out,:Faes:Son
+11In,,11Out,
+12In,,12Out,
+13In,:Son,13Out,:Saka
+14In,:Kerkez:Palmer:McGinn,14Out,:Gabriel:B.Fernandes:Garnacho
+15In,:Bowen,15Out,:Mbeumo
+16In,,16Out,
+17In,:White:Gabriel,17Out,:Alexander-Arnold:Pedro Porro
+18In,:Darwin,18Out,:Solanke
+11In,,11Out,
+12In,,12Out,
+13In,:Lewis:Palmer:Elanga,13Out,:Alexander-Arnold:B.Fernandes:Garnacho
+14In,,14Out,
+15In,,15Out,
+16In,,16Out,
+17In,:Gvardiol:Cunha,17Out,:Pedro Porro:Solanke
+18In,:Calafiori:Rúben,18Out,:Gabriel:Lewis
+11In,,11Out,
+12In,:W.Fofana:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Aké:Foden:Madueke,14Out,:Alexander-Arnold:B.Fernandes:Garnacho
+15In,,15Out,
+16In,:Isak:Martinelli,16Out,:Solanke:Mbeumo
+17In,:Bowen,17Out,:Foden
+18In,:Robertson,18Out,:Faes
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,:Alex Moreno,13Out,:Faes
+14In,:Rogers,14Out,:Garnacho
+15In,:Watkins:Kluivert,15Out,:Raúl:Mbeumo
+16In,:Armstrong:Palmer,16Out,:Watkins:B.Fernandes
+17In,:Robertson,17Out,:Digne
+18In,:Lewis:Ødegaard,18Out,:Gabriel:Palmer
+11In,,11Out,
+12In,,12Out,
+13In,:Mykolenko:Palmer:Son,13Out,:Alexander-Arnold:M.Salah:Garnacho
+14In,:Watkins:McGinn,14Out,:João Pedro:B.Fernandes
+15In,,15Out,
+16In,:N.Jackson,16Out,:Watkins
+17In,:Cunha:M.Salah,17Out,:N.Jackson:Palmer
+18In,:Alexander-Arnold:Luis Díaz,18Out,:Mykolenko:Son
+11In,,11Out,
+12In,:Digne:Isak,12Out,:Alexander-Arnold:Solanke
+13In,,13Out,
+14In,:Palmer:Rogers,14Out,:B.Fernandes:Mbeumo
+15In,,15Out,
+16In,:Cunha:Georginio,16Out,:João Pedro:Garnacho
+17In,:B.Fernandes:Rashford,17Out,:Saka:Rogers
+18In,,18Out,
+11In,,11Out,
+12In,:Hall:Vardy:Palmer,12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,,13Out,
+14In,:Johnson,14Out,:Mbeumo
+15In,,15Out,
+16In,,16Out,
+17In,:Wood,17Out,:Vardy
+18In,,18Out,
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,,13Out,
+14In,:N.Jackson:Madueke,14Out,:João Pedro:B.Fernandes
+15In,:Isak:Szoboszlai,15Out,:Solanke:Mbeumo
+16In,,16Out,
+17In,:Palmer:B.Fernandes,17Out,:M.Salah:Szoboszlai
+18In,:Konaté:Havertz:Diogo J.,18Out,:Gabriel:Isak:Madueke
+11In,,11Out,
+12In,:Konsa,12Out,:Pedro Porro
+13In,:Gusto:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,,14Out,
+15In,,15Out,
+16In,:Hall:Diogo J.,16Out,:Konsa:Mbeumo
+17In,,17Out,
+18In,:Alexander-Arnold:Welbeck,18Out,:Gusto:Solanke
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,:Alex Moreno:Palmer,13Out,:Alexander-Arnold:B.Fernandes
+14In,:De Bruyne:Sangaré,14Out,:Mbeumo:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Gvardiol:Martinelli,17Out,:Digne:Saka
+18In,:Haaland:O.Dango,18Out,:Solanke:Palmer
+11In,,11Out,
+12In,,12Out,
+13In,,13Out,
+14In,:Digne:Foden:Rogers,14Out,:Pedro Porro:B.Fernandes:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Lewis:Bassey:B.Fernandes,17Out,:Alexander-Arnold:Digne:Rogers
+18In,:Welbeck:Diogo J.,18Out,:Raúl:Mbeumo
+11In,:Strand Larsen,11Out,:Raúl
+12In,:Cash:Palmer,12Out,:Pedro Porro:Saka
+13In,,13Out,
+14In,:Digne:Ødegaard,14Out,:Alexander-Arnold:Garnacho
+15In,,15Out,
+16In,:Maddison,16Out,:Mbeumo
+17In,:Raúl,17Out,:Solanke
+18In,:Haaland:De Bruyne:Kudus,18Out,:João Pedro:M.Salah:Palmer
+11In,,11Out,
+12In,,12Out,
+13In,:Calafiori:Welbeck:Palmer,13Out,:Alexander-Arnold:Raúl:Saka
+14In,,14Out,
+15In,:Diogo J.,15Out,:Mbeumo
+16In,:Isak:Maddison,16Out,:Solanke:B.Fernandes
+17In,:Rashford,17Out,:Maddison
+18In,:N.Jackson,18Out,:Isak
+11In,,11Out,
+12In,:Digne,12Out,:Pedro Porro
+13In,:Palmer:Son,13Out,:M.Salah:B.Fernandes
+14In,:Johnson,14Out,:Garnacho
+15In,,15Out,
+16In,,16Out,
+17In,:Vardy:M.Salah:B.Fernandes,17Out,:Solanke:Palmer:Son
+18In,:De Bruyne:Bernardo,18Out,:Mbeumo:Johnson
+11In,,11Out,
+12In,:Konsa,12Out,:Pedro Porro
+13In,:Johnson,13Out,:Garnacho
+14In,:Saliba,14Out,:Gabriel
+15In,,15Out,
+16In,:Akanji:Hall:Welbeck:Strand Larsen:Palmer,16Out,:Alexander-Arnold:Konsa:Solanke:João Pedro:Mbeumo
+17In,:Rashford,17Out,:Johnson
+18In,:De Bruyne,18Out,:Palmer
+11In,,11Out,
+12In,:Hall,12Out,:Pedro Porro
+13In,:Alex Moreno:Son,13Out,:Alexander-Arnold:Garnacho
+14In,:Robertson:Rogers,14Out,:Faes:Mbeumo
+15In,,15Out,
+16In,:Strand Larsen,16Out,:Raúl
+17In,,17Out,
+18In,:De Bruyne:Mac Allister,18Out,:Son:Rogers
+11In,,11Out,
+12In,,12Out,
+13In,:W.Fofana:Son,13Out,:Alexander-Arnold:Mbeumo
+14In,,14Out,
+15In,:Enes Ünal,15Out,:Raúl
+16In,:Palmer:Martinelli,16Out,:Saka:B.Fernandes
+17In,:Raúl,17Out,:Enes Ünal
+18In,:Alexander-Arnold:Gvardiol:N.Jackson:Diogo J.,18Out,:Pedro Porro:W.Fofana:Solanke:Palmer

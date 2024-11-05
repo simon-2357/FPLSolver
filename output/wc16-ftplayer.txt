@@ -1,0 +1,26 @@
+12In:Konsa
+12In:Vardy
+12In:Palmer
+12Out:Pedro Porro
+12Out:Solanke
+12Out:B.Fernandes
+16In:Andersen
+16In:Guéhi
+16In:James
+16In:Stewart
+16In:Fabianski
+16In:Eze
+16In:Son
+16Out:Faes
+16Out:Konsa
+16Out:Alexander-Arnold
+16Out:Vardy
+16Out:Bentley
+16Out:Garnacho
+16Out:Mbeumo
+19In:Pedro Porro
+19Out:Gabriel
+21In:N.Jackson
+21In:B.Fernandes
+21Out:João Pedro
+21Out:Son

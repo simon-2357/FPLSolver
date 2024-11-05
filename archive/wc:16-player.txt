@@ -1,0 +1,180 @@
+GW9GK: Bentley
+GW9GK: Raya
+GW9Def: Dunk
+GW9Def: Faes
+GW9Def: Pedro Porro
+GW9Def: Gabriel
+GW9Def: Alexander-Arnold
+GW9Mid: M.Salah
+GW9Mid: Eze
+GW9Mid: Mbeumo
+GW9Mid: B.Fernandes
+GW9Mid: Foden
+GW9Fwd: João Pedro
+GW9Fwd: Archer
+GW9Fwd: Solanke
+GW10GK: Bentley
+GW10GK: Raya
+GW10Def: Dunk
+GW10Def: Faes
+GW10Def: Pedro Porro
+GW10Def: Gabriel
+GW10Def: Alexander-Arnold
+GW10Mid: Son
+GW10Mid: M.Salah
+GW10Mid: Eze
+GW10Mid: Mbeumo
+GW10Mid: B.Fernandes
+GW10Fwd: João Pedro
+GW10Fwd: Archer
+GW10Fwd: Solanke
+GW11GK: Bentley
+GW11GK: Raya
+GW11Def: Dunk
+GW11Def: Faes
+GW11Def: Pedro Porro
+GW11Def: Gabriel
+GW11Def: Alexander-Arnold
+GW11Mid: Son
+GW11Mid: M.Salah
+GW11Mid: Eze
+GW11Mid: Mbeumo
+GW11Mid: B.Fernandes
+GW11Fwd: João Pedro
+GW11Fwd: Archer
+GW11Fwd: Solanke
+GW12GK: Bentley
+GW12GK: Raya
+GW12Def: Dunk
+GW12Def: Faes
+GW12Def: Pedro Porro
+GW12Def: Gabriel
+GW12Def: Alexander-Arnold
+GW12Mid: Son
+GW12Mid: M.Salah
+GW12Mid: Eze
+GW12Mid: Mbeumo
+GW12Mid: B.Fernandes
+GW12Fwd: João Pedro
+GW12Fwd: Archer
+GW12Fwd: Solanke
+GW13GK: Bentley
+GW13GK: Raya
+GW13Def: Dunk
+GW13Def: Faes
+GW13Def: Pedro Porro
+GW13Def: Gabriel
+GW13Def: Alexander-Arnold
+GW13Mid: Son
+GW13Mid: M.Salah
+GW13Mid: Eze
+GW13Mid: Mbeumo
+GW13Mid: B.Fernandes
+GW13Fwd: João Pedro
+GW13Fwd: Archer
+GW13Fwd: Solanke
+GW14GK: Bentley
+GW14GK: Raya
+GW14Def: Dunk
+GW14Def: Faes
+GW14Def: Pedro Porro
+GW14Def: Gabriel
+GW14Def: Alexander-Arnold
+GW14Mid: Son
+GW14Mid: M.Salah
+GW14Mid: Eze
+GW14Mid: Mbeumo
+GW14Mid: B.Fernandes
+GW14Fwd: João Pedro
+GW14Fwd: Archer
+GW14Fwd: Solanke
+GW15GK: Bentley
+GW15GK: Raya
+GW15Def: Dunk
+GW15Def: Faes
+GW15Def: Pedro Porro
+GW15Def: Gabriel
+GW15Def: Alexander-Arnold
+GW15Mid: Son
+GW15Mid: M.Salah
+GW15Mid: Eze
+GW15Mid: Mbeumo
+GW15Mid: B.Fernandes
+GW15Fwd: João Pedro
+GW15Fwd: Archer
+GW15Fwd: Solanke
+GW16GK: Bentley
+GW16GK: Raya
+GW16Def: Colwill
+GW16Def: Andersen
+GW16Def: Bednarek
+GW16Def: Pedro Porro
+GW16Def: Gabriel
+GW16Mid: Son
+GW16Mid: Palmer
+GW16Mid: M.Salah
+GW16Mid: Semenyo
+GW16Mid: Ødegaard
+GW16Fwd: João Pedro
+GW16Fwd: Raúl
+GW16Fwd: Solanke
+GW17GK: Bentley
+GW17GK: Raya
+GW17Def: Colwill
+GW17Def: Andersen
+GW17Def: Bednarek
+GW17Def: Pedro Porro
+GW17Def: Gabriel
+GW17Mid: Son
+GW17Mid: Palmer
+GW17Mid: M.Salah
+GW17Mid: Semenyo
+GW17Mid: Ødegaard
+GW17Fwd: João Pedro
+GW17Fwd: Raúl
+GW17Fwd: Solanke
+GW18GK: Bentley
+GW18GK: Raya
+GW18Def: Colwill
+GW18Def: Andersen
+GW18Def: Bednarek
+GW18Def: Pedro Porro
+GW18Def: Gabriel
+GW18Mid: Son
+GW18Mid: Palmer
+GW18Mid: M.Salah
+GW18Mid: Semenyo
+GW18Mid: Ødegaard
+GW18Fwd: João Pedro
+GW18Fwd: Raúl
+GW18Fwd: Solanke
+GW19GK: Bentley
+GW19GK: Raya
+GW19Def: Colwill
+GW19Def: Andersen
+GW19Def: Bednarek
+GW19Def: Pedro Porro
+GW19Def: Gabriel
+GW19Mid: Son
+GW19Mid: Palmer
+GW19Mid: M.Salah
+GW19Mid: Semenyo
+GW19Mid: Ødegaard
+GW19Fwd: João Pedro
+GW19Fwd: Raúl
+GW19Fwd: Solanke
+GW20GK: Bentley
+GW20GK: Raya
+GW20Def: Colwill
+GW20Def: Andersen
+GW20Def: Bednarek
+GW20Def: Pedro Porro
+GW20Def: Gabriel
+GW20Mid: Son
+GW20Mid: Palmer
+GW20Mid: M.Salah
+GW20Mid: Semenyo
+GW20Mid: Ødegaard
+GW20Fwd: João Pedro
+GW20Fwd: Raúl
+GW20Fwd: Solanke

@@ -1,0 +1,32 @@
+9In:Foden
+9Out:Saka
+10In:Son
+10Out:Foden
+12In:Andersen
+12In:Palmer
+12In:Semenyo
+12Out:Pedro Porro
+12Out:Eze
+12Out:B.Fernandes
+19In:Konsa
+19In:Guéhi
+19In:Burgess
+19In:Pedro Porro
+19In:Raúl
+19In:Watkins
+19In:Arrizabalaga
+19In:Henderson
+19In:Dibling
+19In:Eze
+19In:De Bruyne
+19Out:Dunk
+19Out:Andersen
+19Out:Faes
+19Out:Gabriel
+19Out:João Pedro
+19Out:Archer
+19Out:Bentley
+19Out:Raya
+19Out:Palmer
+19Out:Semenyo
+19Out:Mbeumo

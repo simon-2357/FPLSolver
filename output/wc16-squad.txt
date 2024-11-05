@@ -1,0 +1,120 @@
+11Squad :Bentley :Raya :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah :João Pedro :Raúl :Solanke
+GW11GK :Bentley :Raya
+GW11Def :Faes :Dunk :Pedro Porro :Gabriel :Alexander-Arnold
+GW11Mid :Garnacho :Mbeumo :B.Fernandes :Saka :M.Salah
+GW11Fwd :João Pedro :Raúl :Solanke
+11TV:99.7
+11ITB:0.0
+11Used:0
+11Carry:3
+11Hits:0
+12Squad :Bentley :Raya :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Vardy
+GW12GK :Bentley :Raya
+GW12Def :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold
+GW12Mid :Garnacho :Mbeumo :Saka :Palmer :M.Salah
+GW12Fwd :João Pedro :Raúl :Vardy
+12TV:99.7
+12ITB:0.0
+12Used:3
+12Carry:1
+12Hits:0
+13Squad :Bentley :Raya :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Vardy
+GW13GK :Bentley :Raya
+GW13Def :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold
+GW13Mid :Garnacho :Mbeumo :Saka :Palmer :M.Salah
+GW13Fwd :João Pedro :Raúl :Vardy
+13TV:99.7
+13ITB:0.0
+13Used:0
+13Carry:2
+13Hits:0
+14Squad :Bentley :Raya :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Vardy
+GW14GK :Bentley :Raya
+GW14Def :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold
+GW14Mid :Garnacho :Mbeumo :Saka :Palmer :M.Salah
+GW14Fwd :João Pedro :Raúl :Vardy
+14TV:99.7
+14ITB:0.0
+14Used:0
+14Carry:3
+14Hits:0
+15Squad :Bentley :Raya :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold :Garnacho :Mbeumo :Saka :Palmer :M.Salah :João Pedro :Raúl :Vardy
+GW15GK :Bentley :Raya
+GW15Def :Faes :Dunk :Konsa :Gabriel :Alexander-Arnold
+GW15Mid :Garnacho :Mbeumo :Saka :Palmer :M.Salah
+GW15Fwd :João Pedro :Raúl :Vardy
+15TV:99.7
+15ITB:0.0
+15Used:0
+15Carry:4
+15Hits:0
+16Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Gabriel :Eze :Son :Saka :Palmer :M.Salah :Stewart :João Pedro :Raúl
+GW16GK :Fabianski :Raya
+GW16Def :Andersen :Dunk :Guéhi :James :Gabriel
+GW16Mid :Eze :Son :Saka :Palmer :M.Salah
+GW16Fwd :Stewart :João Pedro :Raúl
+16TV:99.5
+16ITB:0.2
+16Used:7
+16Carry:4
+16Hits:0
+17Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Gabriel :Eze :Son :Saka :Palmer :M.Salah :Stewart :João Pedro :Raúl
+GW17GK :Fabianski :Raya
+GW17Def :Andersen :Dunk :Guéhi :James :Gabriel
+GW17Mid :Eze :Son :Saka :Palmer :M.Salah
+GW17Fwd :Stewart :João Pedro :Raúl
+17TV:99.5
+17ITB:0.2
+17Used:0
+17Carry:4
+17Hits:0
+18Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Gabriel :Eze :Son :Saka :Palmer :M.Salah :Stewart :João Pedro :Raúl
+GW18GK :Fabianski :Raya
+GW18Def :Andersen :Dunk :Guéhi :James :Gabriel
+GW18Mid :Eze :Son :Saka :Palmer :M.Salah
+GW18Fwd :Stewart :João Pedro :Raúl
+18TV:99.5
+18ITB:0.2
+18Used:0
+18Carry:4
+18Hits:0
+19Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Pedro Porro :Eze :Son :Saka :Palmer :M.Salah :Stewart :João Pedro :Raúl
+GW19GK :Fabianski :Raya
+GW19Def :Andersen :Dunk :Guéhi :James :Pedro Porro
+GW19Mid :Eze :Son :Saka :Palmer :M.Salah
+GW19Fwd :Stewart :João Pedro :Raúl
+19TV:98.9
+19ITB:0.8
+19Used:1
+19Carry:4
+19Hits:0
+20Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Pedro Porro :Eze :Son :Saka :Palmer :M.Salah :Stewart :João Pedro :Raúl
+GW20GK :Fabianski :Raya
+GW20Def :Andersen :Dunk :Guéhi :James :Pedro Porro
+GW20Mid :Eze :Son :Saka :Palmer :M.Salah
+GW20Fwd :Stewart :João Pedro :Raúl
+20TV:98.9
+20ITB:0.8
+20Used:0
+20Carry:4
+20Hits:0
+21Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Pedro Porro :Eze :B.Fernandes :Saka :Palmer :M.Salah :Stewart :Raúl :N.Jackson
+GW21GK :Fabianski :Raya
+GW21Def :Andersen :Dunk :Guéhi :James :Pedro Porro
+GW21Mid :Eze :B.Fernandes :Saka :Palmer :M.Salah
+GW21Fwd :Stewart :Raúl :N.Jackson
+21TV:99.7
+21ITB:0.0
+21Used:2
+21Carry:3
+21Hits:0
+22Squad :Fabianski :Raya :Andersen :Dunk :Guéhi :James :Pedro Porro :Eze :B.Fernandes :Saka :Palmer :M.Salah :Stewart :Raúl :N.Jackson
+GW22GK :Fabianski :Raya
+GW22Def :Andersen :Dunk :Guéhi :James :Pedro Porro
+GW22Mid :Eze :B.Fernandes :Saka :Palmer :M.Salah
+GW22Fwd :Stewart :Raúl :N.Jackson
+22TV:99.7
+22ITB:-0.0
+22Used:0
+22Carry:4
+22Hits:0

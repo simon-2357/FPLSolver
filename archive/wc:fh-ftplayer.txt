@@ -1,0 +1,32 @@
+9In:Pinnock
+9In:Van den Berg
+9In:Haaland
+9In:Chiwome
+9In:Calvert-Lewin
+9In:Kelleher
+9In:Ederson M.
+9In:Palmer
+9In:Mitoma
+9In:Bowen
+9In:Foden
+9Out:Gabriel
+9Out:Alexander-Arnold
+9Out:João Pedro
+9Out:Archer
+9Out:Solanke
+9Out:Bentley
+9Out:Raya
+9Out:Saka
+9Out:M.Salah
+9Out:Eze
+9Out:B.Fernandes
+9In:Burgess
+9In:Raúl
+9In:Son
+9Out:Dunk
+9Out:Archer
+9Out:Saka
+11In:Andersen
+11Out:Faes
+13In:Ødegaard
+13Out:B.Fernandes

@@ -1,0 +1,24 @@
+11In,
+11Out,
+12In,:Hall:Welbeck:Palmer
+12Out,:Pedro Porro:Solanke:B.Fernandes
+13In,
+13Out,
+14In,
+14Out,
+15In,
+15Out,
+16In,
+16Out,
+17In,:Andersen:Guéhi:James:Pedro Porro:Chiwome:N.Jackson:Fabianski:Eze:B.Fernandes
+17Out,:Faes:Hall:Gabriel:Alexander-Arnold:João Pedro:Welbeck:Bentley:Garnacho:Mbeumo
+18In,
+18Out,
+19In,:Son
+19Out,:Saka
+20In,
+20Out,
+21In,:Saka
+21Out,:Son
+22In,
+22Out,

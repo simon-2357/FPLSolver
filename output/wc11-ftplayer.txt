@@ -1,0 +1,22 @@
+11In:Andersen
+11In:Konsa
+11In:James
+11In:Chiwome
+11In:Fabianski
+11In:Son
+11Out:Faes
+11Out:Gabriel
+11Out:Alexander-Arnold
+11Out:João Pedro
+11Out:Bentley
+11Out:Garnacho
+12In:João Pedro
+12In:Palmer
+12Out:Solanke
+12Out:B.Fernandes
+18In:Eze
+18Out:Mbeumo
+21In:N.Jackson
+21In:B.Fernandes
+21Out:João Pedro
+21Out:Son

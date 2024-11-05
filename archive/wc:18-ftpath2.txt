@@ -1,0 +1,24 @@
+9In,:Foden
+9Out,:Saka
+10In,:Son
+10Out,:Foden
+11In,
+11Out,
+12In,:Konsa:Andersen:Palmer
+12Out,:Faes:Alexander-Arnold:B.Fernandes
+13In,
+13Out,
+14In,
+14Out,
+15In,
+15Out,
+16In,
+16Out,
+17In,
+17Out,
+18In,:Colwill:Burgess:Alexander-Arnold:Raúl:Arrizabalaga:Henderson:Ødegaard:De Bruyne
+18Out,:Konsa:Dunk:Gabriel:Archer:Bentley:Raya:Palmer:Mbeumo
+19In,
+19Out,
+20In,
+20Out,
